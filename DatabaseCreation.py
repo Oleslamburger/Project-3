@@ -205,11 +205,11 @@ with open(csvpath, encoding='UTF-8') as csvfile:
     header = next(csvreader)
     for row in csvreader:
         #get attributes as they relate to table headers in the Ratings and Vehicles tables
-        if row[0]=='Acura' or row[0]=='Buick' or row[0]=='Honda' or row[0]=='Kia' or row[0]=='Lincoln' or row[0]=='Nissan' or row[0]=='Smart' or row[0]=='Volvo': 
-            base_model = (row[1]).split(' ')[0]
+        if row[0]=='Acura' or row[0]=='Honda' or row[0]=='Kia' or row[0]=='Nissan' or row[0]=='Volvo': 
+            base_model = (row[1]).split(' ')[0].upper()
             ymm = str(row[2])+row[0]+row[1]
-            model = row[1]
-            make = row[0]
+            model = row[1].upper()
+            make = row[0].upper()
             year = row[2]
             overall_rating = row[3]
             frontal_crash = row[4]
@@ -221,23 +221,23 @@ with open(csvpath, encoding='UTF-8') as csvfile:
 
         #get names of vehicles where models only occupy the first word of a string
             
-        elif row[0] =='Audi' or row[0] or row[0]=='Jeep' or row[0] == 'Hyundai' or row[0] == 'Volkswagen' or row[0] == 'Dodge' or row[0] =='Chyrsler':
+        elif row[0]=='Jeep' or row[0] == 'Hyundai' or row[0] == 'Volkswagen':
             ymm = str(row[2])+row[0]+row[1]
-            model = row[1]
-            make = row[0]
+            model = row[1].upper()
+            make = row[0].upper()
             year = row[2]
             overall_rating = row[3]
             frontal_crash = row[4]
             side_crash = row[5]
             rollover = row[6]
             safety_concerns = row[7]
-            base_model_pattern = re.compile(r'(.*?\b(?:(Allroad|Avant|Sportback|Cherokee|Fe|R|GTI|GLI|Sportwagen|Sport|Caravan|Country))\b)')
+            base_model_pattern = re.compile(r'(.*?\b(?:(Cherokee|Fe|R|GTI|GLI|Sportwagen|Sport))\b)')
             match = base_model_pattern.search(row[1])
             if match:
-                base_model = str(match.group())
+                base_model = str(match.group()).upper()
             else:
-                base_model = row[1].split(' ')[0]
-        year_make_model = str(row[2])+row[0]+base_model.replace(" ","")
+                base_model = row[1].split(' ')[0].upper()
+        year_make_model = str(row[2])+row[0].upper()+base_model.replace(" ","")
         #Insert values directly into Ratings
         
         insertRatings = '''INSERT OR IGNORE INTO Ratings (ymm,year_make_model, make, model, base_model, model_year, overall_rating, frontal_crash,
