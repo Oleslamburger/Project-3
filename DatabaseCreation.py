@@ -139,3 +139,225 @@ df = df.iloc[:,[6,7,5,0,1,2,3,4]]
 
 # convert df to csv file
 df.to_csv('nhtsa_safety_ratings.csv', index = False)
+
+### DATABASE CREATION DATA TABLE SETUP # Tanner
+# Import Modules
+import sqlite3
+import requests
+import json
+import csv 
+import os
+import re
+
+#Create connection
+
+connection = sqlite3.connect('NHTSA.db')
+cursor = connection.cursor()
+
+#Use this to delete tables if needed
+
+# cursor.execute("DROP TABLE IF EXISTS Ratings")
+# cursor.execute("DROP TABLE IF EXISTS Recalls")
+# cursor.execute("DROP TABLE IF EXISTS Complaints")
+# cursor.execute("DROP TABLE IF EXISTS Vehicles")
+
+#Create tables for Sqlite database
+
+# Create Ratings Table
+
+Table1= """CREATE TABLE IF NOT EXISTS
+Ratings(ymm STRING PRIMARY KEY,year_make_model STRING, make STRING ,model STRING ,model_year INTEGER, base_model STRING, overall_rating INTEGER,
+frontal_crash INTEGER, side_crash INTEGER, rollover INTEGER, safety_concerns STRING)"""
+
+#Create Recalls Table
+
+Table2="""CREATE TABLE IF NOT EXISTS
+Recalls(year_make_model STRING, manufacturer STRING, make STRING ,base_model STRING, model_year INTEGER, NHTSTA_campaign_number STRING,
+parkIt BOOLEAN, parkOutside BOOLEAN, NHTSA_action_number STRING,report_received_date DATE, component STRING, summary STRING,
+consequence STRING, remedy STRING, notes STRING)"""
+
+#Create Complaints Table
+
+Table3="""CREATE TABLE IF NOT EXISTS
+Complaints(year_make_model STRING, manufacturer STRING, make STRING ,base_model STRING, model_year INTEGER, type STRING,
+ODI_number INTEGER, crash BOOLEAN, fire BOOLEAN, number_of_injuries INTEGER, number_of_deaths INTEGER, date_of_incident DATE,
+date_complaint_filed DATE, vin STRING, components STRING, summary STRING)"""
+
+#Create Vehicles Table
+
+Table4="""CREATE TABLE IF NOT EXISTS
+Vehicles(year_make_model STRING PRIMARY KEY, make STRING, base_model STRING, model_year INTEGER)"""
+
+# Execute the variables above
+
+cursor.execute(Table1)
+cursor.execute(Table2)
+cursor.execute(Table3)
+cursor.execute(Table4)
+
+#create csv path to NHTSA Ratings web scrape
+
+csvpath = os.path.join(".", "nhtsa_safety_ratings.csv")
+
+#Loop through the NHTSA CSV and create Vehicles table and Ratings table
+with open(csvpath, encoding='UTF-8') as csvfile:
+    csvreader = csv.reader(csvfile, delimiter=",")
+    header = next(csvreader)
+    for row in csvreader:
+        #get attributes as they relate to table headers in the Ratings and Vehicles tables
+        if row[0]=='Acura' or row[0]=='Buick' or row[0]=='Honda' or row[0]=='Kia' or row[0]=='Lincoln' or row[0]=='Nissan' or row[0]=='Smart' or row[0]=='Volvo': 
+            base_model = (row[1]).split(' ')[0]
+            ymm = str(row[2])+row[0]+row[1]
+            model = row[1]
+            make = row[0]
+            year = row[2]
+            overall_rating = row[3]
+            frontal_crash = row[4]
+            side_crash = row[5]
+            rollover = row[6]
+            safety_concerns = row[7]
+
+        ##### Use Regex to get models with unique naming conventions
+
+        #get names of vehicles where models only occupy the first word of a string
+            
+        elif row[0] =='Audi' or row[0] or row[0]=='Jeep' or row[0] == 'Hyundai' or row[0] == 'Volkswagen' or row[0] == 'Dodge' or row[0] =='Chyrsler':
+            ymm = str(row[2])+row[0]+row[1]
+            model = row[1]
+            make = row[0]
+            year = row[2]
+            overall_rating = row[3]
+            frontal_crash = row[4]
+            side_crash = row[5]
+            rollover = row[6]
+            safety_concerns = row[7]
+            base_model_pattern = re.compile(r'(.*?\b(?:(Allroad|Avant|Sportback|Cherokee|Fe|R|GTI|GLI|Sportwagen|Sport|Caravan|Country))\b)')
+            match = base_model_pattern.search(row[1])
+            if match:
+                base_model = str(match.group())
+            else:
+                base_model = row[1].split(' ')[0]
+        year_make_model = str(row[2])+row[0]+base_model.replace(" ","")
+        #Insert values directly into Ratings
+        
+        insertRatings = '''INSERT OR IGNORE INTO Ratings (ymm,year_make_model, make, model, base_model, model_year, overall_rating, frontal_crash,
+                            side_crash, rollover, safety_concerns) VALUES (?,?,?,?,?,?,?,?,?,?,?)'''
+        valuesRatings = (ymm, year_make_model, make, model, base_model, year, overall_rating, frontal_crash, side_crash, rollover, safety_concerns)
+        cursor.execute(insertRatings,valuesRatings)
+        #Insert only unique values into Vehicles
+        
+        insertVehicles = '''INSERT OR IGNORE INTO Vehicles (year_make_model,make,base_model,model_year) VALUES (?,?,?,?)'''
+        valuesVehicles = (year_make_model, make, base_model, year)
+        cursor.execute(insertVehicles,valuesVehicles)
+        #commit changes
+        connection.commit()
+
+
+#delete brands from db that have not been properly cleaned yet
+
+cursor.execute("DELETE FROM Ratings WHERE make IN ('BMW', 'Cadillac', 'Ford', 'GMC', 'Lexus', 'Mercedes-Benz', 'Subaru', 'Tesla', 'Toyota')")
+cursor.execute("DELETE FROM Vehicles WHERE make IN ('BMW', 'Cadillac', 'Ford', 'GMC', 'Lexus', 'Mercedes-Benz', 'Subaru', 'Tesla', 'Toyota')")
+connection.commit()
+
+#Query into Vehciles to get makes and models to loop through
+
+cursor.execute("SELECT * FROM Vehicles")
+recallsrows = cursor.fetchall()
+recallsrows = list(set(recallsrows))
+
+#Loop through makes and models to dump into NHTSA recalls URL
+
+for row in recallsrows:
+    APImake = row[1]
+    APImodel = row[2]
+    APIyear = row[3]
+    recalls_url = f'https://api.nhtsa.gov/recalls/recallsByVehicle?make={APImake}&model={APImodel}&modelYear={APIyear}'
+    response = requests.get(recalls_url).json()
+
+#if the API call has data, loop through it and grab the information
+
+    if response['Count'] > 0:
+        records = response['results']
+        for record in records:
+            manufacturer = record.get('Manufacturer','N/A')
+            NHTSACampainNumber = record.get('NHTSACampaignNumber','N/A')
+            parkIT = record.get('parkIt', 'N/A')
+            parkOutSide = record.get('parkOutSide', 'N/A')
+            NHTSAActionNumber = record.get('NHTSAActionNumber', 'N/A')
+            ReportReceivedDate = record.get('ReportReceivedDate','N/A')
+            Component = record.get('Component', 'N/A')
+            Summary = record.get('Summary','N/A')
+            Consequence = record.get('Consequence', 'N/A')
+            Remedy = record.get('Remedy','N/A')
+            Notes = record.get('Notes','N/A')
+            ModelYear = record.get('ModelYear','N/A')
+            Make = record.get('Make','N/A')
+            Model = record.get('Model','N/A')
+            year_make_model_recalls = ModelYear+Make+Model
+
+            #Prep data to insert into the recalls database
+
+            insertRecalls = '''INSERT OR IGNORE INTO Recalls (year_make_model, manufacturer, make,base_model, model_year,
+                            NHTSTA_campaign_number, parkIt, parkOutside, NHTSA_action_number,report_received_date, 
+                             component, summary, consequence, remedy, notes) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)'''
+            valuesRecalls = (year_make_model_recalls, manufacturer,Make,Model, ModelYear, NHTSACampainNumber, parkIT, parkOutSide,
+                             NHTSAActionNumber ,ReportReceivedDate, Component, Summary, Consequence, Remedy, Notes)
+            
+#enter the data into the recalls table and commit the changes
+            
+            cursor.execute(insertRecalls, valuesRecalls)
+            connection.commit()
+
+#Query into Vehciles to get makes and models to loop through
+
+cursor.execute("SELECT * FROM Vehicles")
+vehiclesrows = cursor.fetchall()
+vehiclesrows = list(set(vehiclesrows))
+
+#Loop through makes and models to dump into NHTSA complaints URL
+for row in vehiclesrows:
+    APImake = row[1]
+    APImodel = row[2]
+    APIyear = row[3]
+    complaints_url = f'https://api.nhtsa.gov/complaints/complaintsByVehicle?make={APImake}&model={APImodel}&modelYear={APIyear}'
+    response = requests.get(complaints_url).json()
+    
+    #if the API call has data, loop through it and grab the information
+
+    if response['count'] > 0:
+        records = response['results']
+        for record in records:
+            odiNumber = record['odiNumber']
+            manufacturer = record['manufacturer']
+            crash = record['crash']
+            fire = record['fire']
+            numberOfInjuries = record['numberOfInjuries']
+            numberOfDeaths = record['numberOfDeaths']
+            dateOfIncident = record['dateOfIncident']
+            dateComplaintFiled = record['dateComplaintFiled']
+            vin = record['vin']
+            components = record['components']
+            summary = record['summary']
+            product_type = record['products'][0]['type']
+            product_Year = record['products'][0]['productYear']
+            product_Make = record['products'][0]['productMake']
+            product_Model = record['products'][0]['productModel']
+            year_make_model_complaints = product_Year+product_Make+product_Model
+
+            #Prep data to insert into the complaints database
+
+            insertComplaints = '''INSERT INTO Complaints (year_make_model, manufacturer, make,base_model, model_year, type, ODI_number, crash,
+            fire, number_of_injuries, number_of_deaths, date_of_incident, date_complaint_filed, vin, components, summary) VALUES 
+            (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) '''
+            valuesComplaints = (year_make_model_complaints, manufacturer, product_Make,product_Model, product_Year, product_type, odiNumber, crash,
+            fire, numberOfInjuries, numberOfDeaths, dateOfIncident, dateComplaintFiled, vin, components, summary)
+
+            cursor.execute("")
+
+            #enter the data into the complaints table and commit the changes
+
+            cursor.execute(insertComplaints,valuesComplaints)
+            connection.commit()
+
+#close off the connection
+connection.close()
