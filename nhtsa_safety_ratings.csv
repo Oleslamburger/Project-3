@@ -1,0 +1,3747 @@
+make,model,year,overall_rating,frontal_crash,side_crash,rollover,safety_concern
+Acura,MDX SUV AWD,2011,4.3,4,4,5,True
+Acura,ZDX SUV AWD,2011,4.3,4,5,4,False
+Acura,ILX 4 DR FWD,2018,4.3,4,5,4,False
+Acura,MDX SUV FWD,2018,4.7,5,5,4,False
+Acura,MDX SUV AWD,2018,4.7,5,5,4,False
+Acura,RLX 4 DR FWD,2018,5.0,5,5,5,False
+Acura,ZDX SUV 4WD,2012,4.3,4,5,4,False
+Acura,RLX 4 DR FWD,2015,5.0,5,5,5,False
+Acura,RDX SUV FWD,2015,4.7,5,5,4,False
+Acura,RDX SUV AWD,2015,4.7,5,5,4,False
+Acura,ZDX SUV 4WD,2013,4.3,4,5,4,False
+Acura,TLX 4 DR FWD,2015,5.0,5,5,5,False
+Acura,TLX 4 DR AWD,2015,5.0,5,5,5,False
+Acura,ILX 4 DR FWD,2015,4.3,4,5,4,False
+Acura,MDX SUV FWD,2015,4.7,5,5,4,False
+Acura,MDX SUV AWD,2015,4.7,5,5,4,False
+Acura,RLX 4 DR FWD,2016,5.0,5,5,5,False
+Acura,MDX SUV AWD,2016,4.7,5,5,4,False
+Acura,MDX SUV FWD,2016,4.7,5,5,4,False
+Acura,ILX 4 DR FWD,2016,4.3,4,5,4,False
+Acura,RDX SUV FWD,2016,4.7,5,5,4,False
+Acura,RDX SUV AWD,2016,4.7,5,5,4,False
+Acura,ILX 4 DR FWD,2013,4.3,4,5,4,False
+Acura,ILX Hybrid 4 DR FWD,2013,4.3,4,5,4,False
+Acura,TLX 4 DR AWD,2016,5.0,5,5,5,False
+Acura,TLX 4 DR FWD,2016,5.0,5,5,5,False
+Acura,ILX 4 DR FWD,2014,4.3,4,5,4,False
+Acura,ILX Hybrid 4 DR FWD,2014,4.3,4,5,4,False
+Acura,MDX SUV FWD,2014,4.7,5,5,4,False
+Acura,MDX SUV AWD,2014,4.7,5,5,4,False
+Acura,RDX SUV FWD,2014,4.7,5,5,4,False
+Acura,RDX SUV AWD,2014,4.7,5,5,4,False
+Acura,MDX SUV AWD,2017,4.7,5,5,4,False
+Acura,MDX SUV FWD,2017,4.7,5,5,4,False
+Acura,ILX 4 DR FWD,2017,4.3,4,5,4,False
+Acura,RDX SUV FWD,2017,4.7,5,5,4,False
+Acura,RDX SUV AWD,2017,4.7,5,5,4,False
+Acura,TLX 4 DR AWD,2017,5.0,5,5,5,False
+Acura,TLX 4 DR FWD,2017,5.0,5,5,5,False
+Acura,RLX 4 DR FWD,2017,5.0,5,5,5,False
+Acura,MDX Sport Hybrid SUV AWD,2017,4.7,5,5,4,False
+Acura,MDX Sport Hybrid SUV AWD,2018,4.7,5,5,4,False
+Acura,RLX 4 DR FWD,2019,5.0,5,5,5,False
+Acura,TLX 4 DR FWD,2019,5.0,5,5,5,False
+Acura,TLX 4 DR AWD,2019,5.0,5,5,5,False
+Acura,RDX 4 DR FWD,2019,4.3,4,5,4,False
+Acura,RDX 4 DR AWD,2019,4.3,4,5,4,False
+Acura,RDX SUV FWD,2018,4.7,5,5,4,False
+Acura,RDX SUV AWD,2018,4.7,5,5,4,False
+Acura,TLX 4 DR AWD,2018,5.0,5,5,5,False
+Acura,TLX 4 DR FWD,2018,5.0,5,5,5,False
+Acura,ILX 4 DR FWD,2020,4.3,4,5,4,False
+Acura,MDX SUV FWD,2019,4.7,5,5,4,False
+Acura,MDX SUV AWD,2019,4.7,5,5,4,False
+Acura,MDX Sport Hybrid SUV AWD,2019,4.7,5,5,4,False
+Acura,TLX 4 DR FWD,2020,5.0,5,5,5,False
+Acura,TLX 4 DR AWD,2020,5.0,5,5,5,False
+Acura,RDX SUV FWD,2020,4.3,4,5,4,False
+Acura,RLX 4 DR FWD,2020,5.0,5,5,5,False
+Acura,RDX SUV AWD,2020,4.3,4,5,4,False
+Acura,ILX 4 DR FWD,2019,4.3,4,5,4,False
+Acura,MDX SUV FWD,2020,4.7,5,5,4,False
+Acura,MDX SPORT HYBRID SUV AWD,2020,4.7,5,5,4,False
+Acura,MDX SUV AWD,2020,4.7,5,5,4,False
+Acura,ILX Hybrid 4 DR FWD,2015,4.3,4,5,4,False
+Acura,RDX SUV AWD,2021,4.3,4,5,4,False
+Acura,RDX SUV FWD,2021,4.3,4,5,4,False
+Acura,RDX SUV FWD,2022,4.3,4,5,4,False
+Acura,RDX SUV AWD,2022,4.3,4,5,4,False
+Acura,MDX SUV FWD,2022,4.3,4,5,4,False
+Acura,ILX 4 DR FWD,2021,4.3,4,5,4,False
+Acura,TLX 4 DR FWD,2021,5.0,5,5,5,False
+Acura,TLX 4 DR AWD,2021,5.0,5,5,5,False
+Acura,MDX SUV FWD,2023,4.3,4,5,4,False
+Acura,ILX 4 DR FWD,2022,4.3,4,5,4,False
+Acura,RDX SUV FWD,2023,4.3,4,5,4,False
+Acura,RDX SUV AWD,2023,4.3,4,5,4,False
+Acura,TLX 4 DR FWD,2023,5.0,5,5,5,False
+Acura,TLX 4 DR AWD,2023,5.0,5,5,5,False
+Acura,INTEGRA 5 HB FWD,2023,5.0,5,5,5,False
+Acura,TLX 4 DR FWD,2022,5.0,5,5,5,False
+Acura,TLX 4 DR AWD,2022,5.0,5,5,5,False
+Acura,INTEGRA 5 HB FWD,2024,5.0,5,5,5,False
+Acura,MDX SUV FWD,2024,4.3,4,5,4,False
+Acura,RDX SUV FWD,2024,4.3,4,5,4,False
+Acura,RDX SUV AWD,2024,4.3,4,5,4,False
+Acura,TLX 4 DR FWD,2024,5.0,5,5,5,False
+Acura,TLX 4 DR AWD,2024,5.0,5,5,5,False
+Acura,MDX SUV 4WD,2012,4.3,4,5,4,False
+Acura,TL 4 DR 4WD Later Release,2012,4.3,4,4,5,False
+Acura,TL 4 DR FWD Later Release,2012,4.3,4,4,5,False
+Acura,MDX SUV 4WD,2013,4.3,4,5,4,False
+Acura,TL 4 DR FWD,2013,4.3,4,4,5,False
+Acura,TL 4 DR 4WD,2013,4.3,4,4,5,False
+Acura,TL 4 DR FWD,2014,4.3,4,4,5,False
+Acura,TL 4 DR 4WD,2014,4.3,4,4,5,False
+Acura,TL 4 DR FWD Early Release,2012,3.7,2,4,5,False
+Acura,TL 4 DR 4WD Early Release,2012,3.7,2,4,5,False
+Audi,A4 4 DR AWD,2013,5.0,5,5,5,False
+Audi,A4 4 DR FWD,2013,5.0,5,5,5,False
+Audi,S4 4 DR AWD,2013,5.0,5,5,5,False
+Audi,A3 4 DR AWD,2015,4.3,4,5,4,False
+Audi,A3 4 DR FWD,2015,4.3,4,5,4,False
+Audi,S3 4 DR AWD,2015,4.3,4,5,4,False
+Audi,A4 4 DR FWD,2015,5.0,5,5,5,False
+Audi,A4 4 DR AWD,2015,5.0,5,5,5,False
+Audi,S4 4 DR AWD,2015,5.0,5,5,5,False
+Audi,Allroad SW AWD,2015,4.7,5,5,4,False
+Audi,A6 4 DR FWD,2015,5.0,5,5,5,False
+Audi,A6 4 DR AWD,2015,5.0,5,5,5,False
+Audi,S6 4 DR AWD,2015,5.0,5,5,5,False
+Audi,A3 4 DR AWD,2016,4.3,4,5,4,False
+Audi,A3 4 DR FWD,2016,4.3,4,5,4,False
+Audi,Allroad SW AWD,2016,4.7,5,5,4,False
+Audi,A4 4 DR AWD,2016,5.0,5,5,5,False
+Audi,A4 4 DR FWD,2016,5.0,5,5,5,False
+Audi,S3 4 DR AWD,2016,4.3,4,5,4,False
+Audi,S4 4 DR AWD,2016,5.0,5,5,5,False
+Audi,A6 4 DR AWD,2016,5.0,5,5,5,False
+Audi,A6 4 DR FWD,2016,5.0,5,5,5,False
+Audi,S6 4 DR AWD,2016,5.0,5,5,5,False
+Audi,S6 4 DR AWD,2014,5.0,5,5,5,False
+Audi,Allroad SW AWD,2014,4.7,5,5,4,False
+Audi,A6 4 DR AWD,2014,5.0,5,5,5,False
+Audi,A6 4 DR FWD,2014,5.0,5,5,5,False
+Audi,A4 4 DR AWD,2014,5.0,5,5,5,False
+Audi,A4 4 DR FWD,2014,5.0,5,5,5,False
+Audi,S4 4 DR AWD,2014,5.0,5,5,5,False
+Audi,A3 4 DR AWD,2017,4.3,4,5,4,False
+Audi,A3 4 DR FWD,2017,4.3,4,5,4,False
+Audi,S3 4 DR AWD,2017,4.3,4,5,4,False
+Audi,A6 4 DR FWD,2017,5.0,5,5,5,False
+Audi,A6 4 DR AWD,2017,5.0,5,5,5,False
+Audi,S6 4 DR AWD,2017,5.0,5,5,5,False
+Audi,A4 4 DR AWD,2017,4.7,4,5,5,False
+Audi,A4 4 DR FWD,2017,4.7,4,5,5,False
+Audi,A5 Sportback 4 DR AWD,2018,4.7,4,5,5,False
+Audi,Q5 SUV AWD Early Release,2018,4.7,5,5,4,False
+Audi,Q7 SUV AWD,2018,4.3,4,5,4,False
+Audi,A3 4 DR AWD,2018,4.3,4,5,4,False
+Audi,A3 4 DR FWD,2018,4.3,4,5,4,False
+Audi,S3 4 DR AWD,2018,4.3,4,5,4,False
+Audi,A4 4 DR FWD,2018,4.7,4,5,5,False
+Audi,A4 4 DR AWD,2018,4.7,4,5,5,False
+Audi,A6 4 DR AWD,2018,5.0,5,5,5,False
+Audi,A6 4 DR FWD,2018,5.0,5,5,5,False
+Audi,S6 4 DR AWD,2018,5.0,5,5,5,False
+Audi,Q5 SUV AWD Later Release,2018,4.7,5,5,4,False
+Audi,A3 4 DR FWD,2020,4.3,4,5,4,False
+Audi,S3 4 DR AWD,2020,4.3,4,5,4,False
+Audi,A4 4 DR FWD,2020,4.7,4,5,5,False
+Audi,A5 Sportback 4 DR AWD,2020,4.7,4,5,5,False
+Audi,A6 allroad SW AWD,2020,4.7,4,5,5,False
+Audi,A6 4 DR FWD,2020,4.7,4,5,5,False
+Audi,Q3 SUV AWD,2020,4.3,4,5,4,False
+Audi,e-tron SUV AWD,2019,4.7,4,5,5,False
+Audi,Q5 SUV AWD,2020,4.7,5,5,4,False
+Audi,Q8 SUV AWD,2020,4.7,5,5,4,False
+Audi,e-tron SUV AWD,2020,4.7,4,5,5,False
+Audi,e-tron Sportback SUV AWD,2020,4.7,4,5,5,False
+Audi,A3 4 DR AWD,2020,4.3,4,5,4,False
+Audi,A4 4 DR AWD,2020,4.7,4,5,5,False
+Audi,A6 4 DR AWD,2020,4.7,4,5,5,False
+Audi,A4 4 DR AWD,2019,4.7,4,5,5,False
+Audi,A4 4 DR FWD,2019,4.7,4,5,5,False
+Audi,A5 Sportback 4 DR AWD,2019,4.7,4,5,5,False
+Audi,A6 4 DR FWD,2019,4.7,4,5,5,False
+Audi,A6 4 DR AWD,2019,4.7,4,5,5,False
+Audi,Q3 SUV AWD,2019,4.3,4,5,4,False
+Audi,Q5 SUV AWD,2019,4.7,5,5,4,False
+Audi,Q7 SUV AWD,2019,4.3,4,5,4,False
+Audi,Q8 SUV AWD,2019,4.7,5,5,4,False
+Audi,A3 4 DR FWD,2019,4.3,4,5,4,False
+Audi,A3 4 DR AWD,2019,4.3,4,5,4,False
+Audi,S3 4 DR AWD,2019,4.3,4,5,4,False
+Audi,A4 4 DR AWD,2021,4.7,4,5,5,False
+Audi,A5 Sportback 4 DR AWD,2021,4.7,4,5,5,False
+Audi,A6 allroad SW AWD,2021,4.7,4,5,5,False
+Audi,A6 4 DR AWD,2021,4.7,4,5,5,False
+Audi,e-tron SUV AWD,2021,4.7,4,5,5,False
+Audi,e-tron Sportback SUV AWD,2021,4.7,4,5,5,False
+Audi,Q3 SUV AWD,2021,4.3,4,5,4,False
+Audi,Q8 SUV AWD,2021,4.7,5,5,4,False
+Audi,Q5 SUV AWD,2021,4.7,5,5,4,False
+Audi,A6 (With Rear Seat SABs) 4 DR AWD,2020,4.7,4,5,5,False
+Audi,A6 (With Rear Seat SABs) 4 DR FWD,2020,4.7,4,5,5,False
+Audi,A6 (With Rear Seat SABs) 4 DR AWD,2021,4.7,4,5,5,False
+Audi,Q5 Sportback SUV AWD,2021,4.7,5,5,4,False
+Audi,Audi A4 4 DR AWD,2022,4.7,4,5,5,False
+Audi,Audi A5 Sportback 4 DR AWD,2022,4.7,4,5,5,False
+Audi,Audi A6 4 DR AWD,2022,4.7,4,5,5,False
+Audi,Audi e-tron SUV AWD,2022,4.7,4,5,5,False
+Audi,Audi e-tron Sportback SUV AWD,2022,4.7,4,5,5,False
+Audi,Audi Q4 Sportback e-tron SUV AWD,2022,4.3,4,5,4,False
+Audi,Audi Q4 e-tron SUV AWD,2022,4.3,4,5,4,False
+Audi,Audi A6 allroad SW AWD,2023,4.7,4,5,5,False
+Audi,Audi A6 Sedan 4 DR AWD,2023,4.7,4,5,5,False
+Audi,Audi e-tron SUV AWD,2023,4.7,4,5,5,False
+Audi,Audi e-tron Sportback SUV AWD,2023,4.7,4,5,5,False
+Audi,Audi Q4 e-tron SUV AWD,2023,4.3,4,5,4,False
+Audi,Audi Q5 Sportback SUV AWD,2023,4.7,5,5,4,False
+Audi,Audi Q4 Sportback e-tron SUV AWD,2023,4.3,4,5,4,False
+Audi,Audi A5 Sportback 4 DR AWD,2023,4.7,4,5,5,False
+Audi,Audi A6 allroad SW AWD,2022,4.7,4,5,5,False
+Audi,Audi A4 4 DR AWD,2023,4.7,4,5,5,False
+Audi,Audi Q3 SUV AWD,2023,4.3,4,5,4,False
+Audi,Audi Q5 SUV AWD,2023,4.7,5,5,4,False
+Audi,Audi Q7 SUV AWD,2023,4.3,4,5,4,False
+Audi,Audi Q8 SUV AWD,2023,4.7,5,5,4,False
+Audi,Audi Q3 SUV AWD,2022,4.3,4,5,4,False
+Audi,Audi Q5 SUV AWD,2022,4.7,5,5,4,False
+Audi,Audi Q5 Sportback SUV AWD,2022,4.7,5,5,4,False
+Audi,A4 4 DR AWD,2024,4.7,4,5,5,False
+Audi,A5 Sportback 4 DR AWD,2024,4.7,4,5,5,False
+Audi,A6 allroad SW AWD,2024,4.7,4,5,5,False
+Audi,A6 Sedan 4 DR AWD,2024,4.7,4,5,5,False
+Audi,Q3 SUV AWD,2024,4.3,4,5,4,False
+Audi,Q4 e-tron SUV AWD,2024,4.3,4,5,4,False
+Audi,Q4 Sportback e-tron SUV AWD,2024,4.3,4,5,4,False
+Audi,Q5 SUV AWD,2024,4.7,5,5,4,False
+Audi,Q5 Sportback SUV AWD,2024,4.7,5,5,4,False
+Audi,Q7 SUV AWD,2024,4.3,4,5,4,False
+Audi,Q8 SUV AWD,2024,4.7,5,5,4,False
+Audi,Q8 e-tron SUV AWD,2024,4.7,4,5,5,False
+Audi,Q8 Sportback e-tron SUV AWD,2024,4.7,4,5,5,False
+Audi,A4 4 DR FWD,2011,4.7,4,5,5,False
+Audi,A4 Avant SW AWD,2011,4.7,4,5,5,False
+Audi,S4 Avant SW AWD,2011,4.7,4,5,5,False
+Audi,A4 4 DR AWD,2011,4.7,4,5,5,False
+Audi,S4 4 DR AWD,2011,4.7,4,5,5,False
+Audi,A4 4 DR FWD,2012,4.7,4,5,5,False
+Audi,A4 Avant SW AWD,2012,4.7,4,5,5,False
+Audi,A4 4 DR AWD,2012,4.7,4,5,5,False
+Audi,S4 4 DR AWD,2012,4.7,4,5,5,False
+Audi,Q5 SUV AWD,2015,4.3,4,5,4,False
+Audi,SQ5 SUV AWD,2015,4.3,4,5,4,False
+Audi,Q5 HEV SUV AWD,2015,4.3,4,5,4,False
+Audi,Q5 SUV AWD,2016,4.3,4,5,4,False
+Audi,Q5 HEV SUV AWD,2016,4.3,4,5,4,False
+Audi,SQ5 SUV AWD,2016,4.3,4,5,4,False
+Audi,SQ5 SUV AWD,2014,4.3,4,5,4,False
+Audi,Q5 SUV AWD,2014,4.3,4,5,4,False
+Audi,Q5 HEV SUV AWD,2014,4.3,4,5,4,False
+Audi,Q5 SUV AWD,2017,4.3,4,5,4,False
+Audi,SQ5 SUV AWD,2017,4.3,4,5,4,False
+BMW,535 I Xdrive GT 4 DR 4WD,2011,4.7,4,5,5,False
+BMW,535 I Xdrive 4 DR 4WD,2011,4.7,4,5,5,False
+BMW,550 I Xdrive GT 4 DR 4WD,2011,4.7,4,5,5,False
+BMW,550 I Xdrive 4 DR 4WD,2011,4.7,4,5,5,False
+BMW,528 I 4 DR RWD,2011,4.7,4,5,5,False
+BMW,535 I GT 4 DR RWD,2011,4.7,4,5,5,False
+BMW,535 I 4 DR RWD,2011,4.7,4,5,5,False
+BMW,550 I GT 4 DR RWD,2011,4.7,4,5,5,False
+BMW,550 I 4 DR RWD,2011,4.7,4,5,5,False
+BMW,535 I 4 DR AWD,2011,4.7,4,5,5,False
+BMW,328 I 4 DR RWD,2012,4.7,4,5,5,False
+BMW,335 I 4 DR RWD,2012,4.7,4,5,5,False
+BMW,528 I 4 DR RWD,2012,4.7,4,5,5,False
+BMW,528 XI 4 DR AWD,2012,4.7,4,5,5,False
+BMW,535 I 4 DR RWD,2012,4.7,4,5,5,False
+BMW,535 I Xdrive 4 DR AWD,2012,4.7,4,5,5,False
+BMW,550 I 4 DR RWD,2012,4.7,4,5,5,False
+BMW,550 I Xdrive 4 DR AWD,2012,4.7,4,5,5,False
+BMW,535 I GT 4 DR RWD,2012,4.7,4,5,5,False
+BMW,535 I Xdrive GT 4 DR AWD,2012,4.7,4,5,5,False
+BMW,550 I GT 4 DR RWD,2012,4.7,4,5,5,False
+BMW,550 I Xdrive GT 4 DR AWD,2012,4.7,4,5,5,False
+BMW,Active Hybrid 3 4 DR RWD,2014,4.7,4,5,5,False
+BMW,Active Hybrid 535 I 4 DR RWD,2014,4.7,4,5,5,False
+BMW,528 I 4 DR RWD,2014,4.7,4,5,5,False
+BMW,528 I Xdrive 4 DR AWD,2014,4.7,4,5,5,False
+BMW,535 I 4 DR RWD,2014,4.7,4,5,5,False
+BMW,535 I GT 4 DR RWD,2014,4.7,4,5,5,False
+BMW,535 I Xdrive 4 DR AWD,2014,4.7,4,5,5,False
+BMW,535 I Xdrive GT 4 DR AWD,2014,4.7,4,5,5,False
+BMW,550 I 4 DR RWD,2014,4.7,4,5,5,False
+BMW,550 I GT 4 DR RWD,2014,4.7,4,5,5,False
+BMW,550 I Xdrive 4 DR AWD,2014,4.7,4,5,5,False
+BMW,550 I Xdrive GT 4 DR AWD,2014,4.7,4,5,5,False
+BMW,X3 Sdrive28I SUV RWD,2015,4.7,5,5,4,False
+BMW,X3 Xdrive28D SUV AWD,2015,4.7,5,5,4,False
+BMW,X3 Xdrive28I SUV AWD,2015,4.7,5,5,4,False
+BMW,X3 Xdrive35I SUV AWD,2015,4.7,5,5,4,False
+BMW,X5 Sdrive35I SUV RWD,2015,4.7,5,5,4,False
+BMW,X5 Xdrive35D SUV AWD,2015,4.7,5,5,4,False
+BMW,X5 Xdrive35I SUV AWD,2015,4.7,5,5,4,False
+BMW,X5 Xdrive50I SUV AWD,2015,4.7,5,5,4,False
+BMW,320I 4 DR RWD,2015,4.7,4,5,5,False
+BMW,320I Xdrive 4 DR AWD,2015,4.7,4,5,5,False
+BMW,328D 4 DR RWD,2015,4.7,4,5,5,False
+BMW,328D Xdrive 4 DR AWD,2015,4.7,4,5,5,False
+BMW,328 I 4 DR RWD,2015,4.7,4,5,5,False
+BMW,328 I Xdrive 4 DR AWD,2015,4.7,4,5,5,False
+BMW,335 I 4 DR RWD,2015,4.7,4,5,5,False
+BMW,335 I Xdrive 4 DR AWD,2015,4.7,4,5,5,False
+BMW,Active Hybrid 3 4 DR RWD,2015,4.7,4,5,5,False
+BMW,328I Xdrive GT 5 HB AWD,2015,4.7,4,5,5,False
+BMW,335I Xdrive GT 5 HB AWD,2015,4.7,4,5,5,False
+BMW,328I Xdrive SW AWD,2015,4.7,4,5,5,False
+BMW,528 I 4 DR RWD,2015,4.7,4,5,5,False
+BMW,528 I Xdrive 4 DR AWD,2015,4.7,4,5,5,False
+BMW,535 I 4 DR RWD,2015,4.7,4,5,5,False
+BMW,535 I Xdrive 4 DR AWD,2015,4.7,4,5,5,False
+BMW,550 I Xdrive 4 DR AWD,2015,4.7,4,5,5,False
+BMW,328 I 4 DR RWD,2013,4.7,4,5,5,False
+BMW,328 I Xdrive 4 DR AWD,2013,4.7,4,5,5,False
+BMW,550 I Xdrive GT 5 HB AWD,2015,4.7,4,5,5,False
+BMW,535 I GT 5 HB RWD,2015,4.7,4,5,5,False
+BMW,535 I Xdrive GT 5 HB AWD,2015,4.7,4,5,5,False
+BMW,550 I GT 5 HB RWD,2015,4.7,4,5,5,False
+BMW,550 I 4 DR RWD,2015,4.7,4,5,5,False
+BMW,Active Hybrid 535 I 4 DR RWD,2015,4.7,4,5,5,False
+BMW,335 I Xdrive 4 DR AWD,2014,4.7,4,5,5,False
+BMW,335 I 4 DR RWD,2014,4.7,4,5,5,False
+BMW,335 I 4 DR RWD,2013,4.7,4,5,5,False
+BMW,335 I Xdrive 4 DR AWD,2013,4.7,4,5,5,False
+BMW,Active Hybrid 3 4 DR RWD,2013,4.7,4,5,5,False
+BMW,528 I 4 DR RWD,2013,4.7,4,5,5,False
+BMW,528 Xdrive I 4 DR AWD,2013,4.7,4,5,5,False
+BMW,528 XI 4 DR AWD,2013,4.7,4,5,5,False
+BMW,535 I 4 DR RWD,2013,4.7,4,5,5,False
+BMW,535 I GT 4 DR RWD,2013,4.7,4,5,5,False
+BMW,535 I Xdrive 4 DR AWD,2013,4.7,4,5,5,False
+BMW,535 I Xdrive GT 4 DR AWD,2013,4.7,4,5,5,False
+BMW,550 I 4 DR RWD,2013,4.7,4,5,5,False
+BMW,550 I GT 4 DR RWD,2013,4.7,4,5,5,False
+BMW,550 I Xdrive 4 DR AWD,2013,4.7,4,5,5,False
+BMW,550 I Xdrive GT 4 DR AWD,2013,4.7,4,5,5,False
+BMW,Active Hybrid 535 I 4 DR RWD,2013,4.7,4,5,5,False
+BMW,3 Series 4 DR AWD,2016,4.7,4,5,5,False
+BMW,3 Series 4 DR RWD,2016,4.7,4,5,5,False
+BMW,3 Series GT 5 HB AWD,2016,4.7,4,5,5,False
+BMW,320I 4 DR RWD,2014,4.7,4,5,5,False
+BMW,320I Xdrive 4 DR AWD,2014,4.7,4,5,5,False
+BMW,328D 4 DR RWD,2014,4.7,4,5,5,False
+BMW,328D Xdrive 4 DR AWD,2014,4.7,4,5,5,False
+BMW,328I Xdrive SW AWD,2014,4.7,4,5,5,False
+BMW,328I Xdrive GT 5 HB AWD,2014,4.7,4,5,5,False
+BMW,335I Xdrive GT 5 HB AWD,2014,4.7,4,5,5,False
+BMW,328 I 4 DR RWD,2014,4.7,4,5,5,False
+BMW,328 I Xdrive 4 DR AWD,2014,4.7,4,5,5,False
+BMW,X5 SUV RWD,2016,4.7,5,5,4,False
+BMW,X5 SUV AWD,2016,4.7,5,5,4,False
+BMW,X3 SUV AWD,2017,4.7,5,5,4,False
+BMW,X5 SUV RWD,2017,4.7,5,5,4,False
+BMW,X5 SUV AWD,2017,4.7,5,5,4,False
+BMW,3 Series SW AWD,2016,4.7,4,5,5,False
+BMW,3 Series GT 5 HB AWD,2017,4.7,4,5,5,False
+BMW,5 Series GT 5 HB RWD,2017,4.7,4,5,5,False
+BMW,5 Series GT 5 HB AWD,2017,4.7,4,5,5,False
+BMW,X3 SUV RWD,2017,4.7,5,5,4,False
+BMW,3 Series 4 DR RWD,2017,4.7,4,5,5,False
+BMW,5 Series GT 5 HB RWD,2016,4.7,4,5,5,False
+BMW,5 Series 4 DR AWD,2016,4.7,4,5,5,False
+BMW,5 Series GT 5 HB AWD,2016,4.7,4,5,5,False
+BMW,5 Series 4 DR RWD,2016,4.7,4,5,5,False
+BMW,5 Series PHEV 4 DR RWD,2016,4.7,4,5,5,False
+BMW,3 Series 4 DR AWD,2017,4.7,4,5,5,False
+BMW,3 Series SW AWD,2017,4.7,4,5,5,False
+BMW,X3 SUV RWD,2016,4.7,5,5,4,False
+BMW,X3 SUV AWD,2016,4.7,5,5,4,False
+BMW,3 Series 4 DR RWD,2018,4.7,4,5,5,False
+BMW,3 Series 4 DR AWD,2018,4.7,4,5,5,False
+BMW,3 Series SW AWD,2018,4.7,4,5,5,False
+BMW,3 Series GT 5 HB AWD,2018,4.7,4,5,5,False
+BMW,X5 SUV RWD,2018,4.7,5,5,4,False
+BMW,X5 SUV AWD,2018,4.7,5,5,4,False
+BMW,X1 SUV FWD,2018,4.3,4,5,4,False
+BMW,X1 SUV AWD,2018,4.3,4,5,4,False
+BMW,X1 SUV AWD,2020,4.3,4,5,4,False
+BMW,X3 SUV AWD,2020,4.7,5,5,4,False
+BMW,X1 SUV FWD,2020,4.3,4,5,4,False
+BMW,X3 SUV RWD,2020,4.7,5,5,4,False
+BMW,X1 SUV FWD,2019,4.3,4,5,4,False
+BMW,X1 SUV AWD,2019,4.3,4,5,4,False
+BMW,X3 SUV RWD,2019,4.7,5,5,4,False
+BMW,X3 SUV AWD,2019,4.7,5,5,4,False
+BMW,3 Series SW AWD,2019,4.7,4,5,5,False
+BMW,3 Series GT 5 HB AWD,2019,4.7,4,5,5,False
+BMW,3 Series 4 DR RWD,2021,5.0,5,5,5,False
+BMW,X1 SUV FWD,2021,4.3,4,5,4,False
+BMW,X3 SUV RWD,2021,4.7,5,5,4,False
+BMW,3 Series 4 DR AWD,2021,5.0,5,5,5,False
+BMW,X1 SUV AWD,2021,4.3,4,5,4,False
+BMW,X3 SUV AWD,2021,4.7,5,5,4,False
+BMW,3 Series 4 DR RWD,2022,5.0,5,5,5,False
+BMW,X1 SUV FWD,2022,4.3,4,5,4,False
+BMW,X3 SUV RWD,2022,4.7,5,5,4,False
+BMW,3 Series 4 DR AWD,2022,5.0,5,5,5,False
+BMW,X1 SUV AWD,2022,4.3,4,5,4,False
+BMW,X3 SUV AWD,2022,4.7,5,5,4,False
+BMW,3 Series Sedan 4 DR RWD,2023,5.0,5,5,5,False
+BMW,3 Series Sedan 4 DR AWD,2023,5.0,5,5,5,False
+BMW,X3 SUV RWD,2023,4.7,5,5,4,False
+BMW,X3 SUV AWD,2023,4.7,5,5,4,False
+BMW,3 Series Sedan 4 DR RWD,2024,5.0,5,5,5,False
+BMW,3 Series Sedan 4 DR AWD,2024,5.0,5,5,5,False
+BMW,X3 SUV RWD,2024,4.7,5,5,4,False
+BMW,X3 SUV AWD,2024,4.7,5,5,4,False
+BMW,X5 M SUV AWD,2013,4.0,3,5,4,False
+BMW,X5 Xdrive35D SUV AWD,2013,4.0,3,5,4,False
+BMW,X5 Xdrive35I SUV AWD,2013,4.0,3,5,4,False
+BMW,X5 Xdrive50I SUV AWD,2013,4.0,3,5,4,False
+BMW,X5 SUV AWD,2020,4.3,4,5,4,False
+BMW,X5 SUV AWD,2019,4.3,4,5,4,False
+BMW,X5 SUV AWD,2021,4.3,4,5,4,False
+BMW,X5 SUV AWD,2022,4.3,4,5,4,False
+BMW,X1 SUV AWD,2023,4.3,4,5,4,False
+BMW,X5 SUV AWD,2023,4.3,4,5,4,False
+BMW,X1 SUV AWD,2024,4.3,4,5,4,False
+BMW,X5 SUV AWD,2024,4.3,4,5,4,False
+Buick,Enclave SUV FWD,2011,4.3,4,5,4,False
+Buick,Lacrosse 4 DR FWD,2011,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2011,4.3,4,5,4,False
+Buick,Lacrosse 4 DR AWD,2011,4.7,5,5,4,False
+Buick,Regal 4 DR FWD,2012,4.3,4,5,4,False
+Buick,Lacrosse 4 DR FWD,2012,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR FWD,2012,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR AWD,2012,4.7,5,5,4,False
+Buick,Regal eAssist 4 DR FWD,2012,4.3,4,5,4,False
+Buick,Enclave SUV AWD,2012,4.3,4,5,4,False
+Buick,Enclave SUV FWD,2012,4.3,4,5,4,False
+Buick,Regal 4 DR AWD,2012,4.3,4,5,4,False
+Buick,Lacrosse 4 DR AWD,2012,4.7,5,5,4,False
+Buick,Lacrosse 4 DR AWD,2013,4.7,5,5,4,False
+Buick,Lacrosse 4 DR FWD,2013,4.7,5,5,4,False
+Buick,Regal 4 DR FWD,2013,4.3,4,5,4,False
+Buick,Lacrosse eAssist 4 DR FWD,2013,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR AWD,2013,4.7,5,5,4,False
+Buick,Regal eAssist 4 DR FWD,2013,4.3,4,5,4,False
+Buick,Regal 4 DR AWD,2015,4.3,4,5,4,False
+Buick,Regal 4 DR FWD,2015,4.3,4,5,4,False
+Buick,Regal eAssist 4 DR FWD,2015,4.3,4,5,4,False
+Buick,Lacrosse 4 DR AWD,2015,4.7,5,5,4,False
+Buick,Lacrosse 4 DR FWD,2015,4.7,5,5,4,False
+Buick,Encore SUV AWD,2015,4.7,5,5,4,False
+Buick,Encore SUV FWD,2015,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR FWD,2015,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR AWD,2015,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2015,4.7,5,5,4,False
+Buick,Enclave SUV FWD,2015,4.7,5,5,4,False
+Buick,Verano 4 DR FWD,2015,4.7,5,5,4,False
+Buick,Verano 4 DR FWD,2013,4.7,5,5,4,False
+Buick,Enclave SUV FWD,2013,4.7,5,5,4,False
+Buick,Encore SUV AWD,2016,4.7,5,5,4,False
+Buick,Encore SUV FWD,2016,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2013,4.7,5,5,4,False
+Buick,Encore SUV AWD,2013,4.7,5,5,4,False
+Buick,Enclave SUV FWD,2016,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2016,4.7,5,5,4,False
+Buick,Verano 4 DR FWD,2016,4.7,5,5,4,False
+Buick,Regal 4 DR FWD,2016,4.3,4,5,4,False
+Buick,Regal 4 DR AWD,2016,4.3,4,5,4,False
+Buick,Regal eAssist 4 DR FWD,2016,4.3,4,5,4,False
+Buick,Lacrosse 4 DR FWD,2016,4.7,5,5,4,False
+Buick,Lacrosse 4 DR AWD,2016,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR FWD,2016,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR AWD,2016,4.7,5,5,4,False
+Buick,Verano 4 DR FWD,2014,4.7,5,5,4,False
+Buick,Regal 4 DR FWD,2014,4.3,4,5,4,False
+Buick,Regal eAssist 4 DR FWD,2014,4.3,4,5,4,False
+Buick,Regal 4 DR AWD,2014,4.3,4,5,4,False
+Buick,Lacrosse 4 DR AWD,2014,4.7,5,5,4,False
+Buick,Lacrosse 4 DR FWD,2014,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR FWD,2014,4.7,5,5,4,False
+Buick,Lacrosse eAssist 4 DR AWD,2014,4.7,5,5,4,False
+Buick,Encore SUV AWD,2014,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2014,4.7,5,5,4,False
+Buick,Enclave SUV FWD,2014,4.7,5,5,4,False
+Buick,Verano 4 DR FWD,2017,4.7,5,5,4,False
+Buick,Encore SUV FWD,2017,4.7,5,5,4,False
+Buick,Encore SUV AWD,2017,4.7,5,5,4,False
+Buick,Envision SUV AWD,2016,4.3,4,5,4,False
+Buick,Cascada C FWD,2016,4.3,4,5,4,False
+Buick,Regal 4 DR FWD,2017,4.3,4,5,4,False
+Buick,Regal 4 DR AWD,2017,4.3,4,5,4,False
+Buick,Enclave SUV FWD,2017,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2017,4.7,5,5,4,False
+Buick,Cascada C FWD,2017,4.3,4,5,4,False
+Buick,LaCrosse 4 DR FWD,2017,5.0,5,5,5,False
+Buick,LaCrosse 4 DR AWD,2017,5.0,5,5,5,False
+Buick,Envision SUV AWD,2017,4.3,4,5,4,False
+Buick,Cascada C FWD,2019,4.3,4,5,4,False
+Buick,Encore SUV FWD,2019,4.7,5,5,4,False
+Buick,Encore SUV AWD,2019,4.7,5,5,4,False
+Buick,Envision SUV AWD,2019,4.3,4,5,4,False
+Buick,LaCrosse 4 DR FWD,2018,5.0,5,5,5,False
+Buick,LaCrosse 4 DR AWD,2018,5.0,5,5,5,False
+Buick,LaCrosse 4 DR AWD,2019,5.0,5,5,5,False
+Buick,LaCrosse 4 DR FWD,2019,5.0,5,5,5,False
+Buick,LaCrosse Hybrid 4 DR FWD,2019,5.0,5,5,5,False
+Buick,Enclave SUV AWD,2019,4.3,4,5,4,False
+Buick,Enclave SUV FWD,2019,4.3,4,5,4,False
+Buick,Cascada C FWD,2018,4.3,4,5,4,False
+Buick,LaCrosse Hybrid 4 DR FWD,2018,5.0,5,5,5,False
+Buick,Enclave SUV FWD,2018,4.3,4,5,4,False
+Buick,Enclave SUV AWD,2018,4.3,4,5,4,False
+Buick,Encore SUV AWD,2018,4.7,5,5,4,False
+Buick,Encore SUV FWD,2018,4.7,5,5,4,False
+Buick,Envision SUV AWD,2018,4.3,4,5,4,False
+Buick,Encore SUV FWD,2020,4.7,5,5,4,False
+Buick,Encore SUV AWD,2020,4.7,5,5,4,False
+Buick,Envision SUV AWD,2020,4.3,4,5,4,False
+Buick,Enclave SUV FWD,2020,4.3,4,5,4,False
+Buick,Enclave SUV AWD,2020,4.3,4,5,4,False
+Buick,Encore SUV AWD,2021,4.7,5,5,4,False
+Buick,Encore SUV FWD,2021,4.7,5,5,4,False
+Buick,Encore SUV FWD,2022,4.7,5,5,4,False
+Buick,Encore GX SUV FWD,2022,4.7,5,5,4,False
+Buick,Encore SUV AWD,2022,4.7,5,5,4,False
+Buick,Encore GX SUV AWD,2022,4.7,5,5,4,False
+Buick,Encore GX SUV FWD,2021,4.7,5,5,4,False
+Buick,Envision SUV FWD,2021,4.7,5,5,4,False
+Buick,Enclave SUV FWD,2021,4.3,4,5,4,False
+Buick,Encore GX SUV AWD,2021,4.7,5,5,4,False
+Buick,Envision SUV AWD,2021,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2021,4.3,4,5,4,False
+Buick,Envision SUV FWD,2022,4.7,5,5,4,False
+Buick,Envision SUV AWD,2022,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2022,4.7,5,5,4,False
+Buick,Encore GX SUV FWD,2023,4.7,5,5,4,False
+Buick,Encore GX SUV AWD,2023,4.7,5,5,4,False
+Buick,Envision SUV FWD,2023,4.7,5,5,4,False
+Buick,Envision SUV AWD,2023,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2023,4.7,5,5,4,False
+Buick,Encore GX SUV FWD,2024,4.7,5,5,4,False
+Buick,Encore GX SUV AWD,2024,4.7,5,5,4,False
+Buick,Enclave SUV AWD,2024,4.7,5,5,4,False
+Buick,Lucerne 4 DR FWD Later Release,2011,4.0,5,2,5,False
+Buick,Encore SUV FWD,2013,4.7,5,5,4,False
+Buick,Encore SUV FWD,2014,4.7,5,5,4,False
+Buick,Encore GX SUV FWD,2020,4.3,4,5,4,False
+Buick,Encore GX SUV AWD,2020,4.3,4,5,4,False
+Buick,Enclave SUV FWD,2022,4.7,5,5,4,False
+Buick,Enclave SUV FWD,2023,4.7,5,5,4,False
+Buick,Enclave SUV FWD,2024,4.7,5,5,4,False
+Buick,Lucerne 4 DR FWD Early Release,2011,4.0,5,2,5,False
+Cadillac,CTS 4 DR RWD,2012,4.7,5,5,4,False
+Cadillac,CTS SW RWD,2012,4.7,5,5,4,False
+Cadillac,CTS 4 DR AWD,2012,4.7,5,5,4,False
+Cadillac,CTS SW AWD,2012,4.7,5,5,4,False
+Cadillac,SRX SUV AWD,2012,4.7,5,5,4,False
+Cadillac,SRX SUV FWD,2012,4.7,5,5,4,False
+Cadillac,CTS 4 DR RWD,2013,4.7,5,5,4,False
+Cadillac,CTS 4 DR AWD,2013,4.7,5,5,4,False
+Cadillac,CTS SW RWD,2013,4.7,5,5,4,False
+Cadillac,CTS SW AWD,2013,4.7,5,5,4,False
+Cadillac,CTS 4 DR AWD,2015,5.0,5,5,5,False
+Cadillac,CTS 4 DR RWD,2015,5.0,5,5,5,False
+Cadillac,SRX SUV AWD,2015,4.3,4,5,4,False
+Cadillac,SRX SUV FWD,2015,4.3,4,5,4,False
+Cadillac,ATS 4 DR RWD,2015,5.0,5,5,5,False
+Cadillac,ATS 4 DR AWD,2015,5.0,5,5,5,False
+Cadillac,XTS 4 DR AWD,2015,4.7,5,5,4,False
+Cadillac,XTS 4 DR FWD,2015,4.7,5,5,4,False
+Cadillac,ATS 4 DR RWD,2013,5.0,5,5,5,False
+Cadillac,SRX SUV FWD,2013,4.3,4,5,4,False
+Cadillac,XTS 4 DR FWD,2013,4.7,5,5,4,False
+Cadillac,ATS 4 DR AWD,2013,5.0,5,5,5,False
+Cadillac,SRX SUV AWD,2013,4.3,4,5,4,False
+Cadillac,XTS 4 DR AWD,2013,4.7,5,5,4,False
+Cadillac,CTS 4 DR RWD,2016,5.0,5,5,5,False
+Cadillac,CTS 4 DR AWD,2016,5.0,5,5,5,False
+Cadillac,XTS 4 DR FWD,2016,4.7,5,5,4,False
+Cadillac,XTS 4 DR AWD,2016,4.7,5,5,4,False
+Cadillac,ATS 4 DR RWD,2016,5.0,5,5,5,False
+Cadillac,ATS 4 DR AWD,2016,5.0,5,5,5,False
+Cadillac,SRX SUV FWD,2016,4.3,4,5,4,False
+Cadillac,SRX SUV AWD,2016,4.3,4,5,4,False
+Cadillac,SRX SUV AWD,2014,4.3,4,5,4,False
+Cadillac,SRX SUV FWD,2014,4.3,4,5,4,False
+Cadillac,ATS 4 DR RWD,2014,5.0,5,5,5,False
+Cadillac,ATS 4 DR AWD,2014,5.0,5,5,5,False
+Cadillac,XTS 4 DR AWD,2014,4.7,5,5,4,False
+Cadillac,XTS 4 DR FWD,2014,4.7,5,5,4,False
+Cadillac,CTS 4 DR RWD,2014,5.0,5,5,5,False
+Cadillac,CTS 4 DR AWD,2014,5.0,5,5,5,False
+Cadillac,ATS 4 DR RWD,2017,5.0,5,5,5,False
+Cadillac,ATS 4 DR AWD,2017,5.0,5,5,5,False
+Cadillac,CTS 4 DR AWD,2017,5.0,5,5,5,False
+Cadillac,CTS 4 DR RWD,2017,5.0,5,5,5,False
+Cadillac,XTS 4 DR FWD,2017,4.7,5,5,4,False
+Cadillac,XTS 4 DR AWD,2017,4.7,5,5,4,False
+Cadillac,XT5 SUV AWD,2017,4.3,4,5,4,False
+Cadillac,ATS 4 DR RWD,2018,5.0,5,5,5,False
+Cadillac,ATS 4 DR AWD,2018,5.0,5,5,5,False
+Cadillac,CTS 4 DR RWD,2018,5.0,5,5,5,False
+Cadillac,CTS 4 DR AWD,2018,5.0,5,5,5,False
+Cadillac,XT5 SUV AWD,2019,4.3,4,5,4,False
+Cadillac,XT5 SUV AWD,2018,4.3,4,5,4,False
+Cadillac,XTS 4 DR FWD,2018,4.7,5,5,4,False
+Cadillac,XTS 4 DR AWD,2018,4.7,5,5,4,False
+Cadillac,CT5 4 DR RWD,2020,5.0,5,5,5,False
+Cadillac,XT5 SUV FWD,2020,4.7,5,5,4,False
+Cadillac,XT6 SUV FWD,2020,4.7,5,5,4,False
+Cadillac,CT5 4 DR AWD,2020,5.0,5,5,5,False
+Cadillac,XT5 SUV AWD,2020,4.7,5,5,4,False
+Cadillac,XT6 SUV AWD,2020,4.7,5,5,4,False
+Cadillac,XT4 SUV FWD,2020,4.3,4,5,4,False
+Cadillac,XT4 SUV AWD,2020,4.3,4,5,4,False
+Cadillac,CTS 4 DR RWD,2019,5.0,5,5,5,False
+Cadillac,CTS 4 DR AWD,2019,5.0,5,5,5,False
+Cadillac,XT4 SUV FWD,2019,4.3,4,5,4,False
+Cadillac,XT4 SUV AWD,2019,4.3,4,5,4,False
+Cadillac,CT5 4 DR RWD,2021,5.0,5,5,5,False
+Cadillac,XT5 SUV FWD,2021,4.7,5,5,4,False
+Cadillac,XT6 SUV FWD,2021,4.7,5,5,4,False
+Cadillac,CT5 4 DR RWD,2022,5.0,5,5,5,False
+Cadillac,CT5 4 DR AWD,2021,5.0,5,5,5,False
+Cadillac,XT5 SUV AWD,2021,4.7,5,5,4,False
+Cadillac,XT5 SUV FWD,2022,4.7,5,5,4,False
+Cadillac,XT4 SUV FWD,2022,4.3,4,5,4,False
+Cadillac,XT6 SUV FWD,2022,4.7,5,5,4,False
+Cadillac,CT5 4 DR AWD,2022,5.0,5,5,5,False
+Cadillac,XT6 SUV AWD,2021,4.7,5,5,4,False
+Cadillac,XT5 SUV AWD,2022,4.7,5,5,4,False
+Cadillac,XT4 SUV AWD,2022,4.3,4,5,4,False
+Cadillac,XT6 SUV AWD,2022,4.7,5,5,4,False
+Cadillac,XT4 SUV FWD,2021,4.3,4,5,4,False
+Cadillac,XT4 SUV AWD,2021,4.3,4,5,4,False
+Cadillac,XT5 SUV AWD,2023,4.7,5,5,4,False
+Cadillac,XT4 SUV FWD,2023,4.3,4,5,4,False
+Cadillac,XT4 SUV AWD,2023,4.3,4,5,4,False
+Cadillac,XT6 SUV FWD,2023,4.7,5,5,4,False
+Cadillac,XT6 SUV AWD,2023,4.7,5,5,4,False
+Cadillac,XT5 SUV FWD,2023,4.7,5,5,4,False
+Cadillac,CT5 4 DR RWD,2023,5.0,5,5,5,False
+Cadillac,CT5 4 DR AWD,2023,5.0,5,5,5,False
+Cadillac,CT5 4 DR RWD,2024,5.0,5,5,5,False
+Cadillac,CT5 4 DR AWD,2024,5.0,5,5,5,False
+Cadillac,XT5 SUV AWD,2024,4.7,5,5,4,False
+Cadillac,XT5 SUV FWD,2024,4.7,5,5,4,False
+Cadillac,XT6 SUV FWD,2024,4.7,5,5,4,False
+Cadillac,XT6 SUV AWD,2024,4.7,5,5,4,False
+Cadillac,Escalade SUV RWD,2011,4.3,5,5,3,False
+Cadillac,Escalade Hybrid SUV RWD,2011,4.3,5,5,3,False
+Cadillac,Escalade SUV AWD,2011,4.3,5,5,3,False
+Cadillac,Escalade Hybrid SUV AWD,2011,4.3,5,5,3,False
+Cadillac,Escalade SUV AWD,2012,4.3,5,5,3,False
+Cadillac,Escalade Hybrid SUV AWD,2012,4.3,5,5,3,False
+Cadillac,Escalade SUV RWD,2012,4.3,5,5,3,False
+Cadillac,Escalade Hybrid SUV RWD,2012,4.3,5,5,3,False
+Cadillac,Escalade ESV SUV AWD,2012,4.3,5,5,3,False
+Cadillac,Escalade ESV SUV RWD,2012,4.3,5,5,3,False
+Cadillac,Escalade SUV AWD,2013,4.3,5,5,3,False
+Cadillac,Escalade SUV RWD,2013,4.3,5,5,3,False
+Cadillac,Escalade ESV SUV AWD,2013,4.3,5,5,3,False
+Cadillac,Escalade ESV SUV RWD,2013,4.3,5,5,3,False
+Cadillac,Escalade Hybrid SUV AWD,2013,4.3,5,5,3,False
+Cadillac,Escalade Hybrid SUV RWD,2013,4.3,5,5,3,False
+Cadillac,Escalade ESV SUV AWD,2014,4.3,5,5,3,False
+Cadillac,Escalade ESV SUV RWD,2014,4.3,5,5,3,False
+Cadillac,Escalade SUV AWD,2014,4.3,5,5,3,False
+Cadillac,Escalade SUV RWD,2014,4.3,5,5,3,False
+Cadillac,ATS-V 4 DR RWD,2017,4.7,4,5,5,False
+Cadillac,CTS-V 4 DR RWD,2017,4.7,4,5,5,False
+Cadillac,Escalade SUV RWD,2017,4.0,4,5,3,False
+Cadillac,Escalade SUV AWD,2017,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV RWD,2017,4.3,5,5,3,False
+Cadillac,Escalade ESV SUV AWD,2017,4.3,5,5,3,False
+Cadillac,XT5 SUV FWD,2017,4.3,4,5,4,False
+Cadillac,ATS-V 4 DR RWD,2018,4.7,4,5,5,False
+Cadillac,CTS-V 4 DR RWD,2018,4.7,4,5,5,False
+Cadillac,XT5 SUV FWD,2019,4.3,4,5,4,False
+Cadillac,XT5 SUV FWD,2018,4.3,4,5,4,False
+Cadillac,Escalade SUV AWD,2018,4.0,4,5,3,False
+Cadillac,Escalade SUV RWD,2018,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV RWD,2018,4.3,5,5,3,False
+Cadillac,Escalade ESV SUV AWD,2018,4.3,5,5,3,False
+Cadillac,CTS-V 4 DR RWD,2019,4.7,4,5,5,False
+Cadillac,Escalade SUV 2WD,2021,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV 2WD,2021,4.0,4,5,3,False
+Cadillac,Escalade SUV 4WD,2021,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV 4WD,2021,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV 4WD,2022,4.0,4,5,3,False
+Cadillac,Escalade SUV 2WD,2022,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV 2WD,2022,4.0,4,5,3,False
+Cadillac,Escalade SUV 4WD,2022,4.0,4,5,3,False
+Cadillac,Escalade SUV 2WD,2023,4.0,4,5,3,False
+Cadillac,Escalade SUV 4WD,2023,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV 2WD,2023,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV 4WD,2023,4.0,4,5,3,False
+Cadillac,Escalade SUV RWD,2024,4.0,4,5,3,False
+Cadillac,Escalade SUV 4WD,2024,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV RWD,2024,4.0,4,5,3,False
+Cadillac,Escalade ESV SUV 4WD,2024,4.0,4,5,3,False
+Chrysler,300 4 DR RWD,2012,4.7,5,5,4,False
+Chrysler,300 4 DR AWD,2012,4.7,5,5,4,False
+Chrysler,200 4 DR FWD,2015,4.7,5,5,4,False
+Chrysler,300 4 DR AWD,2013,4.7,5,5,4,False
+Chrysler,300 4 DR RWD,2013,4.7,5,5,4,False
+Chrysler,200 4 DR FWD,2016,4.7,5,5,4,False
+Chrysler,300 4 DR AWD,2014,4.7,5,5,4,False
+Chrysler,300 4 DR RWD,2014,4.7,5,5,4,False
+Chrysler,200 4 DR AWD,2017,4.3,4,5,4,False
+Chrysler,200 4 DR FWD,2017,4.7,5,5,4,False
+Chrysler,Pacifica VAN FWD,2017,4.7,5,5,4,False
+Chrysler,Pacifica VAN FWD,2018,4.7,5,5,4,False
+Chrysler,Voyager VAN FWD,2020,4.7,5,5,4,False
+Chrysler,Pacifica VAN FWD,2020,4.7,5,5,4,False
+Chrysler,Pacifica Hybrid VAN FWD,2020,4.3,4,5,4,False
+Chrysler,Pacifica VAN FWD,2019,4.7,5,5,4,False
+Chrysler,Pacifica VAN FWD,2021,4.7,5,5,4,False
+Chrysler,Pacifica MV FWD,2022,4.7,5,5,4,False
+Chrysler,Pacifica Hybrid MV FWD,2022,4.3,4,5,4,False
+Chrysler,Pacifica Hybrid VAN FWD,2021,4.3,4,5,4,False
+Chrysler,Voyager MV FWD,2022,4.7,5,5,4,False
+Chrysler,Pacifica PV FWD,2024,4.7,5,5,4,False
+Chrysler,Pacifica Hybrid PV FWD,2024,4.3,4,5,4,False
+Chrysler,Voyager PV FWD,2024,4.7,5,5,4,False
+Chrysler,Pacifica PV FWD,2023,4.7,5,5,4,False
+Chrysler,Pacifica Hybrid PV FWD,2023,4.3,4,5,4,False
+Chrysler,Voyager PV FWD,2023,4.7,5,5,4,False
+Chrysler,Voyager VAN FWD,2021,4.7,5,5,4,False
+Chrysler,200 4 DR FWD,2012,3.7,4,3,4,False
+Chrysler,Town And Country VAN FWD,2012,4.3,4,5,4,False
+Chrysler,200 4 DR FWD,2013,3.7,4,3,4,False
+Chrysler,Town And Country VAN FWD,2013,4.3,4,5,4,False
+Chrysler,300 4 DR RWD,2016,4.3,4,5,4,False
+Chrysler,300 4 DR AWD,2016,4.3,4,5,4,False
+Chrysler,Town And Country VAN FWD,2016,4.3,4,5,4,False
+Chrysler,Town And Country VAN FWD,2015,4.3,4,5,4,False
+Chrysler,200 4 DR FWD,2014,3.7,4,3,4,False
+Chrysler,Town And Country VAN FWD,2014,4.3,4,5,4,False
+Chrysler,300 4 DR RWD,2017,4.3,4,5,4,False
+Chrysler,300 4 DR AWD,2017,4.3,4,5,4,False
+Chrysler,300 4 DR RWD,2018,4.3,4,5,4,False
+Chrysler,300 4 DR AWD,2018,4.3,4,5,4,False
+Chrysler,300 4 DR AWD,2020,4.3,4,5,4,False
+Chrysler,300 4 DR RWD,2020,4.3,4,5,4,False
+Chrysler,300 4 DR RWD,2019,4.3,4,5,4,False
+Chrysler,300 4 DR AWD,2019,4.3,4,5,4,False
+Chrysler,300 4 DR RWD,2022,4.3,4,5,4,False
+Chrysler,300 4 DR AWD,2022,4.3,4,5,4,False
+Chrysler,300 4 DR RWD,2021,4.3,4,5,4,False
+Chrysler,300 4 DR AWD,2021,4.3,4,5,4,False
+Chrysler,300 4 DR RWD,2023,4.3,4,5,4,False
+Chrysler,300 4 DR AWD,2023,4.3,4,5,4,False
+Dodge,Charger 4 DR RWD,2012,4.7,4,5,5,False
+Dodge,Charger 4 DR AWD,2012,4.7,4,5,5,False
+Dodge,Challenger 2 DR RWD,2013,5.0,5,5,5,True
+Dodge,Charger 4 DR RWD,2013,4.7,4,5,5,False
+Dodge,Charger 4 DR AWD,2013,4.7,4,5,5,False
+Dodge,Dart 4 DR FWD,2016,4.7,5,5,4,False
+Dodge,Challenger 2 DR RWD,2016,4.3,4,5,4,False
+Dodge,Charger 4 DR AWD,2016,4.7,4,5,5,False
+Dodge,Charger 4 DR RWD,2016,4.7,4,5,5,False
+Dodge,Challenger 2 DR RWD,2015,4.3,4,5,4,False
+Dodge,Dart 4 DR FWD,2015,4.7,5,5,4,False
+Dodge,Dart 4 DR FWD,2013,4.7,5,5,4,False
+Dodge,Challenger 2 DR RWD,2014,5.0,5,5,5,True
+Dodge,Dart 4 DR FWD,2014,4.7,5,5,4,False
+Dodge,Charger 4 DR RWD,2014,4.7,4,5,5,False
+Dodge,Charger 4 DR AWD,2014,4.7,4,5,5,False
+Dodge,Challenger 2 DR RWD,2017,4.3,4,5,4,False
+Dodge,Charger 4 DR RWD,2017,4.7,4,5,5,False
+Dodge,Charger 4 DR AWD,2017,4.7,4,5,5,False
+Dodge,Challenger 2 DR AWD,2017,4.3,4,5,4,False
+Dodge,Challenger 2 DR AWD,2018,4.3,4,5,4,False
+Dodge,Challenger 2 DR RWD,2018,4.3,4,5,4,False
+Dodge,Charger 4 DR RWD,2018,4.7,4,5,5,False
+Dodge,Charger 4 DR AWD,2018,4.7,4,5,5,False
+Dodge,Charger 4 DR AWD,2020,4.7,4,5,5,False
+Dodge,Charger 4 DR RWD,2020,4.7,4,5,5,False
+Dodge,Challenger 2 DR RWD,2020,4.3,4,5,4,False
+Dodge,Challenger 2 DR AWD,2020,4.3,4,5,4,False
+Dodge,Challenger 2 DR RWD,2019,4.3,4,5,4,False
+Dodge,Challenger 2 DR AWD,2019,4.3,4,5,4,False
+Dodge,Charger 4 DR RWD,2019,4.7,4,5,5,False
+Dodge,Charger 4 DR AWD,2019,4.7,4,5,5,False
+Dodge,Charger 4 DR RWD,2021,4.7,4,5,5,False
+Dodge,Challenger 2 DR RWD,2021,4.3,4,5,4,False
+Dodge,Challenger 2 DR AWD,2021,4.3,4,5,4,False
+Dodge,Charger 4 DR AWD,2021,4.7,4,5,5,False
+Dodge,Challenger(Front Seat only) 2 DR RWD,2021,4.3,4,5,4,False
+Dodge,Charger 4 DR RWD,2022,4.7,4,5,5,False
+Dodge,Challenger (Front Seat) 2 DR RWD,2022,4.3,4,5,4,False
+Dodge,Challenger 2 DR RWD,2022,4.3,4,5,4,False
+Dodge,Challenger 2 DR AWD,2022,4.3,4,5,4,False
+Dodge,Charger 4 DR AWD,2022,4.7,4,5,5,False
+Dodge,Charger 4 DR RWD,2023,4.7,4,5,5,False
+Dodge,Charger 4 DR AWD,2023,4.7,4,5,5,False
+Dodge,Challenger (Front Seat) 2 DR RWD,2023,4.3,4,5,4,False
+Dodge,Challenger 2 DR RWD,2023,4.3,4,5,4,False
+Dodge,Challenger AWD 2 DR AWD,2023,4.3,4,5,4,False
+Dodge,Avenger 4 DR FWD,2012,4.0,4,4,4,False
+Dodge,Grand Caravan VAN FWD,2012,4.3,4,5,4,False
+Dodge,Durango SUV 2WD,2012,4.0,4,5,3,False
+Dodge,Durango SUV 4WD,2012,4.0,4,5,3,False
+Dodge,Durango SUV 4WD,2015,4.0,4,5,3,False
+Dodge,Avenger 4 DR FWD,2013,4.0,4,4,4,False
+Dodge,Grand Caravan VAN FWD,2013,4.3,4,5,4,False
+Dodge,Durango SUV 4WD,2013,4.0,4,5,3,False
+Dodge,Durango SUV 2WD,2013,4.0,4,5,3,False
+Dodge,Grand Caravan VAN FWD,2016,4.3,4,5,4,False
+Dodge,Grand Caravan VAN FWD,2015,4.3,4,5,4,False
+Dodge,Durango SUV 2WD,2015,4.3,4,5,4,False
+Dodge,Avenger 4 DR FWD,2014,4.0,4,4,4,False
+Dodge,Grand Caravan VAN FWD,2014,4.3,4,5,4,False
+Dodge,Durango SUV 4WD,2014,4.0,4,5,3,False
+Dodge,Durango SUV 2WD,2014,4.3,4,5,4,False
+Dodge,Durango SUV 4WD,2017,4.0,4,5,3,False
+Dodge,Durango SUV 2WD,2017,4.3,4,5,4,False
+Dodge,Grand Caravan VAN FWD,2017,4.3,4,5,4,False
+Dodge,Durango SUV 4WD,2016,4.0,4,5,3,False
+Dodge,Durango SUV 2WD,2016,4.3,4,5,4,False
+Dodge,Grand Caravan VAN FWD,2018,4.3,4,5,4,False
+Dodge,Durango SUV 4WD,2018,4.0,4,5,3,False
+Dodge,Durango SUV 2WD,2018,4.3,4,5,4,False
+Dodge,Durango SUV 4WD,2020,4.0,4,5,3,False
+Dodge,Grand Caravan MV FWD,2020,4.3,4,5,4,False
+Dodge,Durango SUV RWD,2020,4.3,4,5,4,False
+Dodge,Grand Caravan VAN FWD Later Release,2019,4.3,4,5,4,False
+Dodge,Durango SUV 4WD,2019,4.0,4,5,3,False
+Dodge,Durango SUV 2WD,2019,4.3,4,5,4,False
+Dodge,Grand Caravan VAN FWD Early Release,2019,4.3,4,5,4,False
+Dodge,Durango SUV RWD,2021,4.3,4,5,4,False
+Dodge,Durango SUV 4WD,2021,4.0,4,5,3,False
+Dodge,Durango SUV RWD,2022,4.3,4,5,4,False
+Dodge,Durango SUV AWD,2022,4.0,4,5,3,False
+Dodge,Durango SUV RWD,2024,4.3,4,5,4,False
+Dodge,Durango SUV AWD,2024,4.0,4,5,3,False
+Dodge,Journey SUV FWD,2012,4.3,4,5,4,False
+Dodge,Journey SUV 4WD,2012,4.3,4,5,4,False
+Dodge,Journey SUV FWD,2013,4.3,4,5,4,False
+Dodge,Journey SUV 4WD,2013,4.3,4,5,4,False
+Dodge,Journey SUV AWD,2016,4.3,4,5,4,False
+Dodge,Journey SUV FWD,2016,4.3,4,5,4,False
+Dodge,Journey SUV 4WD,2014,4.3,4,5,4,False
+Dodge,Journey SUV FWD,2014,4.3,4,5,4,False
+Dodge,Journey SUV AWD,2017,4.3,4,5,4,False
+Dodge,Journey SUV FWD,2017,4.3,4,5,4,False
+Dodge,Journey SUV FWD,2018,4.3,4,5,4,False
+Dodge,Journey SUV AWD,2018,4.3,4,5,4,False
+DODGE,JOURNEY SUV AWD,2019,4.3,4,5,4,False
+DODGE,JOURNEY SUV FWD,2019,4.3,4,5,4,False
+Dodge,Journey SUV FWD,2020,4.3,4,5,4,False
+Dodge,Durango SUV RWD,2023,4.3,4,5,4,False
+Dodge,Durango SUV AWD,2023,4.0,4,5,3,False
+Dodge,Caliber 5 HB FWD,2011,3.7,4,3,4,False
+Dodge,Caliber 4 DR FWD,2012,3.7,4,3,4,False
+Ford,Explorer 4 DR SUV FWD,2013,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV AWD,2013,4.7,5,5,4,False
+Ford,Taurus 4 DR FWD,2013,4.7,5,5,4,False
+Ford,Taurus 4 DR AWD,2013,4.7,5,5,4,False
+Ford,Fusion 4 DR FWD,2015,4.3,5,4,4,False
+Ford,Fusion Hybrid 4 DR FWD,2015,4.3,5,4,4,False
+Ford,Fusion Energi 4 DR FWD,2015,4.7,5,5,4,False
+Ford,Taurus 4 DR FWD,2015,4.7,5,5,4,False
+Ford,Taurus 4 DR AWD,2015,4.7,5,5,4,False
+Ford,Expedition SUV 4x4,2015,4.7,5,5,4,False
+Ford,Expedition EL EXTENDED SUV 4x2,2015,4.3,5,5,3,False
+Ford,Expedition EL EXTENDED SUV 4x4,2015,4.7,5,5,4,False
+Ford,Transit Connect Wagon FWD,2015,4.3,4,5,4,False
+Ford,Expedition SUV 4x2,2015,4.3,5,5,3,False
+Ford,Focus 5 HB FWD,2014,4.3,4,5,4,False
+Ford,Focus 4 DR FWD,2014,4.3,4,5,4,False
+Ford,Focus BEV 5 HB FWD,2014,5.0,5,5,5,False
+Ford,Fusion 4 DR AWD,2014,4.3,5,4,4,False
+Ford,Fusion Hybrid 4 DR FWD,2014,4.3,5,4,4,False
+Ford,Fusion Energi 4 DR FWD,2014,4.7,5,5,4,False
+Ford,Taurus 4 DR FWD,2014,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV FWD,2015,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV AWD,2015,4.7,5,5,4,False
+Ford,Taurus 4 DR AWD,2014,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV FWD,2014,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV AWD,2014,4.7,5,5,4,False
+Ford,Edge SUV AWD,2015,4.7,5,5,4,False
+Ford,Edge SUV FWD,2015,4.7,5,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x2,2015,4.7,5,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2015,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4x2,2015,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4x4,2015,4.7,5,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2015,4.7,5,5,4,False
+Ford,F-150 Supercab PU/EC 4x4,2015,4.7,5,5,4,False
+Ford,Focus 5 HB FWD,2013,4.3,4,5,4,False
+Ford,Focus 4 DR FWD,2013,4.3,4,5,4,False
+Ford,Fusion 4 DR AWD,2015,4.3,5,4,4,False
+Ford,Fusion 4 DR FWD,2016,4.3,5,4,4,False
+Ford,Fusion 4 DR AWD,2016,4.3,5,4,4,False
+Ford,Fusion Energi 4 DR FWD,2016,4.7,5,5,4,False
+Ford,Fusion Hybrid 4 DR FWD,2016,4.3,5,4,4,False
+Ford,Focus 4 DR FWD,2016,4.7,5,5,4,False
+Ford,Focus 5 HB FWD,2016,4.7,5,5,4,False
+Ford,Mustang 2 DR RWD,2016,5.0,5,5,5,False
+Ford,Taurus 4 DR FWD,2016,4.7,5,5,4,False
+Ford,Taurus 4 DR AWD,2016,4.7,5,5,4,False
+Ford,Edge SUV AWD,2016,4.7,5,5,4,False
+Ford,Edge SUV FWD,2016,4.7,5,5,4,False
+Ford,Expedition SUV 4x2,2016,4.3,5,5,3,False
+Ford,Expedition SUV 4x4,2016,4.7,5,5,4,False
+Ford,Expedition EL EXTENDED SUV 4x2,2016,4.3,5,5,3,False
+Ford,Expedition EL EXTENDED SUV 4x4,2016,4.7,5,5,4,False
+Ford,Transit Connect Wagon FWD,2016,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2016,4.7,5,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x2,2016,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4x4,2016,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4x2,2016,4.7,5,5,4,False
+Ford,F-150 Supercab PU/EC 4x4,2016,4.7,5,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2016,4.7,5,5,4,False
+Ford,Fusion 4 DR AWD,2013,4.3,5,4,4,False
+Ford,Transit Connect Wagon FWD,2014,4.3,4,5,4,False
+Ford,Focus BEV 5 HB FWD,2013,5.0,5,5,5,False
+Ford,Fusion 4 DR FWD,2013,4.3,5,4,4,False
+Ford,Fusion Energi 4 DR FWD,2013,4.7,5,5,4,False
+Ford,Fusion Hybrid 4 DR FWD,2013,4.3,5,4,4,False
+Ford,Fusion 4 DR FWD,2014,4.3,5,4,4,False
+Ford,Focus 4 DR FWD,2015,4.7,5,5,4,False
+Ford,Focus 5 HB FWD,2015,4.7,5,5,4,False
+Ford,Mustang 2 DR RWD,2015,5.0,5,5,5,False
+Ford,Focus 5 HB FWD,2017,4.7,5,5,4,False
+Ford,Focus 4 DR FWD,2017,4.7,5,5,4,False
+Ford,Mustang 2 DR RWD,2017,5.0,5,5,5,False
+Ford,Taurus 4 DR AWD,2017,4.7,5,5,4,False
+Ford,Taurus 4 DR FWD,2017,4.7,5,5,4,False
+Ford,Edge SUV FWD,2017,4.7,5,5,4,False
+Ford,Edge SUV AWD,2017,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV FWD,2017,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV AWD,2017,4.7,5,5,4,False
+Ford,Expedition SUV 4x2,2017,4.3,5,5,3,False
+Ford,Expedition SUV 4x4,2017,4.7,5,5,4,False
+Ford,Expedition EL EXTENDED SUV 4x2,2017,4.3,5,5,3,False
+Ford,Expedition EL EXTENDED SUV 4x4,2017,4.7,5,5,4,False
+Ford,Transit Connect Wagon FWD,2017,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2017,4.7,5,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x2,2017,4.7,5,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2017,4.7,5,5,4,False
+Ford,F-150 Supercab PU/EC 4x4,2017,4.7,5,5,4,False
+Ford,F-150 Crew Cab PU/CC 4x2,2017,4.7,5,5,4,False
+Ford,F-150 Crew Cab PU/CC 4x4,2017,4.7,5,5,4,False
+Ford,Fusion 4 DR FWD,2017,4.3,4,5,4,False
+Ford,Fusion 4 DR AWD,2017,4.3,4,5,4,False
+Ford,Fusion Hybrid 4 DR FWD,2017,4.3,4,5,4,False
+Ford,Escape SUV FWD,2017,4.7,5,5,4,False
+Ford,Escape SUV AWD,2017,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV FWD,2016,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV AWD,2016,4.7,5,5,4,False
+Ford,F-250 Crew Cab PU/CC 4x2,2017,4.7,5,5,4,False
+Ford,F-250 Supercab PU/EC 4x2,2017,4.3,4,5,4,False
+Ford,Focus RS 5 HB AWD,2017,4.3,4,5,4,False
+Ford,F-150 Super Crew PU/CC 4x2,2018,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4x4,2018,4.7,5,5,4,False
+Ford,Expedition EL EXTENDED SUV 4x2,2018,4.3,5,5,3,False
+Ford,Expedition EL EXTENDED SUV 4x4,2018,4.7,5,5,4,False
+Ford,Expedition SUV 4x2,2018,4.3,5,5,3,False
+Ford,Expedition SUV 4x4,2018,4.7,5,5,4,False
+Ford,Fusion 4 DR AWD,2019,4.3,4,5,4,False
+Ford,Mustang GT350R 2 DR RWD,2018,5.0,5,5,5,False
+Ford,Fusion 4 DR FWD,2019,4.3,4,5,4,False
+Ford,Focus 4 DR FWD,2018,4.7,5,5,4,False
+Ford,Focus 5 HB FWD,2018,4.7,5,5,4,False
+Ford,Focus RS 5 HB AWD,2018,4.3,4,5,4,False
+Ford,Fusion 4 DR FWD,2018,4.3,4,5,4,False
+Ford,Fusion 4 DR AWD,2018,4.3,4,5,4,False
+Ford,Fusion Hybrid 4 DR FWD,2018,4.3,4,5,4,False
+Ford,Mustang 2 DR RWD,2018,5.0,5,5,5,False
+Ford,Taurus 4 DR FWD,2018,4.7,5,5,4,False
+Ford,Taurus 4 DR AWD,2018,4.7,5,5,4,False
+Ford,Edge SUV FWD,2018,4.7,5,5,4,False
+Ford,Edge SUV AWD,2018,4.7,5,5,4,False
+Ford,Escape SUV FWD,2018,4.7,5,5,4,False
+Ford,Escape SUV AWD,2018,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV FWD,2018,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV AWD,2018,4.7,5,5,4,False
+Ford,Transit Connect Wagon FWD,2018,4.3,4,5,4,False
+Ford,Expedition EL SUV 4WD,2020,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4WD,2020,4.7,5,5,4,False
+Ford,Fusion 4 DR FWD,2020,4.3,4,5,4,False
+Ford,Fusion HEV 4 DR FWD,2020,4.3,4,5,4,False
+Ford,Mustang 2 DR RWD,2020,5.0,5,5,5,False
+Ford,Mustang GT350R 2 DR RWD,2020,5.0,5,5,5,False
+Ford,Edge SUV FWD,2020,4.7,5,5,4,False
+Ford,Escape SUV FWD,2020,4.7,5,5,4,False
+Ford,Escape HEV SUV FWD,2020,4.7,5,5,4,False
+Ford,Explorer SUV RWD,2020,4.7,5,5,4,False
+Ford,Explorer HEV SUV RWD,2020,4.7,5,5,4,False
+Ford,Expedition SUV 2WD,2020,4.3,5,5,3,False
+Ford,Expedition EL SUV 2WD,2020,4.3,5,5,3,False
+Ford,F-150 Super Crew PU/CC 2WD,2020,4.7,5,5,4,False
+Ford,Fusion 4 DR AWD,2020,4.3,4,5,4,False
+Ford,Edge SUV AWD,2020,4.7,5,5,4,False
+Ford,Escape SUV AWD,2020,4.7,5,5,4,False
+Ford,Escape HEV SUV AWD,2020,4.7,5,5,4,False
+Ford,Explorer SUV 4WD,2020,4.7,5,5,4,False
+Ford,Explorer HEV SUV 4WD,2020,4.7,5,5,4,False
+Ford,Expedition SUV 4WD,2020,4.7,5,5,4,False
+Ford,Fusion Hybrid 4 DR FWD,2019,4.3,4,5,4,False
+Ford,Mustang 2 DR RWD,2019,5.0,5,5,5,False
+Ford,Mustang GT350R 2 DR RWD,2019,5.0,5,5,5,False
+Ford,Edge SUV AWD,2019,4.7,5,5,4,False
+Ford,Edge SUV FWD,2019,4.7,5,5,4,False
+Ford,Escape SUV FWD,2019,4.7,5,5,4,False
+Ford,Escape SUV AWD,2019,4.7,5,5,4,False
+Ford,Expedition SUV 4x4,2019,4.7,5,5,4,False
+Ford,Expedition SUV 4x2,2019,4.3,5,5,3,False
+Ford,Expedition EL EXTENDED SUV 4x2,2019,4.3,5,5,3,False
+Ford,Expedition EL EXTENDED SUV 4x4,2019,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV AWD,2019,4.7,5,5,4,False
+Ford,Explorer 4 DR SUV FWD,2019,4.7,5,5,4,False
+Ford,Taurus 4 DR FWD,2019,4.7,5,5,4,False
+Ford,Taurus 4 DR AWD,2019,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4x4,2019,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4x2,2019,4.7,5,5,4,False
+Ford,F-250 Supercab PU/EC 4x2,2019,4.3,4,5,4,False
+Ford,F-250 Crew Cab PU/CC 4x2,2019,4.7,5,5,4,False
+Ford,Edge SUV FWD,2021,4.7,5,5,4,False
+Ford,Escape SUV FWD,2021,4.7,5,5,4,False
+Ford,Escape HEV SUV FWD,2021,4.7,5,5,4,False
+Ford,Expedition SUV 2WD,2021,4.3,5,5,3,False
+Ford,Expedition EL SUV 2WD,2021,4.3,5,5,3,False
+Ford,Explorer SUV RWD,2021,4.7,5,5,4,False
+Ford,F-150 Regular Cab PU/RC 2WD,2021,4.7,5,5,4,False
+Ford,F-150 Super Cab PU/EC 2WD,2021,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 2WD,2021,4.7,5,5,4,False
+Ford,F-250 Crew Cab PU/CC 2WD,2021,4.7,5,5,4,False
+Ford,Mustang 2 DR RWD,2021,5.0,5,5,5,False
+Ford,Mustang GT500 2 DR RWD,2021,5.0,5,5,5,False
+Ford,Edge SUV AWD,2021,4.7,5,5,4,False
+Ford,Escape SUV AWD,2021,4.7,5,5,4,False
+Ford,Escape HEV SUV AWD,2021,4.7,5,5,4,False
+Ford,Bronco Sport SUV 4WD,2021,4.7,5,5,4,False
+Ford,Expedition SUV 4WD,2021,4.7,5,5,4,False
+Ford,Expedition EL SUV 4WD,2021,4.7,5,5,4,False
+Ford,Explorer SUV 4WD,2021,4.7,5,5,4,False
+Ford,F-150 Regular Cab PU/RC 4WD,2021,4.7,5,5,4,False
+Ford,F-150 Super Cab PU/EC 4WD,2021,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4WD,2021,4.7,5,5,4,False
+Ford,Bronco Sport SUV 4WD,2022,4.7,5,5,4,False
+Ford,Edge SUV FWD,2022,4.7,5,5,4,False
+Ford,Escape SUV FWD,2022,4.7,5,5,4,False
+Ford,Escape HEV SUV FWD,2022,4.7,5,5,4,False
+Ford,Escape PHEV SUV FWD,2022,4.3,4,5,4,False
+Ford,Expedition SUV 2WD,2022,4.3,5,5,3,False
+Ford,Expedition EL SUV 2WD,2022,4.3,5,5,3,False
+Ford,F-150 Regular Cab PU/RC 2WD,2022,4.7,5,5,4,False
+Ford,F-150 Super Cab PU/EC 2WD,2022,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 2WD,2022,4.7,5,5,4,False
+Ford,F-150 Super Crew HEV PU/CC 2WD,2022,4.7,5,5,4,False
+Ford,F-250 Super Cab PU/EC 2WD,2022,4.3,4,5,4,False
+Ford,F-250 Crew Cab PU/CC 2WD,2022,4.7,5,5,4,False
+Ford,Mustang 2 DR RWD,2022,5.0,5,5,5,False
+Ford,Mustang GT 500 2 DR RWD,2022,5.0,5,5,5,False
+Ford,Edge SUV AWD,2022,4.7,5,5,4,False
+Ford,Escape SUV AWD,2022,4.7,5,5,4,False
+Ford,Escape HEV SUV AWD,2022,4.7,5,5,4,False
+Ford,Expedition SUV 4WD,2022,4.7,5,5,4,False
+Ford,Expedition EL SUV 4WD,2022,4.7,5,5,4,False
+Ford,F-150 Regular Cab PU/RC 4WD,2022,4.7,5,5,4,False
+Ford,F-150 Super Cab PU/EC 4WD,2022,4.7,5,5,4,False
+Ford,F-150 Super Crew PU/CC 4WD,2022,4.7,5,5,4,False
+Ford,F-150 Super Crew HEV PU/CC 4WD,2022,4.7,5,5,4,False
+Ford,Bronco Sport SUV 4WD,2023,4.7,5,5,4,False
+Ford,Edge SUV FWD,2023,4.7,5,5,4,False
+Ford,Edge SUV AWD,2023,4.7,5,5,4,False
+Ford,Escape Gas SUV FWD,2023,4.7,5,5,4,False
+Ford,Escape Gas SUV AWD,2023,4.7,5,5,4,False
+Ford,Escape HEV SUV FWD,2023,4.7,5,5,4,False
+Ford,Escape HEV SUV AWD,2023,4.7,5,5,4,False
+Ford,Escape PHEV SUV FWD,2023,4.3,4,5,4,False
+Ford,Expedition SUV RWD,2023,4.3,5,5,3,False
+Ford,Expedition SUV 4WD,2023,4.7,5,5,4,False
+Ford,Expedition EL SUV RWD,2023,4.3,5,5,3,False
+Ford,Expedition EL SUV 4WD,2023,4.7,5,5,4,False
+Ford,Explorer Gas SUV RWD,2023,4.7,5,5,4,False
+Ford,Explorer Gas SUV 4WD,2023,4.7,5,5,4,False
+Ford,Explorer HEV SUV RWD,2023,4.7,5,5,4,False
+Ford,Explorer HEV SUV 4WD,2023,4.7,5,5,4,False
+Ford,F-150 (Regular Cab) Gas PU/RC RWD,2023,4.7,5,5,4,False
+Ford,F-150 (Regular Cab) Gas PU/RC 4WD,2023,4.7,5,5,4,False
+Ford,F-150 (Super Cab) Gas PU/EC RWD,2023,4.7,5,5,4,False
+Ford,F-150 (Super Cab) Gas PU/EC 4WD,2023,4.7,5,5,4,False
+Ford,F-150 (Super Crew) Gas PU/CC RWD,2023,4.7,5,5,4,False
+Ford,F-150 (Super Crew) Gas PU/CC 4WD,2023,4.7,5,5,4,False
+Ford,F-150 (Super Crew) HEV PU/CC RWD,2023,4.7,5,5,4,False
+Ford,F-150 (Super Crew) HEV PU/CC 4WD,2023,4.7,5,5,4,False
+Ford,F-150 (Super Crew) Lightning BEV PU/CC 4WD,2023,4.3,4,5,4,False
+Ford,Mustang Coupe 2 DR RWD,2023,5.0,5,5,5,False
+Ford,Mustang GT 500 2 DR RWD,2023,5.0,5,5,5,False
+Ford,Explorer HEV SUV 4WD,2021,4.7,5,5,4,False
+Ford,Explorer HEV SUV RWD,2021,4.7,5,5,4,False
+Ford,F-150 (Super Crew) Lightning BEV 4WD,2022,4.3,4,5,4,False
+Ford,Bronco Sport SUV 4WD,2024,4.7,5,5,4,False
+Ford,Edge SUV FWD,2024,4.7,5,5,4,False
+Ford,Edge SUV AWD,2024,4.7,5,5,4,False
+Ford,Escape Gas SUV AWD,2024,4.7,5,5,4,False
+Ford,Escape HEV SUV FWD,2024,4.7,5,5,4,False
+Ford,Escape HEV SUV AWD,2024,4.7,5,5,4,False
+Ford,Escape PHEV SUV FWD,2024,4.3,4,5,4,False
+Ford,Expedition SUV RWD,2024,4.3,5,5,3,False
+Ford,Expedition SUV 4WD,2024,4.7,5,5,4,False
+Ford,Expedition EL SUV RWD,2024,4.3,5,5,3,False
+Ford,Expedition EL SUV 4WD,2024,4.7,5,5,4,False
+Ford,Explorer Gas SUV RWD,2024,4.7,5,5,4,False
+Ford,Explorer Gas SUV 4WD,2024,4.7,5,5,4,False
+Ford,F-150 (Regular Cab) Gas PU/RC RWD,2024,4.7,5,5,4,False
+Ford,F-150 (Regular Cab) Gas PU/RC 4WD,2024,4.7,5,5,4,False
+Ford,F-150 (Super Cab) Gas PU/EC RWD,2024,4.7,5,5,4,False
+Ford,F-150 (Super Cab) Gas PU/EC 4WD,2024,4.7,5,5,4,False
+Ford,F-150 (Super Crew) Gas PU/CC RWD,2024,4.7,5,5,4,False
+Ford,F-150 (Super Crew) Gas PU/CC 4WD,2024,4.7,5,5,4,False
+Ford,F-150 (Super Crew) Lightning BEV PU/CC 4WD,2024,4.3,4,5,4,False
+Ford,Escape Gas SUV FWD,2024,4.7,5,5,4,False
+Ford,Explorer HEV SUV RWD,2024,4.7,5,5,4,False
+Ford,Explorer HEV SUV 4WD,2024,4.7,5,5,4,False
+Ford,F-150 (Super Crew) HEV PU/CC RWD,2024,4.7,5,5,4,False
+Ford,F-150 (Super Crew) HEV PU/CC 4WD,2024,4.7,5,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x2,2011,4.0,3,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2011,4.0,3,5,4,False
+Ford,F-150 Super Crew PU/CC 4x2,2011,4.0,3,5,4,False
+Ford,Edge SUV FWD,2011,4.0,3,5,4,False
+Ford,Fiesta 4 DR FWD,2011,4.3,4,4,5,True
+Ford,Fiesta 5 HB FWD,2011,4.3,4,4,5,True
+Ford,Fusion 4 DR FWD,2011,3.7,3,4,4,False
+Ford,Fusion Hybrid 4 DR FWD,2011,3.7,3,4,4,False
+Ford,Taurus 4 DR FWD,2011,4.3,4,5,4,False
+Ford,Fusion 4 DR AWD,2011,4.0,3,4,5,False
+Ford,Taurus 4 DR AWD,2011,4.3,4,5,4,False
+Ford,Edge SUV AWD,2011,4.0,3,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2011,3.7,3,5,3,False
+Ford,F-150 Supercab PU/EC 4x4,2011,3.7,3,5,3,False
+Ford,F-150 Super Crew PU/CC 4x4,2011,3.7,3,5,3,False
+Ford,Expedition EXTENDED SUV 4x2,2012,4.0,4,5,3,False
+Ford,Expedition EXTENDED SUV 4x4,2012,4.3,4,5,4,False
+Ford,F-250 Super Crew PU/CC 4x4,2012,4.0,4,5,3,False
+Ford,Fusion 4 DR AWD,2012,4.0,3,4,5,False
+Ford,Edge SUV FWD,2012,4.0,3,5,4,False
+Ford,Expedition SUV 4x2,2012,4.0,4,5,3,False
+Ford,Explorer 4 DR SUV FWD,2012,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x2,2012,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2012,4.3,4,5,4,False
+Ford,F-150 Super Crew PU/CC 4x2,2012,4.0,3,5,4,False
+Ford,Taurus 4 DR AWD,2012,4.3,4,5,4,False
+Ford,F-250 Super Crew PU/CC 4x2,2012,4.3,4,5,4,False
+Ford,Fiesta 4 DR FWD,2012,4.3,4,4,5,True
+Ford,Fiesta 5 HB FWD,2012,4.3,4,4,5,True
+Ford,Focus 4 DR FWD,2012,4.3,4,5,4,False
+Ford,Focus 5 DR FWD,2012,4.3,4,5,4,False
+Ford,Fusion 4 DR FWD,2012,3.7,3,4,4,False
+Ford,Fusion Hybrid 4 DR FWD,2012,3.7,3,4,4,False
+Ford,Mustang 2 DR RWD,2012,4.3,4,4,5,False
+Ford,Taurus 4 DR FWD,2012,4.3,4,5,4,False
+Ford,Edge SUV AWD,2012,4.0,3,5,4,False
+Ford,Expedition SUV 4x4,2012,4.3,4,5,4,False
+Ford,Explorer 4 DR SUV AWD,2012,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2012,4.0,4,5,3,False
+Ford,F-150 Supercab PU/EC 4x4,2012,4.0,4,5,3,False
+Ford,F-150 Super Crew PU/CC 4x4,2012,3.7,3,5,3,False
+Ford,Edge SUV AWD,2013,4.0,3,5,4,False
+Ford,Edge SUV FWD,2013,4.0,3,5,4,False
+Ford,Mustang 2 DR RWD,2013,4.3,4,4,5,False
+Ford,F-150 Regular Cab PU/RC 4x2,2013,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2013,4.0,4,5,3,False
+Ford,F-150 Super Crew PU/CC 4x4,2013,3.7,3,5,3,False
+Ford,F-150 Super Crew PU/CC 4x2,2013,4.0,3,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2013,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 4x4,2013,4.0,4,5,3,False
+Ford,Fiesta 4 DR FWD,2013,4.3,4,4,5,True
+Ford,Fiesta 5 HB FWD,2013,4.3,4,4,5,True
+Ford,Escape SUV AWD,2015,4.3,4,5,4,False
+Ford,Escape SUV FWD,2015,4.3,4,5,4,False
+Ford,F-250 Super Crew PU/CC 4x2,2015,4.3,4,5,4,False
+Ford,F-250 Super Crew PU/CC 4x4,2015,4.0,4,5,3,False
+Ford,Expedition SUV 4x2,2013,4.0,4,5,3,False
+Ford,CMAX Energi 5 HB FWD,2014,4.3,4,5,4,False
+Ford,CMAX Hybrid 5 HB FWD,2014,4.3,4,5,4,False
+Ford,Edge SUV AWD,2014,4.0,3,5,4,False
+Ford,Edge SUV FWD,2014,4.0,3,5,4,False
+Ford,Escape SUV 4x4,2014,4.3,4,5,4,False
+Ford,Escape SUV 4x2,2014,4.3,4,5,4,False
+Ford,Expedition SUV 4x4,2014,4.3,4,5,4,False
+Ford,Expedition SUV 4x2,2014,4.0,4,5,3,False
+Ford,Expedition EXTENDED SUV 4x2,2014,4.0,4,5,3,False
+Ford,Expedition EXTENDED SUV 4x4,2014,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x2,2014,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2014,4.0,4,5,3,False
+Ford,F-150 Super Crew PU/CC 4x4,2014,3.7,3,5,3,False
+Ford,F-150 Super Crew PU/CC 4x2,2014,4.0,3,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2014,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 4x4,2014,4.0,4,5,3,False
+Ford,F-250 Super Crew PU/CC 4x2,2014,4.3,4,5,4,False
+Ford,F-250 Super Crew PU/CC 4x4,2014,4.0,4,5,3,False
+Ford,F-250 Super Crew PU/CC 4x2,2013,4.3,4,5,4,False
+Ford,F-250 Super Crew PU/CC 4x4,2013,4.0,4,5,3,False
+Ford,Expedition SUV 4x4,2013,4.3,4,5,4,False
+Ford,Expedition EXTENDED SUV 4x2,2013,4.0,4,5,3,False
+Ford,Expedition EXTENDED SUV 4x4,2013,4.3,4,5,4,False
+Ford,Fiesta 4 DR FWD,2015,3.3,4,4,2,True
+Ford,Fiesta 5 HB FWD,2015,3.3,4,4,2,True
+Ford,CMAX Energi 5 HB FWD,2015,4.3,4,5,4,False
+Ford,CMAX Hybrid 5 HB FWD,2015,4.3,4,5,4,False
+Ford,Fiesta 4 DR FWD,2016,4.3,4,4,5,True
+Ford,Fiesta 5 HB FWD,2016,4.3,4,4,5,True
+Ford,CMAX Energi 5 HB FWD,2016,4.3,4,5,4,False
+Ford,CMAX Hybrid 5 HB FWD,2016,4.3,4,5,4,False
+Ford,Escape SUV FWD,2016,4.3,4,5,4,False
+Ford,Escape SUV AWD,2016,4.3,4,5,4,False
+Ford,F-250 Regular Cab PU/RC 4x4,2016,3.7,3,5,3,False
+Ford,F-250 Regular Cab PU/RC 4x2,2016,4.0,3,5,4,False
+Ford,F-250 Supercab PU/EC 4x4,2016,3.7,3,5,3,False
+Ford,F-250 Supercab PU/EC 4x2,2016,4.0,3,5,4,False
+Ford,Escape SUV 4x2,2013,4.3,4,5,4,False
+Ford,Escape SUV 4x4,2013,4.3,4,5,4,False
+Ford,CMAX Energi 5 HB FWD,2013,4.3,4,5,4,False
+Ford,CMAX Hybrid 5 HB FWD,2013,4.3,4,5,4,False
+Ford,"Transit Low Roof(8,10,12) Pass WAGON RWD",2015,4.0,4,5,3,False
+Ford,Mustang 2 DR RWD,2014,4.3,4,4,5,False
+Ford,Fiesta 4 DR FWD,2014,3.3,4,4,2,True
+Ford,Fiesta 5 HB FWD,2014,3.3,4,4,2,True
+Ford,"Transit Low Roof(8,10,12) Pass WAGON RWD",2016,4.0,4,5,3,False
+Ford,CMAX Energi 5 HB FWD,2017,4.3,4,5,4,False
+Ford,CMAX Hybrid 5 HB FWD,2017,4.3,4,5,4,False
+Ford,"Transit Low Roof(8,10,12) Pass WAGON RWD",2017,4.0,4,5,3,False
+Ford,F-250 Super Crew PU/CC 4x4,2016,4.0,4,5,3,False
+Ford,F-250 Super Crew PU/CC 4x2,2016,4.3,4,5,4,False
+Ford,F-250 Regular Cab PU/RC 4x4,2017,4.0,4,5,3,False
+Ford,F-250 Regular Cab PU/RC 4x2,2017,4.3,4,5,4,False
+Ford,F-250 Crew Cab PU/CC 4x4,2017,4.3,5,5,3,False
+Ford,F-250 Supercab PU/EC 4x4,2017,4.0,4,5,3,False
+Ford,Fiesta 4 DR FWD,2017,4.3,4,4,5,True
+Ford,Fiesta 5 HB FWD,2017,4.3,4,4,5,True
+Ford,EcoSport 4 DR FWD,2018,4.0,4,5,3,False
+Ford,EcoSport 4 DR AWD,2018,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2018,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 4x4,2018,4.3,4,5,4,False
+Ford,Fiesta 4 DR FWD,2019,4.0,4,4,4,True
+Ford,Fiesta 5 HB FWD,2019,4.0,4,4,4,True
+Ford,Fiesta 4 DR FWD,2018,4.0,4,4,4,True
+Ford,Fiesta 5 HB FWD,2018,4.0,4,4,4,True
+Ford,CMAX Hybrid 5 HB FWD,2018,4.3,4,5,4,False
+Ford,"Transit Low Roof(8,10,12) Pass WAGON RWD",2018,4.0,4,5,3,False
+Ford,F-150 Regular Cab PU/RC 4x2,2018,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2018,4.3,4,5,4,False
+Ford,Ranger Super Crew PU/CC 4WD,2020,4.0,4,5,3,False
+Ford,F-150 Regular Cab PU/RC 4WD,2020,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 4WD,2020,4.3,4,5,4,False
+Ford,F-250 Regular Cab PU/RC 2WD,2020,4.3,4,5,4,False
+Ford,F-250 Regular Cab PU/RC 4WD,2020,4.0,4,5,3,False
+Ford,EcoSport SUV FWD,2020,4.0,4,5,3,False
+Ford,"Transit Low Roof (8,10,12) Pass WAGON RWD",2020,3.7,3,5,3,False
+Ford,Ranger Super Crew PU/CC 2WD,2020,4.0,4,5,3,False
+Ford,F-150 Regular Cab PU/RC 2WD,2020,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 2WD,2020,4.3,4,5,4,False
+Ford,EcoSport SUV AWD,2020,4.3,4,5,4,False
+Ford,Ranger Super Crew PU/CC 4WD,2019,4.0,4,5,3,False
+Ford,Ranger Super Crew PU/CC 2WD,2019,4.0,4,5,3,False
+Ford,EcoSport 4 DR FWD,2019,4.0,4,5,3,False
+Ford,EcoSport 4 DR AWD,2019,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x2,2019,4.3,4,5,4,False
+Ford,F-150 Regular Cab PU/RC 4x4,2019,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 4x4,2019,4.3,4,5,4,False
+Ford,F-150 Supercab PU/EC 4x2,2019,4.3,4,5,4,False
+Ford,F-250 Regular Cab PU/RC 4x2,2019,4.3,4,5,4,False
+Ford,F-250 Regular Cab PU/RC 4x4,2019,4.0,4,5,3,False
+Ford,F-250 Supercab PU/EC 4x4,2019,4.0,4,5,3,False
+Ford,F-250 Crew Cab PU/CC 4x4,2019,4.3,5,5,3,False
+Ford,"Transit Low Roof (8,10,12) Pass WAGON RWD",2022,3.7,3,5,3,False
+Ford,Ranger Super Crew PU/CC 4WD,2021,4.0,4,5,3,False
+Ford,EcoSport SUV FWD,2021,4.0,4,5,3,False
+Ford,F-250 Regular Cab PU/RC 2WD,2021,4.3,4,5,4,False
+Ford,F-250 Tremor Crew Cab PU/CC 4WD,2021,4.0,5,5,2,False
+Ford,"Transit Low Roof (8,10,12) Pass WAGON RWD",2021,3.7,3,5,3,False
+Ford,Transit Connect WAGON FWD,2021,4.3,4,5,4,False
+Ford,Ranger Super Crew PU/CC 2WD,2021,4.0,4,5,3,False
+Ford,EcoSport SUV AWD,2021,4.3,4,5,4,False
+Ford,F-250 Regular Cab PU/RC 4WD,2021,4.0,4,5,3,False
+Ford,F-250 Crew Cab PU/CC 4WD,2021,4.3,5,5,3,False
+Ford,EcoSport SUV FWD,2022,4.0,4,5,3,False
+Ford,F-250 Regular Cab PU/RC 2WD,2022,4.3,4,5,4,False
+Ford,F-250 Tremor Crew Cab PU/CC 4WD,2022,4.0,5,5,2,False
+Ford,Maverick PU/CC FWD,2022,4.7,5,5,4,False
+Ford,Maverick HEV PU/CC FWD,2022,4.7,5,5,4,False
+Ford,Ranger Super Cab PU/EC 2WD,2022,4.0,4,5,3,False
+Ford,Ranger Super Crew PU/CC 2WD,2022,4.0,4,5,3,False
+Ford,Transit Connect Wagon Wagon FWD,2022,4.3,4,5,4,False
+Ford,EcoSport SUV AWD,2022,4.3,4,5,4,False
+Ford,F-250 Regular Cab PU/RC 4WD,2022,4.0,4,5,3,False
+Ford,F-250 Super Cab PU/EC 4WD,2022,4.0,4,5,3,False
+Ford,F-250 Crew Cab PU/CC 4WD,2022,4.3,5,5,3,False
+Ford,Maverick PU/CC 4WD,2022,4.7,5,5,4,False
+Ford,Ranger Super Cab PU/EC 4WD,2022,4.0,4,5,3,False
+Ford,Ranger Super Crew PU/CC 4WD,2022,4.0,4,5,3,False
+Ford,Maverick PU/CC FWD,2023,4.7,5,5,4,False
+Ford,Maverick PU/CC 4WD,2023,4.7,5,5,4,False
+Ford,Maverick HEV PU/CC FWD,2023,4.7,5,5,4,False
+Ford,Ranger (Super Cab) PU/EC RWD,2023,4.0,4,5,3,False
+Ford,Ranger (Super Cab) PU/EC 4WD,2023,4.0,4,5,3,False
+Ford,Ranger (Super Crew) PU/CC RWD,2023,4.0,4,5,3,False
+Ford,Ranger (Super Crew) PU/CC 4WD,2023,4.0,4,5,3,False
+Ford,"Transit Low Roof (8,10,12) Pass PV RWD",2023,3.7,3,5,3,False
+Ford,Maverick PU/CC FWD,2024,4.7,5,5,4,False
+Ford,Maverick PU/CC 4WD,2024,4.7,5,5,4,False
+Ford,Maverick HEV PU/CC FWD,2024,4.7,5,5,4,False
+Ford,"TRANSIT LOW ROOF (8,10,12) PASS PV RWD",2024,3.7,3,5,3,False
+Ford,Transit Connect Wagon PV FWD,2023,4.3,4,5,4,False
+Ford,Escape SUV 4x2,2011,3.0,3,3,3,False
+Ford,Escape Hev SUV 4x2,2011,3.0,3,3,3,False
+Ford,Escape SUV 4x4,2011,3.0,3,3,3,False
+Ford,Escape Hev SUV 4x4,2011,3.0,3,3,3,False
+Ford,Escape SUV 4x2,2012,3.0,3,3,3,False
+Ford,Escape Hev SUV 4x2,2012,3.0,3,3,3,False
+Ford,Escape SUV 4x4,2012,3.0,3,3,3,False
+Ford,Escape Hev SUV 4x4,2012,3.0,3,3,3,False
+Ford,Transit Medium Roof 15 Pass WAGON RWD,2015,3.7,4,5,2,False
+Ford,Transit Medium Roof 15 Pass WAGON RWD,2016,3.7,4,5,2,False
+Ford,Transit Medium Roof 15 Pass WAGON RWD,2017,3.7,4,5,2,False
+Ford,Transit Low Roof 15 Pass WAGON RWD,2018,3.7,4,5,2,False
+Ford,Transit Medium Roof 15 Pass WAGON RWD,2018,3.7,4,5,2,False
+Ford,"Transit Medium Roof(8,10,12) Pass WAGON RWD",2018,3.7,4,5,2,False
+Ford,Transit High Roof 15 Pass WAGON RWD,2020,3.0,3,5,1,False
+Ford,"Transit Medium Roof (8,10,12) Pass WAGON RWD",2020,3.3,3,5,2,False
+Ford,Transit Medium Roof 15 Pass WAGON RWD,2020,3.3,3,5,2,False
+Ford,Transit Low Roof 15 Pass WAGON RWD,2020,3.3,3,5,2,False
+Ford,Transit High Roof 15 Pass WAGON RWD,2018,3.3,4,5,1,False
+Ford,"Transit Medium Roof (8,10,12) Pass WAGON RWD",2022,3.3,3,5,2,False
+Ford,"Transit High Roof (8,10,12) Pass WAGON AWD",2022,3.0,3,5,1,False
+Ford,Transit High Roof 15 Pass WAGON RWD,2022,3.0,3,5,1,False
+Ford,Transit High Roof 15 Pass WAGON AWD,2022,3.3,3,5,2,False
+Ford,Transit Low Roof 15 Pass WAGON RWD,2022,3.3,3,5,2,False
+Ford,Transit Medium Roof 15 Pass WAGON RWD,2022,3.3,3,5,2,False
+Ford,"Transit High Roof (8,10,12) Pass WAGON AWD",2021,3.0,3,5,1,False
+Ford,Transit High Roof 15 Pass WAGON AWD,2021,3.3,3,5,2,False
+Ford,Transit Low Roof 15 Pass WAGON RWD,2021,3.3,3,5,2,False
+Ford,"Transit Medium Roof (8,10,12) Pass WAGON RWD",2021,3.3,3,5,2,False
+Ford,Transit Medium Roof 15 Pass WAGON RWD,2021,3.3,3,5,2,False
+Ford,Transit High Roof 15 Pass WAGON RWD,2021,3.0,3,5,1,False
+Ford,Transit Low Roof 15 Pass PV RWD,2023,3.3,3,5,2,False
+Ford,"Transit Medium Roof (8,10,12) Pass PV RWD",2023,3.3,3,5,2,False
+Ford,Transit Medium Roof 15 Pass PV RWD,2023,3.3,3,5,2,False
+Ford,"Transit High Roof (8,10,12) Pass PV AWD",2023,3.0,3,5,1,False
+Ford,Transit High Roof 15 Pass PV RWD,2023,3.0,3,5,1,False
+Ford,Transit High Roof 15 Pass PV AWD,2023,3.3,3,5,2,False
+Ford,TRANSIT LOW ROOF 15 PASS PV RWD,2024,3.3,3,5,2,False
+Ford,"TRANSIT MEDIUM ROOF (8,10,12) PASS PV RWD",2024,3.3,3,5,2,False
+Ford,TRANSIT MEDIUM ROOF 15 PASS PV RWD,2024,3.3,3,5,2,False
+Ford,"TRANSIT HIGH ROOF (8,10,12) PASS PV AWD",2024,3.0,3,5,1,False
+Ford,TRANSIT HIGH ROOF 15 PASS PV RWD,2024,3.0,3,5,1,False
+Ford,TRANSIT HIGH ROOF 15 PASS PV AWD,2024,3.3,3,5,2,False
+Ford,Ranger Super Cab PU/EC 4x2,2011,2.7,2,3,3,False
+Ford,Ranger Regular Cab PU/RC 4x2,2011,2.7,2,3,3,False
+Ford,Ranger Super Cab PU/EC 4x4,2011,2.7,2,3,3,False
+Ford,Transit Connect VAN FWD,2012,2.7,3,2,3,False
+Ford,Transit Connect VAN FWD,2013,2.7,3,2,3,False
+Ford,"Transit High Roof (8,10,12) Pass WAGON RWD",2020,3.0,3,5,1,False
+Ford,"Transit High Roof (8,10,12) Pass WAGON RWD",2022,3.0,3,5,1,False
+Ford,"Transit High Roof (8,10,12) Pass WAGON RWD",2021,3.0,3,5,1,False
+Ford,"Transit High Roof (8,10,12) Pass PV RWD",2023,3.0,3,5,1,False
+Ford,"TRANSIT HIGH ROOF (8,10,12) PASS PV RWD",2024,3.0,3,5,1,False
+GMC,Acadia SUV FWD,2011,4.3,4,5,4,False
+GMC,Acadia SUV AWD,2011,4.3,4,5,4,False
+GMC,Acadia SUV AWD,2012,4.3,4,5,4,False
+GMC,Acadia SUV FWD,2012,4.3,4,5,4,False
+GMC,Acadia SUV AWD,2015,4.7,5,5,4,False
+GMC,Acadia SUV FWD,2015,4.7,5,5,4,False
+GMC,Acadia Denali SUV AWD,2015,4.7,5,5,4,False
+GMC,Acadia Denali SUV FWD,2015,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2015,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2015,4.7,5,5,4,False
+GMC,Acadia SUV FWD,2013,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2013,4.7,5,5,4,False
+GMC,Acadia Denali SUV FWD,2013,4.7,5,5,4,False
+GMC,Acadia Denali SUV AWD,2013,4.7,5,5,4,False
+GMC,Acadia SUV FWD,2016,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2016,4.7,5,5,4,False
+GMC,Acadia Denali SUV AWD,2016,4.7,5,5,4,False
+GMC,Acadia Denali SUV FWD,2016,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2015,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC 4WD,2015,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC RWD,2015,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2015,4.7,5,5,4,False
+GMC,Acadia SUV FWD,2014,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2014,4.7,5,5,4,False
+GMC,Acadia Denali SUV FWD,2014,4.7,5,5,4,False
+GMC,Acadia Denali SUV AWD,2014,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC RWD,2014,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC 4WD,2014,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2014,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2014,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2014,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2014,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC 4WD,2017,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2017,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2017,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2017,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2017,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC RWD,2017,4.7,5,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC RWD,2017,4.7,5,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC RWD,2016,4.7,5,5,4,False
+GMC,Acadia Limited SUV AWD,2017,4.7,5,5,4,False
+GMC,Acadia Limited SUV FWD,2017,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC 4WD,2016,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC RWD,2016,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2016,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2016,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2016,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2016,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2017,4.7,5,5,4,False
+GMC,Acadia Denali SUV AWD,2017,4.7,5,5,4,False
+GMC,Terrain SUV AWD Later Release,2018,4.7,5,5,4,False
+GMC,Terrain SUV FWD Later Release,2018,4.7,5,5,4,False
+GMC,Terrain SUV AWD,2019,4.7,5,5,4,False
+GMC,Terrain SUV FWD,2019,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2019,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2018,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC 4WD,2018,4.7,5,5,4,False
+GMC,Sierra 1500 PU/RC RWD,2018,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2018,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2018,4.7,5,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC RWD,2018,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2018,4.7,5,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2018,4.7,5,5,4,False
+GMC,Terrain SUV FWD,2020,4.7,5,5,4,False
+GMC,Terrain SUV AWD,2020,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2020,4.7,5,5,4,False
+GMC,Acadia SUV FWD,2020,4.7,5,5,4,False
+GMC,Terrain SUV FWD,2022,4.7,5,5,4,False
+GMC,Terrain SUV AWD,2022,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC 2WD,2022,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2022,4.3,4,5,4,False
+GMC,Terrain SUV FWD,2021,4.7,5,5,4,False
+GMC,Acadia SUV FWD,2021,4.7,5,5,4,False
+GMC,Terrain SUV AWD,2021,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2021,4.7,5,5,4,False
+GMC,Acadia SUV FWD,2022,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2022,4.7,5,5,4,False
+GMC,Acadia SUV FWD,2023,4.7,5,5,4,False
+GMC,Acadia SUV AWD,2023,4.7,5,5,4,False
+GMC,Terrain SUV FWD,2023,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2023,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2023,4.3,4,5,4,False
+GMC,Terrain SUV AWD,2023,4.7,5,5,4,False
+GMC,Terrain SUV FWD,2024,4.7,5,5,4,False
+GMC,Terrain SUV AWD,2024,4.7,5,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2024,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2024,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2011,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2011,4.3,4,5,4,False
+GMC,Sierra 1500 PU/RC RWD,2011,4.3,4,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC RWD,2011,4.3,4,5,4,False
+GMC,Terrain SUV FWD,2011,4.3,4,5,4,False
+GMC,Yukon SUV RWD,2011,4.3,5,5,3,False
+GMC,Sierra 1500 PU/CC 4WD,2011,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2011,4.3,4,5,4,False
+GMC,Sierra 1500 PU/RC 4WD,2011,4.3,4,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC 4WD,2011,4.3,4,5,4,False
+GMC,Terrain SUV AWD,2011,4.3,4,5,4,False
+GMC,Yukon SUV 4WD,2011,4.3,5,5,3,False
+GMC,Sierra 1500 PU/RC RWD,2012,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2012,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2012,4.3,4,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC RWD,2012,4.3,4,5,4,False
+GMC,Yukon Denali SUV RWD,2012,4.3,5,5,3,False
+GMC,Yukon Denali Xl 1500 SUV RWD,2012,4.3,5,5,3,False
+GMC,Yukon Denali SUV 4WD,2012,4.3,5,5,3,False
+GMC,Yukon Denali Xl 1500 SUV 4WD,2012,4.3,5,5,3,False
+GMC,Terrain SUV AWD,2012,4.3,4,5,4,False
+GMC,Yukon SUV 4WD,2012,4.3,5,5,3,False
+GMC,Yukon Hybrid SUV 4WD,2012,4.3,5,5,3,False
+GMC,Yukon Xl 1500 SUV 4WD,2012,4.3,5,5,3,False
+GMC,Terrain SUV FWD,2012,4.3,4,5,4,False
+GMC,Yukon SUV RWD,2012,4.3,5,5,3,False
+GMC,Yukon Hybrid SUV RWD,2012,4.3,5,5,3,False
+GMC,Yukon Xl 1500 SUV RWD,2012,4.3,5,5,3,False
+GMC,Sierra 1500 PU/RC 4WD,2012,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2012,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2012,4.3,4,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC 4WD,2012,4.3,4,5,4,False
+GMC,Yukon SUV 4WD,2013,4.3,5,5,3,False
+GMC,Yukon SUV RWD,2013,4.3,5,5,3,False
+GMC,Yukon Denali SUV RWD,2013,4.3,5,5,3,False
+GMC,Yukon Denali SUV 4WD,2013,4.3,5,5,3,False
+GMC,Yukon Denali XL 1500 SUV 4WD,2013,4.3,5,5,3,False
+GMC,Yukon Denali XL 1500 SUV RWD,2013,4.3,5,5,3,False
+GMC,Yukon Hybrid SUV RWD,2013,4.3,5,5,3,False
+GMC,Yukon Hybrid SUV 4WD,2013,4.3,5,5,3,False
+GMC,Yukon XL 1500 SUV 4WD,2013,4.3,5,5,3,False
+GMC,Yukon XL 1500 SUV RWD,2013,4.3,5,5,3,False
+GMC,Sierra 1500 PU/CC RWD,2013,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2013,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2013,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2013,4.3,4,5,4,False
+GMC,Sierra 1500 PU/RC RWD,2013,4.3,4,5,4,False
+GMC,Sierra 1500 PU/RC 4WD,2013,4.3,4,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC 4WD,2013,4.3,4,5,4,False
+GMC,Sierra 1500 Hybrid PU/CC RWD,2013,4.3,4,5,4,False
+GMC,Terrain SUV FWD,2013,4.3,4,5,4,False
+GMC,Terrain SUV AWD,2013,4.3,4,5,4,False
+GMC,Sierra 2500 PU/CC 4WD,2015,4.0,4,5,3,False
+GMC,Sierra 2500 PU/CC RWD,2015,4.0,4,5,3,False
+GMC,Yukon Denali XL 1500 SUV 4WD,2015,4.0,4,5,3,False
+GMC,Yukon Denali XL 1500 SUV RWD,2015,4.0,4,5,3,False
+GMC,Yukon SUV 4WD,2015,4.3,5,5,3,False
+GMC,Yukon SUV RWD,2015,4.3,5,5,3,False
+GMC,Sierra 2500 PU/CC 4WD W/ SAB,2013,4.0,3,5,4,False
+GMC,Sierra 2500 PU/CC RWD W/ SAB,2013,3.7,3,5,3,False
+GMC,Sierra 2500 PU/CC 4WD W/ SAB,2012,4.0,3,5,4,False
+GMC,Sierra 2500 PU/CC RWD W/ SAB,2012,3.7,3,5,3,False
+GMC,Yukon Denali SUV 4WD,2015,4.3,5,5,3,False
+GMC,Yukon Denali SUV RWD,2015,4.3,5,5,3,False
+GMC,Terrain SUV FWD,2015,4.3,4,5,4,False
+GMC,Terrain SUV AWD,2015,4.3,4,5,4,False
+GMC,Yukon Denali Hybrid SUV RWD,2013,4.3,5,5,3,False
+GMC,Yukon XL 1500 SUV 4WD,2015,4.0,4,5,3,False
+GMC,Yukon XL 1500 SUV RWD,2015,4.0,4,5,3,False
+GMC,Yukon Denali Hybrid SUV 4WD,2013,4.3,5,5,3,False
+GMC,Canyon PU/EC 4WD,2015,4.0,4,5,3,False
+GMC,Canyon PU/EC RWD,2015,4.0,4,5,3,False
+GMC,Terrain SUV FWD,2014,4.3,4,5,4,False
+GMC,Terrain SUV AWD,2014,4.3,4,5,4,False
+GMC,Yukon SUV 4WD,2014,4.3,5,5,3,False
+GMC,Yukon SUV RWD,2014,4.3,5,5,3,False
+GMC,Yukon Denali SUV RWD,2014,4.3,5,5,3,False
+GMC,Yukon Denali SUV 4WD,2014,4.3,5,5,3,False
+GMC,Yukon XL 1500 SUV 4WD,2014,4.3,5,5,3,False
+GMC,Yukon XL 1500 SUV RWD,2014,4.3,5,5,3,False
+GMC,Yukon Denali XL 1500 SUV 4WD,2014,4.3,5,5,3,False
+GMC,Yukon Denali XL 1500 SUV RWD,2014,4.3,5,5,3,False
+GMC,Sierra 2500 PU/CC W/SAB RWD,2014,3.7,3,5,3,False
+GMC,Sierra 2500 PU/CC W/SAB 4WD,2014,4.0,3,5,4,False
+GMC,Yukon SUV 4WD,2017,4.3,5,5,3,False
+GMC,Yukon SUV RWD,2017,4.3,5,5,3,False
+GMC,Yukon Denali SUV 4WD,2017,4.3,5,5,3,False
+GMC,Yukon Denali SUV RWD,2017,4.3,5,5,3,False
+GMC,Yukon Denali XL 1500 SUV 4WD,2017,4.0,4,5,3,False
+GMC,Yukon Denali XL 1500 SUV RWD,2017,4.0,4,5,3,False
+GMC,Yukon XL 1500 SUV 4WD,2017,4.0,4,5,3,False
+GMC,Yukon XL 1500 SUV RWD,2017,4.0,4,5,3,False
+GMC,Canyon PU/EC 4WD,2017,4.0,4,5,3,False
+GMC,Canyon PU/EC RWD,2017,4.0,4,5,3,False
+GMC,Canyon PU/CC RWD,2017,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2017,4.0,4,5,3,False
+GMC,Sierra 2500 PU/EC RWD,2017,4.0,4,5,3,False
+GMC,Sierra 2500 PU/EC 4WD,2017,4.0,4,5,3,False
+GMC,Sierra 2500 PU/RC RWD,2017,4.0,4,5,3,False
+GMC,Sierra 2500 PU/RC 4WD,2017,4.0,4,5,3,False
+GMC,Terrain SUV AWD,2016,4.3,4,5,4,False
+GMC,Yukon SUV 4WD,2016,4.3,5,5,3,False
+GMC,Yukon SUV RWD,2016,4.3,5,5,3,False
+GMC,Yukon Denali SUV 4WD,2016,4.3,5,5,3,False
+GMC,Yukon Denali SUV RWD,2016,4.3,5,5,3,False
+GMC,Yukon Denali XL 1500 SUV 4WD,2016,4.0,4,5,3,False
+GMC,Yukon Denali XL 1500 SUV RWD,2016,4.0,4,5,3,False
+GMC,Yukon XL 1500 SUV RWD,2016,4.0,4,5,3,False
+GMC,Yukon XL 1500 SUV 4WD,2016,4.0,4,5,3,False
+GMC,Canyon PU/EC 4WD,2016,4.0,4,5,3,False
+GMC,Canyon PU/EC RWD,2016,4.0,4,5,3,False
+GMC,Sierra 2500 PU/EC RWD,2016,4.0,4,5,3,False
+GMC,Sierra 2500 PU/EC 4WD,2016,4.0,4,5,3,False
+GMC,Sierra 2500 PU/RC 4WD,2016,4.0,4,5,3,False
+GMC,Sierra 2500 PU/RC RWD,2016,4.0,4,5,3,False
+GMC,Sierra 2500 PU/CC 4WD,2016,4.0,4,5,3,False
+GMC,Sierra 2500 PU/CC RWD,2016,4.0,4,5,3,False
+GMC,Terrain SUV FWD,2017,4.3,4,5,4,False
+GMC,Terrain SUV AWD,2017,4.3,4,5,4,False
+GMC,Canyon PU/CC RWD,2016,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2016,4.0,4,5,3,False
+GMC,Terrain SUV FWD,2016,4.3,4,5,4,False
+GMC,Acadia SUV FWD,2017,4.7,5,5,4,False
+GMC,Acadia Denali SUV FWD,2017,4.7,5,5,4,False
+GMC,Terrain SUV AWD Early Release,2018,4.3,5,4,4,False
+GMC,Terrain SUV FWD Early Release,2018,4.3,5,4,4,False
+GMC,Acadia SUV FWD,2019,4.7,5,5,4,False
+GMC,Yukon SUV 4WD,2019,4.0,4,5,3,False
+GMC,Yukon SUV RWD,2019,4.0,4,5,3,False
+GMC,Yukon XL 1500 SUV RWD,2019,4.0,4,5,3,False
+GMC,Yukon XL 1500 SUV 4WD,2019,4.0,4,5,3,False
+GMC,Sierra Limited 1500 PU/EC 4WD,2019,4.3,4,5,4,False
+GMC,Acadia SUV FWD,2018,4.7,5,5,4,False
+GMC,Sierra Limited 1500 PU/EC RWD,2019,4.3,4,5,4,False
+GMC,Sierra 2500 PU/CC RWD,2019,4.0,4,5,3,False
+GMC,Sierra 2500 PU/CC 4WD,2019,4.0,4,5,3,False
+GMC,Yukon SUV 4WD,2018,4.3,5,5,3,False
+GMC,Yukon SUV RWD,2018,4.3,5,5,3,False
+GMC,Yukon XL 1500 SUV RWD,2018,4.0,4,5,3,False
+GMC,Yukon XL 1500 SUV 4WD,2018,4.0,4,5,3,False
+GMC,Canyon PU/EC 4WD,2018,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2018,4.0,4,5,3,False
+GMC,Canyon PU/EC RWD,2018,4.0,4,5,3,False
+GMC,Canyon PU/CC RWD,2018,4.0,4,5,3,False
+GMC,Sierra 2500 PU/RC 4WD,2018,4.0,4,5,3,False
+GMC,Sierra 2500 PU/RC RWD,2018,4.0,4,5,3,False
+GMC,Sierra 2500 PU/CC 4WD,2018,4.0,4,5,3,False
+GMC,Sierra 2500 PU/CC RWD,2018,4.0,4,5,3,False
+GMC,Sierra 2500 PU/EC 4WD,2018,4.0,4,5,3,False
+GMC,Sierra 2500 PU/EC RWD,2018,4.0,4,5,3,False
+GMC,Canyon PU/EC 2WD,2020,4.0,4,5,3,False
+GMC,Canyon PU/CC 2WD,2020,4.0,4,5,3,False
+GMC,Sierra 1500 PU/RC 2WD,2020,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC 2WD,2020,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 2WD,2020,4.3,4,5,4,False
+GMC,Canyon PU/EC 4WD,2020,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2020,4.0,4,5,3,False
+GMC,Sierra 1500 PU/RC 4WD,2020,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2020,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2020,4.3,4,5,4,False
+GMC,Yukon SUV RWD,2020,4.0,4,5,3,False
+GMC,Yukon XL SUV RWD,2020,4.0,4,5,3,False
+GMC,Sierra 2500 PU/RC RWD,2019,3.7,3,5,3,False
+GMC,Sierra 2500 PU/EC RWD,2019,3.7,3,5,3,False
+GMC,Sierra 2500 PU/EC 4WD,2019,3.7,3,5,3,False
+GMC,Sierra 2500 PU/RC 4WD,2019,3.7,3,5,3,False
+GMC,Yukon SUV 4WD,2020,4.0,4,5,3,False
+GMC,Yukon XL SUV 4WD,2020,4.0,4,5,3,False
+GMC,Canyon PU/EC 4WD,2021,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2021,4.0,4,5,3,False
+GMC,Canyon PU/EC 2WD,2021,4.0,4,5,3,False
+GMC,Canyon PU/CC 2WD,2021,4.0,4,5,3,False
+GMC,Canyon PU/EC RWD,2019,4.0,4,5,3,False
+GMC,Canyon PU/EC 4WD,2019,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2019,4.0,4,5,3,False
+GMC,Canyon PU/CC RWD,2019,4.0,4,5,3,False
+GMC,Sierra 1500 PU/EC 4WD,2019,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC RWD,2019,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC RWD,2019,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2019,4.3,4,5,4,False
+GMC,Sierra 1500 PU/RC RWD,2019,4.3,4,5,4,False
+GMC,Sierra 1500 PU/RC 4WD,2019,4.3,4,5,4,False
+GMC,Canyon PU/EC 2WD,2022,4.0,4,5,3,False
+GMC,Canyon PU/CC 2WD,2022,4.0,4,5,3,False
+GMC,Canyon PU/EC 4WD,2022,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2022,4.0,4,5,3,False
+GMC,Sierra 1500 Limited PU/RC 2WD,2022,4.3,4,5,4,False
+GMC,Sierra 1500 Limited PU/EC 2WD,2022,4.3,4,5,4,False
+GMC,Sierra 1500 Limited PU/CC 2WD,2022,4.3,4,5,4,False
+GMC,Sierra 1500 Limited PU/RC 4WD,2022,4.3,4,5,4,False
+GMC,Sierra 1500 Limited PU/EC 4WD,2022,4.3,4,5,4,False
+GMC,Sierra 1500 Limited PU/CC 4WD,2022,4.3,4,5,4,False
+GMC,Yukon SUV 2WD,2021,4.0,4,5,3,False
+GMC,Yukon XL SUV 2WD,2021,4.0,4,5,3,False
+GMC,Sierra 1500 PU/RC 2WD,2021,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC 2WD,2021,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 2WD,2021,4.3,4,5,4,False
+GMC,Yukon SUV 4WD,2021,4.0,4,5,3,False
+GMC,Yukon XL SUV 4WD,2021,4.0,4,5,3,False
+GMC,Sierra 1500 PU/RC 4WD,2021,4.3,4,5,4,False
+GMC,Sierra 1500 PU/EC 4WD,2021,4.3,4,5,4,False
+GMC,Sierra 1500 PU/CC 4WD,2021,4.3,4,5,4,False
+GMC,Yukon XL SUV 4WD,2022,4.0,4,5,3,False
+GMC,Yukon SUV 2WD,2022,4.0,4,5,3,False
+GMC,Yukon XL SUV 2WD,2022,4.0,4,5,3,False
+GMC,Yukon SUV 4WD,2022,4.0,4,5,3,False
+GMC,Yukon SUV 2WD,2023,4.0,4,5,3,False
+GMC,Yukon SUV 4WD,2023,4.0,4,5,3,False
+GMC,Yukon XL SUV 2WD,2023,4.0,4,5,3,False
+GMC,Yukon XL SUV 4WD,2023,4.0,4,5,3,False
+GMC,Canyon PU/CC RWD,2023,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2023,4.0,4,5,3,False
+GMC,Yukon XL SUV RWD,2024,4.0,4,5,3,False
+GMC,Yukon XL SUV 4WD,2024,4.0,4,5,3,False
+GMC,Canyon PU/CC RWD,2024,4.0,4,5,3,False
+GMC,Canyon PU/CC 4WD,2024,4.0,4,5,3,False
+GMC,Yukon SUV RWD,2024,4.0,4,5,3,False
+GMC,Yukon SUV 4WD,2024,4.0,4,5,3,False
+GMC,Sierra 2500 PU/CC RWD W/O SAB,2012,3.3,3,4,3,False
+GMC,Sierra 2500 PU/CC 4WD W/O SAB,2012,3.7,3,4,4,False
+GMC,Sierra 2500 PU/CC RWD W/O SAB,2013,3.3,3,4,3,False
+GMC,Sierra 2500 PU/CC 4WD W/O SAB,2013,3.7,3,4,4,False
+GMC,Sierra 2500 PU/CC W/O SAB 4WD,2014,3.7,3,4,4,False
+GMC,Sierra 2500 PU/CC RWD,2014,3.3,3,4,3,False
+GMC,Sierra 2500 PU/RC RWD,2015,3.3,2,5,3,False
+GMC,Sierra 2500 PU/RC 4WD,2015,3.3,2,5,3,False
+GMC,Sierra 2500 PU/EC 4WD,2015,3.3,2,5,3,False
+GMC,Sierra 2500 PU/EC RWD,2015,3.3,2,5,3,False
+GMC,Sierra 2500 PU/EC 4WD,2013,3.3,2,4,4,False
+GMC,Sierra 2500 PU/RC RWD,2013,2.3,2,2,3,False
+GMC,Sierra 2500 PU/RC 4WD,2013,2.7,2,2,4,False
+GMC,Sierra 2500 PU/EC RWD,2013,3.0,2,4,3,False
+GMC,Sierra 2500 PU/RC RWD,2014,2.3,2,2,3,False
+GMC,Sierra 2500 PU/RC 4WD,2014,2.7,2,2,4,False
+Honda,Civic Si 4 DR FWD,2018,5.0,5,5,5,False
+Honda,Civic 2 DR FWD,2018,4.7,4,5,5,False
+Honda,Accord Sedan 4 DR FWD,2011,5.0,5,5,5,False
+Honda,Odyssey VAN FWD,2011,4.7,5,5,4,False
+Honda,Civic Si 2 DR FWD,2018,4.7,4,5,5,False
+Honda,Pilot SUV FWD,2018,4.3,4,5,4,False
+Honda,Accord 4 DR FWD,2012,5.0,5,5,5,False
+Honda,Accord V6 4 DR FWD,2012,5.0,5,5,5,False
+Honda,CR-V SUV FWD,2012,4.7,5,5,4,False
+Honda,Odyssey VAN FWD,2012,4.7,5,5,4,False
+Honda,Civic 4 DR FWD,2012,4.7,5,5,4,False
+Honda,Civic Hybrid (IMA) 4 DR FWD,2012,4.7,5,5,4,False
+Honda,CR-V SUV 4WD,2012,4.7,5,5,4,False
+Honda,CR-V SUV FWD,2013,4.7,5,5,4,False
+Honda,CR-V SUV 4WD,2013,4.7,5,5,4,False
+Honda,Odyssey VAN FWD,2013,4.7,5,5,4,False
+Honda,Accord 2 DR FWD,2015,5.0,5,5,5,False
+Honda,Accord 4 DR FWD,2015,4.7,4,5,5,False
+Honda,Accord Hybrid 4 DR FWD,2015,4.7,4,5,5,False
+Honda,Odyssey VAN FWD,2015,4.7,5,5,4,False
+Honda,Civic 4 DR FWD,2015,4.3,4,5,4,False
+Honda,Civic Hybrid 4 DR FWD,2015,4.3,4,5,4,False
+Honda,Fit 5 HB FWD,2016,4.7,5,5,4,False
+Honda,Accord 2 DR FWD,2013,5.0,5,5,5,False
+Honda,Accord 4 DR FWD,2013,4.7,4,5,5,False
+Honda,Civic 4 DR FWD,2013,4.3,4,5,4,False
+Honda,Civic Hybrid 4 DR FWD,2013,4.3,4,5,4,False
+Honda,Accord 2 DR FWD,2016,5.0,5,5,5,False
+Honda,Accord 4 DR FWD,2016,4.7,4,5,5,False
+Honda,CR-V SUV AWD,2016,4.7,5,5,4,False
+Honda,CR-V SUV FWD,2016,4.7,5,5,4,False
+Honda,Odyssey VAN FWD,2016,4.7,5,5,4,False
+Honda,Accord 2 DR FWD,2014,5.0,5,5,5,False
+Honda,Accord 4 DR FWD,2014,4.7,4,5,5,False
+Honda,Accord Hybrid 4 DR FWD,2014,4.7,4,5,5,False
+Honda,CR-V SUV FWD,2014,4.7,5,5,4,False
+Honda,CR-V SUV 4WD,2014,4.7,5,5,4,False
+Honda,Odyssey VAN FWD,2014,4.7,5,5,4,False
+Honda,Civic 4 DR FWD,2014,4.3,4,5,4,False
+Honda,Civic Hybrid 4 DR FWD,2014,4.3,4,5,4,False
+Honda,Fit 5 HB FWD,2015,4.7,5,5,4,False
+Honda,Civic 4 DR FWD,2016,5.0,5,5,5,False
+Honda,Civic 2 DR FWD,2016,4.7,4,5,5,False
+Honda,Pilot SUV FWD,2016,4.3,4,5,4,False
+Honda,Pilot SUV AWD,2016,4.3,4,5,4,False
+Honda,Accord 2 DR FWD,2017,5.0,5,5,5,False
+Honda,Accord 4 DR FWD,2017,4.7,4,5,5,False
+Honda,Civic Si 4 DR FWD,2017,5.0,5,5,5,False
+Honda,Civic Si 2 DR FWD,2017,4.7,4,5,5,False
+Honda,Civic 4 DR FWD,2017,5.0,5,5,5,False
+Honda,Civic 5 HB FWD,2017,5.0,5,5,5,False
+Honda,Accord Hybrid 4 DR FWD,2017,4.7,4,5,5,False
+Honda,HR-V SUV AWD,2017,4.3,4,5,4,False
+Honda,HR-V SUV FWD,2017,4.3,4,5,4,False
+Honda,Civic 2 DR FWD,2017,4.7,4,5,5,False
+Honda,HR-V SUV FWD,2016,4.3,4,5,4,False
+Honda,HR-V SUV AWD,2016,4.3,4,5,4,False
+Honda,Fit 5 HB FWD,2017,4.7,5,5,4,False
+Honda,Ridgeline PU/CC FWD,2017,4.7,5,5,4,False
+Honda,Ridgeline PU/CC AWD,2017,4.7,5,5,4,False
+Honda,CR-V SUV AWD,2017,4.7,5,5,4,False
+Honda,CR-V SUV FWD,2017,4.7,5,5,4,False
+Honda,Pilot SUV FWD,2017,4.3,4,5,4,False
+Honda,Pilot SUV AWD,2017,4.3,4,5,4,False
+Honda,Accord 4 DR FWD,2018,5.0,5,5,5,False
+Honda,Pilot SUV AWD,2018,4.3,4,5,4,False
+Honda,Ridgeline PU/CC AWD,2018,4.7,5,5,4,False
+Honda,Odyssey VAN FWD,2017,4.7,5,5,4,False
+Honda,Odyssey VAN FWD,2018,4.7,5,5,4,False
+Honda,Ridgeline PU/CC FWD,2019,4.7,5,5,4,False
+Honda,Ridgeline PU/CC AWD,2019,4.7,5,5,4,False
+Honda,Civic 4 DR FWD,2018,5.0,5,5,5,False
+Honda,CR-V SUV FWD,2018,4.7,5,5,4,False
+Honda,CR-V SUV AWD,2018,4.7,5,5,4,False
+Honda,Fit 5 HB FWD,2019,4.7,5,5,4,False
+Honda,Odyssey VAN FWD,2019,4.7,5,5,4,False
+Honda,Civic 5 HB FWD,2018,5.0,5,5,5,False
+Honda,Fit 5 HB FWD,2018,4.7,5,5,4,False
+Honda,HR-V SUV FWD,2018,4.3,4,5,4,False
+Honda,HR-V SUV AWD,2018,4.3,4,5,4,False
+Honda,Ridgeline PU/CC FWD,2018,4.7,5,5,4,False
+Honda,Insight 4 DR FWD,2019,5.0,5,5,5,False
+Honda,Accord Hybrid 4 DR FWD,2018,5.0,5,5,5,False
+Honda,Passport SUV AWD,2019,4.3,4,5,4,False
+Honda,Passport SUV FWD,2019,4.3,4,5,4,False
+Honda,FIT 5 HB FWD,2020,4.7,5,5,4,False
+Honda,RIDGELINE PU/CC FWD,2020,4.7,5,5,4,False
+Honda,RIDGELINE PU/CC AWD,2020,4.7,5,5,4,False
+Honda,ACCORD HYBRID 4 DR FWD,2020,5.0,5,5,5,False
+Honda,ACCORD 4 DR FWD,2020,5.0,5,5,5,False
+Honda,CIVIC 2 DR FWD,2020,4.7,4,5,5,False
+Honda,CR-V SUV FWD,2020,4.7,5,5,4,False
+Honda,HR-V SUV FWD,2020,4.3,4,5,4,False
+Honda,CR-V SUV AWD,2020,4.7,5,5,4,False
+Honda,HR-V SUV AWD,2020,4.3,4,5,4,False
+Honda,PASSPORT SUV FWD,2020,4.3,4,5,4,False
+Honda,PASSPORT SUV AWD,2020,4.3,4,5,4,False
+Honda,HR-V SUV FWD,2019,4.3,4,5,4,False
+Honda,HR-V SUV AWD,2019,4.3,4,5,4,False
+Honda,ACCORD HYBRID 4 DR FWD,2019,5.0,5,5,5,False
+Honda,ACCORD 4 DR FWD,2019,5.0,5,5,5,False
+Honda,CIVIC 2 DR FWD,2019,4.7,4,5,5,False
+Honda,CIVIC Si 2 DR FWD,2019,4.7,4,5,5,False
+Honda,CIVIC HATCH 5 HB FWD,2019,5.0,5,5,5,False
+Honda,CIVIC 4 DR FWD,2019,5.0,5,5,5,False
+Honda,CIVIC Si 4 DR FWD,2019,5.0,5,5,5,False
+Honda,CR-V SUV FWD,2019,4.7,5,5,4,False
+Honda,CR-V SUV AWD,2019,4.7,5,5,4,False
+Honda,CIVIC Si 2 DR FWD,2020,4.7,4,5,5,False
+Honda,CIVIC HATCH 5 HB FWD,2020,5.0,5,5,5,False
+Honda,CIVIC 4 DR FWD,2020,5.0,5,5,5,False
+Honda,CIVIC Si 4 DR FWD,2020,5.0,5,5,5,False
+Honda,INSIGHT 4 DR FWD,2020,5.0,5,5,5,False
+Honda,ODYSSEY VAN FWD,2020,4.7,5,5,4,False
+Honda,PILOT SUV FWD,2020,4.3,4,5,4,False
+Honda,CR-V HYBRID SUV AWD,2020,4.7,5,5,4,False
+Honda,PILOT SUV AWD,2020,4.3,4,5,4,False
+Honda,INSIGHT 4 DR FWD,2021,5.0,5,5,5,False
+Honda,PILOT SUV FWD,2021,4.3,4,5,4,False
+Honda,PILOT SUV AWD,2021,4.3,4,5,4,False
+Honda,ODYSSEY VAN FWD,2021,4.7,5,5,4,False
+Honda,Pilot SUV FWD,2019,4.3,4,5,4,False
+Honda,Pilot SUV AWD,2019,4.3,4,5,4,False
+Honda,INSIGHT 4 DR FWD,2022,5.0,5,5,5,False
+Honda,HR-V SUV FWD,2022,4.3,4,5,4,False
+Honda,HR-V SUV AWD,2022,4.3,4,5,4,False
+Honda,ACCORD 4 DR FWD,2022,5.0,5,5,5,False
+Honda,CIVIC HATCHBACK 5 HB FWD,2022,4.7,4,5,5,False
+Honda,ACCORD HYBRID 4 DR FWD,2022,5.0,5,5,5,False
+Honda,ODYSSEY VAN FWD,2022,4.7,5,5,4,False
+Honda,CR-V SUV FWD,2021,4.7,5,5,4,False
+Honda,CR-V HYBRID SUV AWD,2021,4.7,5,5,4,False
+Honda,HR-V SUV FWD,2021,4.3,4,5,4,False
+Honda,CR-V SUV AWD,2021,4.7,5,5,4,False
+Honda,HR-V SUV AWD,2021,4.3,4,5,4,False
+Honda,RIDGELINE PU/CC FWD,2021,4.7,5,5,4,False
+Honda,RIDGELINE PU/CC AWD,2021,4.7,5,5,4,False
+Honda,PASSPORT SUV FWD,2021,4.3,4,5,4,False
+Honda,PASSPORT SUV AWD,2021,4.3,4,5,4,False
+Honda,ODYSSEY MV FWD,2023,4.7,5,5,4,False
+Honda,ACCORD HYBRID 4 DR FWD,2021,5.0,5,5,5,False
+Honda,ACCORD 4 DR FWD,2021,5.0,5,5,5,False
+Honda,CIVIC 4 DR FWD,2021,5.0,5,5,5,False
+Honda,CIVIC SEDAN SI 4 DR FWD,2022,4.7,4,5,5,False
+Honda,PASSPORT SUV FWD,2022,4.3,4,5,4,False
+Honda,PASSPORT SUV AWD,2022,4.3,4,5,4,False
+Honda,CIVIC 4 DR FWD,2022,4.7,4,5,5,False
+Honda,CR-V SUV FWD,2022,4.7,5,5,4,False
+Honda,CR-V HYBRID SUV AWD,2022,4.7,5,5,4,False
+Honda,PILOT SUV FWD,2022,4.3,4,5,4,False
+Honda,RIDGELINE PU/CC FWD,2022,4.7,5,5,4,False
+Honda,CR-V SUV AWD,2022,4.7,5,5,4,False
+Honda,PILOT SUV AWD,2022,4.3,4,5,4,False
+Honda,RIDGELINE PU/CC AWD,2022,4.7,5,5,4,False
+Honda,HR-V SUV FWD,2023,4.7,5,5,4,False
+Honda,RIDGELINE PU/CC FWD,2023,4.7,5,5,4,False
+Honda,RIDGELINE PU/CC AWD,2023,4.7,5,5,4,False
+Honda,CIVIC HATCHBACK 5 HB FWD,2023,4.7,4,5,5,False
+Honda,CIVIC SEDAN 4 DR FWD,2023,4.7,4,5,5,False
+Honda,PASSPORT SUV AWD,2023,4.3,4,5,4,False
+Honda,PASSPORT SUV FWD,2023,4.3,4,5,4,False
+Honda,CIVIC SEDAN SI 4 DR FWD,2023,4.7,4,5,5,False
+Honda,HR-V SUV FWD,2024,4.7,5,5,4,False
+Honda,CIVIC HATCHBACK 5 HB FWD,2024,4.7,4,5,5,False
+Honda,CIVIC SEDAN 4 DR FWD,2024,4.7,4,5,5,False
+Honda,CIVIC SEDAN SI 4 DR FWD,2024,4.7,4,5,5,False
+Honda,ODYSSEY PV FWD,2024,4.7,5,5,4,False
+Honda,PASSPORT SUV FWD,2024,4.3,4,5,4,False
+Honda,PASSPORT SUV AWD,2024,4.3,4,5,4,False
+Honda,RIDGELINE PU/CC FWD,2024,4.7,5,5,4,False
+Honda,RIDGELINE PU/CC AWD,2024,4.7,5,5,4,False
+Honda,CIVIC HATCH 5 HB FWD,2021,5.0,5,5,5,False
+Honda,CR-V SUV FWD,2011,4.0,4,4,4,False
+Honda,Pilot SUV FWD,2011,4.3,4,5,4,False
+Honda,Pilot SUV AWD,2011,4.3,4,5,4,False
+Honda,CR-V SUV AWD,2011,4.0,4,4,4,False
+Honda,Pilot SUV FWD,2012,4.3,4,5,4,False
+Honda,Civic 2 DR FWD,2012,4.0,4,4,4,False
+Honda,Fit 5 HB FWD,2012,4.0,4,4,4,False
+Honda,CR-Z 3 HB FWD,2012,4.0,4,3,5,False
+Honda,Pilot SUV 4WD,2012,4.3,4,5,4,False
+Honda,Fit 5 HB FWD,2013,4.0,4,4,4,False
+Honda,CR-Z 3 HB FWD,2013,4.0,4,3,5,False
+Honda,CR-V SUV FWD,2015,4.3,4,5,4,False
+Honda,CR-V SUV AWD,2015,4.3,4,5,4,False
+Honda,Pilot SUV FWD,2015,4.3,4,5,4,False
+Honda,Pilot SUV 4WD,2015,4.3,4,5,4,False
+Honda,Civic 2 DR FWD,2015,4.3,4,5,4,False
+Honda,CR-Z 3 HB FWD,2015,4.0,4,3,5,False
+Honda,Pilot SUV FWD,2013,4.3,4,5,4,False
+Honda,Civic 2 DR FWD,2013,4.3,4,5,4,False
+Honda,Pilot SUV 4WD,2013,4.3,4,5,4,False
+Honda,CR-Z 3 HB FWD,2016,4.0,4,3,5,False
+Honda,Pilot SUV 4WD,2014,4.3,4,5,4,False
+Honda,Pilot SUV FWD,2014,4.3,4,5,4,False
+Honda,Civic 2 DR FWD,2014,4.3,4,5,4,False
+Honda,CR-Z 3 HB FWD,2014,4.0,4,3,5,False
+Honda,Civic Hybrid (IMA) 4 DR FWD,2011,3.3,4,2,4,False
+Honda,Civic 4 DR FWD,2011,3.3,4,2,4,False
+Honda,CR-Z 3 HB FWD,2011,3.7,3,3,5,False
+Honda,Civic CNG 4 DR FWD,2011,3.3,4,2,4,False
+Hyundai,Sonata 4 DR FWD Latest Release,2011,4.7,4,5,5,False
+Hyundai,Sonata Hybrid 4 DR FWD,2011,4.7,4,5,5,False
+Hyundai,Sonata 4 DR FWD Later Release,2011,4.7,4,5,5,False
+Hyundai,Sonata 4 DR FWD,2012,4.7,4,5,5,False
+Hyundai,Sonata Hybrid 4 DR FWD,2012,4.7,4,5,5,False
+Hyundai,Sonata 4 DR FWD,2013,4.7,4,5,5,False
+Hyundai,Elantra 4 DR FWD,2013,4.3,4,5,4,False
+Hyundai,Elantra 4 DR FWD Later Release,2012,4.3,4,5,4,False
+Hyundai,Sonata Hybrid 4 DR FWD,2013,4.7,4,5,5,False
+Hyundai,Elantra GT 5 HB FWD,2013,4.3,4,5,4,False
+Hyundai,Elantra 4 DR FWD,2015,4.3,4,5,4,False
+Hyundai,VELOSTER 3 C FWD,2015,4.3,4,5,4,False
+Hyundai,Santa Fe Sport SUV AWD,2015,4.7,5,5,4,False
+Hyundai,Santa Fe Sport SUV FWD,2015,4.7,5,5,4,False
+Hyundai,Sonata Hybrid 4 DR FWD,2015,4.7,5,5,4,False
+Hyundai,Genesis 4 DR RWD,2015,5.0,5,5,5,False
+Hyundai,Genesis 4 DR AWD,2015,5.0,5,5,5,False
+Hyundai,VELOSTER 3 C FWD,2016,4.3,4,5,4,False
+Hyundai,Santa Fe Sport SUV FWD,2016,4.7,5,5,4,False
+Hyundai,Sonata Hybrid 4 DR FWD,2016,4.7,5,5,4,False
+Hyundai,Elantra 4 DR FWD,2014,4.3,4,5,4,False
+Hyundai,Elantra GT 5 HB FWD,2014,4.3,4,5,4,False
+Hyundai,Santa Fe Sport SUV AWD,2014,4.7,5,5,4,False
+Hyundai,Santa Fe Sport SUV FWD,2014,4.7,5,5,4,False
+Hyundai,Sonata 4 DR FWD,2014,4.7,4,5,5,False
+Hyundai,Sonata Hybrid 4 DR FWD,2014,4.7,4,5,5,False
+Hyundai,Santa Fe Sport SUV AWD,2013,4.7,5,5,4,False
+Hyundai,Santa Fe Sport SUV FWD,2013,4.7,5,5,4,False
+Hyundai,Genesis 4 DR RWD,2016,5.0,5,5,5,False
+Hyundai,Genesis 4 DR AWD,2016,5.0,5,5,5,False
+Hyundai,Sonata 4 DR FWD,2016,4.7,5,5,4,False
+Hyundai,Elantra 4 DR FWD,2016,4.3,4,5,4,False
+Hyundai,Elantra Gt 5 HB FWD,2016,4.3,4,5,4,False
+Hyundai,Santa Fe Sport SUV AWD,2016,4.7,5,5,4,False
+Hyundai,VELOSTER 3 C FWD,2014,4.3,4,5,4,False
+Hyundai,Elantra Gt 5 HB FWD,2015,4.3,4,5,4,False
+Hyundai,Sonata 4 DR FWD,2015,4.7,5,5,4,False
+Hyundai,Tucson SUV FWD,2016,4.7,5,5,4,False
+Hyundai,Tucson SUV AWD,2016,4.7,5,5,4,False
+Hyundai,Sonata Hybrid 4 DR FWD,2017,4.7,5,5,4,False
+Hyundai,VELOSTER 3 C FWD,2017,4.3,4,5,4,False
+Hyundai,Tucson SUV FWD,2017,4.7,5,5,4,False
+Hyundai,Tucson SUV AWD,2017,4.7,5,5,4,False
+Hyundai,Sonata 4 DR FWD,2017,4.7,5,5,4,False
+Hyundai,Santa Fe Sport SUV FWD,2017,4.7,5,5,4,False
+Hyundai,Santa Fe Sport SUV AWD,2017,4.7,5,5,4,False
+Hyundai,Elantra Gt 5 HB FWD,2017,4.3,4,5,4,False
+Hyundai,Sonata Hybrid 4 DR FWD,2018,4.7,5,5,4,False
+Hyundai,Tucson SUV AWD,2018,4.7,5,5,4,False
+Hyundai,Tucson SUV FWD,2018,4.7,5,5,4,False
+Hyundai,Sonata 4 DR FWD,2018,4.7,5,5,4,False
+Hyundai,Santa Fe SUV FWD,2018,4.3,4,5,4,False
+Hyundai,Santa Fe SUV AWD,2018,4.3,4,5,4,False
+Hyundai,Santa Fe Sport SUV FWD,2018,4.7,5,5,4,False
+Hyundai,Santa Fe Sport SUV AWD,2018,4.7,5,5,4,False
+Hyundai,Santa Fe XL SUV FWD,2019,4.3,4,5,4,False
+Hyundai,Santa Fe XL SUV AWD,2019,4.3,4,5,4,False
+Hyundai,Santa Fe SUV FWD,2019,4.3,4,5,4,False
+Hyundai,Santa Fe SUV AWD,2019,4.3,4,5,4,False
+Hyundai,Tucson SUV FWD,2020,4.7,5,5,4,False
+Hyundai,Santa Fe SUV FWD,2020,4.3,4,5,4,False
+Hyundai,Palisade SUV FWD,2020,4.7,5,5,4,False
+Hyundai,Kona SUV AWD,2020,4.7,5,5,4,False
+Hyundai,Tucson SUV AWD,2020,4.7,5,5,4,False
+Hyundai,Santa Fe SUV AWD,2020,4.3,4,5,4,False
+Hyundai,Sonata 4 DR FWD,2020,4.7,4,5,5,False
+Hyundai,Sonata HEV 4 DR FWD,2020,4.7,4,5,5,False
+Hyundai,Kona SUV FWD,2020,4.7,5,5,4,False
+Hyundai,Palisade SUV AWD,2020,4.7,5,5,4,False
+Hyundai,Kona SUV AWD,2021,4.7,5,5,4,False
+Hyundai,Tucson SUV AWD,2021,4.7,5,5,4,False
+Hyundai,Palisade SUV AWD,2021,4.7,5,5,4,False
+Hyundai,Kona SUV FWD,2021,4.7,5,5,4,False
+Hyundai,Tucson SUV FWD,2021,4.7,5,5,4,False
+Hyundai,Palisade SUV FWD,2021,4.7,5,5,4,False
+Hyundai,Sonata Hybrid 4 DR FWD,2019,4.7,5,5,4,False
+Hyundai,Kona SUV AWD,2019,4.7,5,5,4,False
+Hyundai,Kona SUV FWD,2019,4.7,5,5,4,False
+Hyundai,Sonata 4 DR FWD,2019,4.7,5,5,4,False
+Hyundai,Tucson SUV FWD,2019,4.7,5,5,4,False
+Hyundai,Tucson SUV AWD,2019,4.7,5,5,4,False
+Hyundai,Sonata 4 DR FWD,2021,4.7,4,5,5,False
+Hyundai,Sonata Hybrid 4 DR FWD,2021,4.7,4,5,5,False
+Hyundai,Elantra 4 DR FWD,2021,4.7,4,5,5,False
+Hyundai,Elantra Hybrid 4 DR FWD,2021,4.7,4,5,5,False
+Hyundai,Elantra N-Line 4 DR FWD,2021,4.7,4,5,5,False
+Hyundai,Santa Fe SUV FWD,2021,4.7,5,5,4,False
+Hyundai,Santa Fe SUV AWD,2021,4.7,5,5,4,False
+Hyundai,Kona SUV FWD,2022,4.7,5,5,4,False
+Hyundai,Santa Fe SUV FWD,2022,4.7,5,5,4,False
+Hyundai,Elantra 4 DR FWD,2022,4.7,4,5,5,False
+Hyundai,Elantra Hybrid 4 DR FWD,2022,4.7,4,5,5,False
+Hyundai,Sonata 4 DR FWD,2022,4.7,4,5,5,False
+Hyundai,Sonata Hybrid 4 DR FWD,2022,4.7,4,5,5,False
+Hyundai,Kona SUV AWD,2022,4.7,5,5,4,False
+Hyundai,Santa Fe SUV AWD,2022,4.7,5,5,4,False
+Hyundai,Santa Fe Hybrid SUV AWD,2022,4.7,5,5,4,False
+Hyundai,Tucson SUV FWD,2023,4.7,5,5,4,False
+Hyundai,Elantra 4 DR FWD,2023,4.7,4,5,5,False
+Hyundai,Sonata 4 DR FWD,2023,4.7,4,5,5,False
+Hyundai,Elantra 4 DR FWD,2022,4.7,4,5,5,False
+Hyundai,Elantra Hybrid 4 DR FWD,2022,4.7,4,5,5,False
+Hyundai,Sonata 4 DR FWD,2022,4.7,4,5,5,False
+Hyundai,Sonata Hybrid 4 DR FWD,2022,4.7,4,5,5,False
+Hyundai,Kona SUV AWD,2022,4.7,5,5,4,False
+Hyundai,Santa Fe SUV AWD,2022,4.7,5,5,4,False
+Hyundai,Santa Fe Hybrid SUV AWD,2022,4.7,5,5,4,False
+Hyundai,Tucson SUV FWD,2023,4.7,5,5,4,False
+Hyundai,Elantra 4 DR FWD,2023,4.7,4,5,5,False
+Hyundai,Sonata 4 DR FWD,2023,4.7,4,5,5,False
+Hyundai,Santa Cruz PU/CC FWD,2023,4.7,5,5,4,False
+Hyundai,Santa Cruz PU/CC AWD,2023,4.7,5,5,4,False
+Hyundai,Tucson SUV FWD Later Release,2022,4.7,5,5,4,False
+Hyundai,Tucson Hybrid SUV FWD Later Release,2022,4.7,5,5,4,False
+Hyundai,Elantra HEV 4 DR FWD,2023,4.7,4,5,5,False
+Hyundai,Palisade SUV FWD,2022,4.7,5,5,4,False
+Hyundai,Palisade SUV AWD,2022,4.7,5,5,4,False
+Hyundai,Ioniq 5 SUV AWD,2022,4.7,4,5,5,False
+Hyundai,Sonata HEV 4 DR FWD,2023,4.7,4,5,5,False
+Hyundai,Kona SUV FWD,2023,4.7,5,5,4,False
+Hyundai,Kona SUV AWD,2023,4.7,5,5,4,False
+Hyundai,Santa Fe SUV FWD,2023,4.7,5,5,4,False
+Hyundai,Santa Fe SUV AWD,2023,4.7,5,5,4,False
+Hyundai,Santa Fe HEV SUV AWD,2023,4.7,5,5,4,False
+Hyundai,Ioniq 5 SUV AWD,2023,4.7,4,5,5,False
+Hyundai,Santa Fe Hybrid SUV AWD,2021,4.7,5,5,4,False
+Hyundai,Santa Fe Hybrid SUV FWD,2021,4.7,5,5,4,False
+Hyundai,Sonata 4 DR FWD Early Release,2011,4.3,3,5,5,False
+Hyundai,Tucson SUV FWD,2012,4.3,4,5,4,False
+Hyundai,Accent 4 DR FWD,2012,4.0,4,4,4,True
+Hyundai,Accent 5 HB FWD,2012,4.0,4,4,4,True
+Hyundai,Elantra 4 DR FWD Early Release,2012,4.0,3,5,4,False
+Hyundai,Tucson SUV AWD,2012,4.3,4,5,4,False
+Hyundai,Accent 4 DR FWD,2013,4.0,4,4,4,True
+Hyundai,Tucson SUV FWD,2013,4.3,4,5,4,False
+Hyundai,Tucson SUV AWD,2013,4.3,4,5,4,False
+Hyundai,Tucson SUV FWD,2015,4.3,4,5,4,False
+Hyundai,Tucson SUV AWD,2015,4.3,4,5,4,False
+Hyundai,Accent 4 DR FWD,2014,4.0,4,4,4,True
+Hyundai,Accent 5 5 HB FWD,2014,4.0,4,4,4,True
+Hyundai,Accent 5 5 HB FWD,2013,4.0,4,4,4,True
+Hyundai,Accent 4 DR FWD,2016,4.0,4,4,4,True
+Hyundai,Accent 5 5 HB FWD,2016,4.0,4,4,4,True
+Hyundai,Accent 4 DR FWD,2015,4.0,4,4,4,True
+Hyundai,Accent 5 5 HB FWD,2015,4.0,4,4,4,True
+Hyundai,Tucson SUV FWD,2014,4.3,4,5,4,False
+Hyundai,Tucson SUV AWD,2014,4.3,4,5,4,False
+Hyundai,Accent 4 DR FWD,2017,4.0,4,4,4,True
+Hyundai,Accent 5 5 HB FWD,2017,4.0,4,4,4,True
+Hyundai,Elantra 4 DR FWD Early Release,2017,4.3,4,4,5,True
+Hyundai,Elantra Gt 5 HB FWD,2018,4.0,4,4,4,True
+Hyundai,Elantra 4 DR FWD Later Release,2017,4.0,4,4,4,True
+Hyundai,Elantra 4 DR FWD,2018,4.0,4,4,4,True
+Hyundai,Elantra Gt 5 HB FWD,2019,4.0,4,4,4,True
+Hyundai,Elantra 4 DR FWD,2020,4.0,4,4,4,True
+Hyundai,Elantra GT 5 HB FWD,2020,4.0,4,4,4,True
+Hyundai,Venue 5 HB FWD,2020,4.3,4,5,4,False
+Hyundai,Accent 4 DR FWD,2021,4.3,4,4,5,True
+Hyundai,Elantra 4 DR FWD,2019,4.0,4,4,4,True
+Hyundai,Accent 4 DR FWD,2020,4.3,4,4,5,True
+Hyundai,Accent 4 DR FWD,2022,4.3,4,4,5,True
+Hyundai,Venue 5 HB FWD,2022,4.3,4,5,4,False
+Hyundai,Venue SUV FWD,2021,4.3,4,5,4,False
+Hyundai,Tucson SUV FWD Early Release,2022,4.3,4,5,4,False
+Hyundai,Tucson Hybrid SUV FWD Early Release,2022,4.3,4,5,4,False
+Hyundai,Tucson SUV AWD Early Release,2022,4.3,4,5,4,False
+Hyundai,Tucson Hybrid SUV AWD Early Release,2022,4.3,4,5,4,False
+Hyundai,Tucson SUV AWD,2023,4.7,5,5,4,False
+Hyundai,Tucson SUV AWD Later Release,2022,4.7,5,5,4,False
+Hyundai,Tucson Hybrid SUV AWD Later Release,2022,4.7,5,5,4,False
+Hyundai,Tucson Hybrid SUV AWD,2023,4.7,5,5,4,False
+Hyundai,Venue 5 HB FWD,2023,4.3,4,5,4,False
+Hyundai,Venue 5 HB FWD,2024,4.3,4,5,4,False
+Hyundai,Santa Fe SUV FWD,2012,3.3,4,2,4,False
+Hyundai,Santa Fe SUV AWD,2012,3.3,4,2,4,False
+Jeep,Grand Cherokee WK SUV AWD,2022,4.3,4,5,4,False
+Jeep,Grand Cherokee L SUV RWD,2023,4.7,5,5,4,False
+Jeep,Grand Cherokee L SUV 4WD,2023,4.7,5,5,4,False
+Jeep,Grand Cherokee PHEV SUV 4WD,2023,4.7,5,5,4,False
+Jeep,Grand Cherokee L SUV 2WD,2022,4.7,5,5,4,False
+Jeep,Grand Cherokee L SUV 4WD,2022,4.7,5,5,4,False
+Jeep,Grand Cherokee SUV 4WD Later Release,2014,4.7,5,5,4,False
+Jeep,Grand Cherokee SUV 4WD,2015,4.7,5,5,4,False
+Jeep,Grand Cherokee SUV 4WD,2016,4.7,5,5,4,False
+Jeep,Grand Cherokee SUV 4WD,2017,4.7,5,5,4,False
+Jeep,Grand Cherokee SUV 4WD,2020,4.3,4,5,4,False
+Jeep,Grand Cherokee SUV 4WD,2019,4.3,4,5,4,False
+Jeep,Grand Cherokee SUV 4WD,2021,4.3,4,5,4,False
+Jeep,Grand Cherokee L SUV RWD,2024,4.7,5,5,4,False
+Jeep,Grand Cherokee L SUV 4WD,2024,4.7,5,5,4,False
+Jeep,Grand Cherokee 4xe SUV 4WD,2024,4.7,5,5,4,False
+Jeep,Grand Cherokee SUV RWD,2011,4.0,4,5,3,False
+Jeep,Grand Cherokee SUV 4WD,2011,4.3,4,5,4,False
+Jeep,Patriot SUV 2WD,2016,3.7,3,5,3,False
+Jeep,Patriot SUV 4WD,2016,3.7,3,5,3,False
+Jeep,Cherokee SUV 4WD,2016,4.3,4,5,4,False
+Jeep,Cherokee SUV 2WD,2016,4.3,4,5,4,False
+Jeep,Cherokee SUV 4WD,2015,4.3,4,5,4,False
+Jeep,Cherokee SUV 2WD,2015,4.3,4,5,4,False
+Jeep,Patriot SUV 2WD,2013,3.7,3,5,3,False
+Jeep,Patriot SUV 4WD,2013,3.7,3,5,3,False
+Jeep,Cherokee SUV 2WD,2014,4.3,4,5,4,False
+Jeep,Cherokee SUV 4WD,2014,4.3,4,5,4,False
+Jeep,Compass SUV 2WD,2014,4.0,3,5,4,False
+Jeep,Compass SUV 4WD,2014,4.0,3,5,4,False
+Jeep,Patriot SUV 4WD,2014,3.7,3,5,3,False
+Jeep,Patriot SUV 2WD,2014,3.7,3,5,3,False
+Jeep,Renegade SUV 2WD,2016,4.3,4,5,4,False
+Jeep,Renegade SUV 4WD,2016,4.0,4,5,3,False
+Jeep,Patriot SUV FWD,2017,3.7,3,5,3,False
+Jeep,Compass SUV 4WD,2017,4.0,3,5,4,False
+Jeep,Compass SUV FWD,2017,4.0,3,5,4,False
+Jeep,Renegade SUV 4WD,2017,4.0,4,5,3,False
+Jeep,Renegade SUV 2WD,2017,4.3,4,5,4,False
+Jeep,Cherokee SUV 2WD,2017,4.3,4,5,4,False
+Jeep,Cherokee SUV 4WD,2017,4.3,4,5,4,False
+Jeep,Patriot SUV 4WD,2017,3.7,3,5,3,False
+Jeep,Compass SUV FWD,2018,4.0,4,5,3,False
+Jeep,Compass SUV AWD,2018,4.0,4,5,3,False
+Jeep,Renegade SUV 4WD,2018,4.0,4,5,3,False
+Jeep,Renegade SUV 2WD,2018,4.3,4,5,4,False
+Jeep,Cherokee SUV 2WD,2018,4.3,4,5,4,False
+Jeep,Cherokee SUV 4WD,2018,4.3,4,5,4,False
+Jeep,Cherokee SUV 2WD,2019,4.3,4,5,4,False
+Jeep,Cherokee SUV 4WD,2019,4.3,4,5,4,False
+Jeep,Cherokee SUV 4WD,2020,4.3,4,5,4,False
+Jeep,Compass SUV AWD,2020,4.0,4,5,3,False
+Jeep,Renegade SUV AWD,2020,3.7,4,4,3,False
+Jeep,Cherokee SUV FWD,2020,4.3,4,5,4,False
+Jeep,Compass SUV FWD,2020,4.0,4,5,3,False
+Jeep,Renegade SUV FWD,2020,4.0,4,4,4,False
+Jeep,Compass SUV AWD,2019,4.0,4,5,3,False
+Jeep,Compass SUV FWD,2019,4.0,4,5,3,False
+Jeep,Cherokee SUV FWD,2021,4.3,4,5,4,False
+Jeep,Compass SUV FWD,2021,4.0,4,5,3,False
+Jeep,Renegade SUV FWD,2021,4.0,4,4,4,False
+Jeep,Cherokee SUV 4WD,2021,4.3,4,5,4,False
+Jeep,Compass SUV 4WD,2021,4.0,4,5,3,False
+Jeep,Renegade SUV AWD,2021,3.7,4,4,3,False
+Jeep,Cherokee SUV FWD,2022,4.3,4,5,4,False
+Jeep,Compass SUV FWD,2022,4.0,4,5,3,False
+Jeep,Grand Cherokee WK SUV RWD,2022,4.0,4,5,3,False
+Jeep,Renegade SUV FWD,2022,4.0,4,4,4,False
+Jeep,Cherokee SUV AWD,2022,4.3,4,5,4,False
+Jeep,Compass SUV AWD,2022,4.0,4,5,3,False
+Jeep,Renegade SUV AWD,2022,3.7,4,4,3,False
+Jeep,Wagoneer SUV RWD,2023,4.3,5,5,3,False
+Jeep,Wagoneer SUV 4WD,2023,4.3,5,5,3,False
+Jeep,Wagoneer L SUV RWD,2023,4.3,5,5,3,False
+Jeep,Wagoneer L SUV 4WD,2023,4.3,5,5,3,False
+Jeep,Grand Cherokee SUV 2WD Later Release,2014,4.3,5,5,3,False
+Jeep,Grand Cherokee SUV 2WD,2013,4.0,4,5,3,False
+Jeep,Grand Cherokee SUV 4WD,2013,4.3,4,5,4,False
+Jeep,Grand Cherokee SUV 2WD,2015,4.3,5,5,3,False
+Jeep,Grand Cherokee SUV 2WD Early Release,2014,4.0,4,5,3,False
+Jeep,Grand Cherokee SUV 4WD Early Release,2014,4.3,4,5,4,False
+Jeep,Grand Cherokee SUV 2WD,2016,4.3,5,5,3,False
+Jeep,Grand Cherokee SUV 2WD,2017,4.3,5,5,3,False
+Jeep,Grand Cherokee SUV 4WD,2018,4.3,4,5,4,False
+Jeep,Grand Cherokee SUV 2WD,2018,4.0,4,5,3,False
+Jeep,Grand Cherokee SUV 2WD,2020,4.0,4,5,3,False
+Jeep,Grand Cherokee SUV 2WD,2019,4.0,4,5,3,False
+Jeep,Grand Cherokee SUV 2WD,2021,4.0,4,5,3,False
+Jeep,Wagoneer L SUV 4WD,2024,4.3,5,5,3,False
+Jeep,Wagoneer SUV RWD,2024,4.3,5,5,3,False
+Jeep,Wagoneer SUV 4WD,2024,4.3,5,5,3,False
+Jeep,Wagoneer L SUV RWD,2024,4.3,5,5,3,False
+Jeep,Cherokee SUV AWD,2023,4.3,4,5,4,False
+Jeep,Renegade SUV AWD,2023,3.7,4,4,3,False
+Jeep,Grand Cherokee SUV 2WD,2012,4.0,4,5,3,False
+Jeep,Grand Cherokee SUV 4WD,2012,4.3,4,5,4,False
+Jeep,Liberty SUV 2WD,2012,2.7,2,2,4,True
+Jeep,Liberty SUV 4WD,2012,2.7,2,2,4,True
+Jeep,Compass SUV 2WD,2013,3.7,3,4,4,False
+Jeep,Compass SUV 4WD,2013,3.7,3,4,4,False
+Kia,Optima 4 DR FWD,2011,5.0,5,5,5,False
+Kia,Optima 4 DR FWD,2012,5.0,5,5,5,False
+Kia,Optima Hybrid 4 DR FWD,2012,5.0,5,5,5,False
+Kia,Sportage SUV AWD,2012,4.7,5,5,4,False
+Kia,Optima 4 DR FWD,2013,5.0,5,5,5,False
+Kia,Optima Hybrid 4 DR FWD,2013,5.0,5,5,5,False
+Kia,Sportage SUV AWD,2013,4.7,5,5,4,False
+Kia,Optima Hybrid 4 DR FWD,2015,5.0,5,5,5,False
+Kia,Sportage SUV AWD,2016,4.7,5,5,4,False
+Kia,Optima 4 DR FWD,2015,5.0,5,5,5,False
+Kia,Sportage SUV AWD,2015,4.7,5,5,4,False
+Kia,Forte 4 DR FWD,2016,4.3,4,5,4,False
+Kia,Forte 4 DR FWD,2015,4.3,4,5,4,False
+Kia,Sorento SUV FWD,2016,4.7,5,5,4,False
+Kia,Sorento SUV AWD,2016,4.7,5,5,4,False
+Kia,Sedona VAN FWD,2015,4.7,5,5,4,False
+Kia,Soul SUV FWD,2016,4.7,5,5,4,False
+Kia,Optima Hybrid 4 DR FWD,2016,5.0,5,5,5,False
+Kia,Sorento SUV FWD,2015,4.7,5,5,4,False
+Kia,Sorento SUV AWD,2015,4.7,5,5,4,False
+Kia,Sedona VAN FWD,2016,4.7,5,5,4,False
+Kia,Soul SUV FWD,2014,4.7,5,5,4,False
+Kia,Sorento SUV FWD,2014,4.7,5,5,4,False
+Kia,Sorento SUV AWD,2014,4.7,5,5,4,False
+Kia,Soul SUV FWD,2015,4.7,5,5,4,False
+Kia,Sedona VAN FWD,2014,4.7,5,5,4,False
+Kia,Sportage SUV AWD,2014,4.7,5,5,4,False
+Kia,Optima Hybrid 4 DR FWD,2014,5.0,5,5,5,False
+Kia,Optima 4 DR FWD,2014,5.0,5,5,5,False
+Kia,Optima 4 DR FWD,2016,5.0,5,5,5,False
+Kia,Sportage SUV AWD,2017,4.3,4,5,4,False
+Kia,Sportage SUV FWD,2017,4.3,4,5,4,False
+Kia,Forte 4 DR FWD,2017,4.3,4,5,4,False
+Kia,Sorento SUV FWD,2017,4.7,5,5,4,False
+Kia,Sorento SUV AWD,2017,4.7,5,5,4,False
+Kia,Sedona VAN FWD,2017,4.7,5,5,4,False
+Kia,Optima Hybrid 4 DR FWD,2017,5.0,5,5,5,False
+Kia,Soul SUV FWD,2017,4.7,5,5,4,False
+Kia,Optima 4 DR FWD,2017,5.0,5,5,5,False
+Kia,Sportage SUV FWD,2018,4.3,4,5,4,False
+Kia,Sportage SUV AWD,2018,4.3,4,5,4,False
+Kia,Sorento SUV FWD,2018,4.7,5,5,4,False
+Kia,Sorento SUV AWD,2018,4.7,5,5,4,False
+Kia,Sedona VAN FWD,2018,4.7,5,5,4,False
+Kia,Soul SUV FWD,2018,4.7,5,5,4,False
+Kia,Optima 4 DR FWD,2018,5.0,5,5,5,False
+Kia,Forte 4 DR FWD,2018,4.3,4,5,4,False
+Kia,Optima Hybrid 4 DR FWD,2018,5.0,5,5,5,False
+Kia,Optima Hybrid 4 DR FWD,2019,5.0,5,5,5,False
+Kia,Optima 4 DR FWD,2019,5.0,5,5,5,False
+Kia,Sportage SUV AWD,2019,4.3,4,5,4,False
+Kia,Sportage SUV FWD,2019,4.3,4,5,4,False
+Kia,Soul SUV FWD,2019,4.7,5,5,4,False
+Kia,Sorento SUV AWD,2019,4.7,5,5,4,False
+Kia,Sorento SUV FWD,2019,4.7,5,5,4,False
+Kia,Sedona VAN FWD,2019,4.7,5,5,4,False
+Kia,Sportage SUV AWD,2020,4.3,4,5,4,False
+Kia,Sportage SUV FWD,2020,4.3,4,5,4,False
+Kia,Optima Hybrid 4 DR FWD,2020,5.0,5,5,5,False
+Kia,Sorento SUV FWD,2020,4.7,5,5,4,False
+Kia,Optima 4 DR FWD,2020,5.0,5,5,5,False
+Kia,Sedona VAN FWD,2020,4.7,5,5,4,False
+Kia,Stinger 4 DR RWD,2020,4.7,4,5,5,False
+Kia,Sorento SUV AWD,2020,4.7,5,5,4,False
+Kia,Stinger 4 DR AWD,2020,4.7,4,5,5,False
+Kia,TELLURIDE SUV AWD,2020,4.3,4,5,4,False
+Kia,Telluride SUV AWD,2021,4.3,4,5,4,False
+Kia,Stinger 4 DR AWD,2021,4.7,4,5,5,False
+Kia,Telluride SUV FWD,2021,4.3,4,5,4,False
+Kia,K5 4 DR FWD,2021,4.3,4,5,4,False
+Kia,Stinger 4 DR RWD,2021,4.7,4,5,5,False
+Kia,Sedona MV FWD,2021,4.7,5,5,4,False
+Kia,TELLURIDE SUV FWD,2020,4.3,4,5,4,False
+Kia,Niro Electric SUV FWD,2022,4.7,4,5,5,False
+Kia,Sportage SUV FWD,2022,4.3,4,5,4,False
+Kia,Sportage SUV AWD,2022,4.3,4,5,4,False
+Kia,Sportage SUV FWD,2021,4.3,4,5,4,False
+Kia,Sportage SUV AWD,2021,4.3,4,5,4,False
+Kia,Stinger 4 DR RWD,2022,4.7,4,5,5,False
+Kia,K5 4 DR FWD,2022,4.3,4,5,4,False
+Kia,Telluride SUV FWD,2022,4.3,4,5,4,False
+Kia,Stinger 4 DR AWD,2022,4.7,4,5,5,False
+Kia,Telluride SUV AWD,2022,4.3,4,5,4,False
+Kia,Sportage SUV AWD,2023,4.7,5,5,4,False
+Kia,Stinger 4 DR RWD,2023,4.7,4,5,5,False
+Kia,Stinger 4 DR AWD,2023,4.7,4,5,5,False
+Kia,K5 4 DR FWD,2023,4.3,4,5,4,False
+Kia,Telluride SUV FWD,2023,4.3,4,5,4,False
+Kia,Telluride SUV AWD,2023,4.3,4,5,4,False
+Kia,Niro SUV FWD,2023,4.3,4,5,4,False
+Kia,EV6 SUV RWD,2023,5.0,5,5,5,False
+Kia,EV6 SUV AWD,2023,5.0,5,5,5,False
+Kia,Sportage HEV SUV AWD,2023,4.7,5,5,4,False
+Kia,Telluride SUV FWD,2024,4.3,4,5,4,False
+Kia,K5 4 DR FWD,2024,4.3,4,5,4,False
+Kia,Niro SUV FWD,2024,4.3,4,5,4,False
+Kia,EV6 SUV RWD,2024,5.0,5,5,5,False
+Kia,EV6 SUV AWD,2024,5.0,5,5,5,False
+Kia,Telluride SUV AWD,2024,4.3,4,5,4,False
+Kia,K5 4 DR AWD,2023,4.3,4,5,4,False
+Kia,K5 4 DR AWD,2024,4.3,4,5,4,False
+Kia,Forte SW FWD,2011,4.0,4,4,4,True
+Kia,Forte 4 DR FWD,2011,4.0,4,4,4,True
+Kia,Sorento SUV FWD,2011,4.0,4,4,4,False
+Kia,Soul SUV FWD,2011,4.3,4,5,4,False
+Kia,Sorento SUV 4WD,2011,4.0,4,4,4,False
+Kia,Rio 4 DR FWD,2012,4.3,4,4,5,True
+Kia,Rio 5 HB FWD,2012,4.3,4,4,5,True
+Kia,Forte 4 DR FWD,2012,4.0,4,4,4,True
+Kia,Forte 5 HB FWD,2012,4.0,4,4,4,True
+Kia,Soul SUV FWD,2012,4.3,4,5,4,False
+Kia,Sportage SUV FWD,2012,4.7,5,5,4,False
+Kia,Sorento SUV FWD,2012,4.3,4,5,4,False
+Kia,Sorento SUV AWD,2012,4.3,4,5,4,False
+Kia,Forte 4 DR FWD,2013,4.0,4,4,4,True
+Kia,Sportage SUV FWD,2013,4.7,5,5,4,False
+Kia,Soul SUV FWD,2013,4.3,4,5,4,False
+Kia,Rio 5 HB FWD,2013,4.3,4,4,5,True
+Kia,Sorento SUV FWD,2013,4.3,4,5,4,False
+Kia,Sorento SUV AWD,2013,4.3,4,5,4,False
+Kia,Rio 5 HB FWD,2015,4.3,4,4,5,True
+Kia,Rio 4 DR FWD,2015,4.3,4,4,5,True
+Kia,Rio 5 HB FWD,2016,4.3,4,4,5,True
+Kia,Sportage SUV FWD,2016,4.7,5,5,4,False
+Kia,Rio 4 DR FWD,2016,4.3,4,4,5,True
+Kia,Sportage SUV FWD,2015,4.7,5,5,4,False
+Kia,Forte 5 5 HB FWD,2013,4.0,4,4,4,True
+Kia,Rio 4 DR FWD,2013,4.3,4,4,5,True
+Kia,Forte 4 DR FWD,2014,4.0,3,5,4,False
+Kia,Forte 5 HB FWD,2014,4.0,3,5,4,False
+Kia,Sportage SUV FWD,2014,4.7,5,5,4,False
+Kia,Rio 4 DR FWD,2014,4.3,4,4,5,True
+Kia,Rio 5 HB FWD,2014,4.3,4,4,5,True
+Kia,Rio 4 DR FWD,2017,4.3,4,4,5,True
+Kia,Rio 5 HB FWD,2017,4.3,4,4,5,True
+Kia,Niro Hybrid SUV FWD,2019,4.3,4,4,5,True
+Kia,Forte 4 DR FWD,2019,4.3,4,4,5,True
+Kia,Niro Hybrid SUV FWD,2020,4.3,4,4,5,True
+Kia,SELTOS SUV AWD,2021,4.3,4,5,4,False
+Kia,Soul SUV FWD,2021,4.3,4,5,4,False
+Kia,SELTOS SUV FWD,2021,4.3,4,5,4,False
+Kia,Soul SUV FWD,2020,4.3,4,5,4,False
+Kia,Forte 4 DR FWD,2020,4.3,4,4,5,True
+Kia,Sorento SUV FWD Later Release,2021,4.3,4,5,4,False
+Kia,Sorento SUV AWD Later Release,2021,4.3,4,5,4,False
+Kia,Niro Hybrid SUV FWD,2022,4.3,4,4,5,True
+Kia,Sorento SUV FWD,2022,4.3,4,5,4,False
+Kia,Sorento SUV AWD,2022,4.3,4,5,4,False
+Kia,Forte 4 DR FWD,2021,4.3,4,4,5,True
+Kia,Sorento SUV FWD Early Release,2021,4.3,4,5,4,False
+Kia,Sorento Hybrid SUV FWD Early Release,2021,4.3,4,5,4,False
+Kia,Sorento SUV AWD Early Release,2021,4.3,4,5,4,False
+Kia,Sorento Hybrid SUV FWD Later Release,2021,4.3,4,5,4,False
+Kia,Sorento Hybrid SUV AWD,2022,4.3,4,5,4,False
+Kia,Sorento Hybrid SUV FWD,2022,4.3,4,5,4,False
+Kia,Forte 4 DR FWD,2022,4.3,4,4,5,True
+Kia,Soul SUV FWD,2022,4.3,4,5,4,False
+Kia,Seltos SUV FWD,2022,4.3,4,5,4,False
+Kia,Seltos SUV AWD,2022,4.3,4,5,4,False
+Kia,Seltos SUV FWD,2023,4.3,4,5,4,False
+Kia,Seltos SUV AWD,2023,4.3,4,5,4,False
+Kia,Soul SUV FWD,2023,4.3,4,5,4,False
+Kia,Forte 4 DR FWD,2023,4.3,4,4,5,True
+Kia,Niro Hybrid SUV FWD,2021,4.3,4,4,5,True
+Kia,Sorento SUV AWD,2023,4.3,4,5,4,False
+Kia,Sorento HEV SUV FWD,2023,4.3,4,5,4,False
+Kia,Sorento HEV SUV AWD,2023,4.3,4,5,4,False
+Kia,Sorento SUV FWD,2023,4.3,4,5,4,False
+Kia,Forte 4 DR FWD,2024,4.3,4,4,5,True
+Kia,Soul SUV FWD,2024,4.3,4,5,4,False
+Kia,Sorento Hybrid SUV FWD,2024,4.3,4,5,4,False
+Kia,Sorento Hybrid SUV AWD,2024,4.3,4,5,4,False
+Lexus,ES300H 4 DR FWD,2018,4.3,4,5,4,False
+Lexus,RX450h SUV AWD,2013,4.3,4,5,4,False
+Lexus,RX350 SUV AWD,2013,4.3,4,5,4,False
+Lexus,RX450h SUV AWD,2015,4.3,4,5,4,False
+Lexus,RX350 SUV AWD,2015,4.3,4,5,4,False
+Lexus,ES300H 4 DR FWD,2015,4.7,5,5,4,False
+Lexus,ES350 4 DR FWD,2015,4.7,5,5,4,False
+Lexus,IS250 4 DR AWD,2015,4.7,4,5,5,False
+Lexus,ES300H 4 DR FWD,2014,4.7,5,5,4,False
+Lexus,ES350 4 DR FWD,2014,4.7,5,5,4,False
+Lexus,RX350 SUV AWD,2014,4.3,4,5,4,False
+Lexus,IS250 4 DR RWD,2015,4.7,4,5,5,False
+Lexus,IS350 4 DR AWD,2015,4.7,4,5,5,False
+Lexus,IS350 4 DR RWD,2015,4.7,4,5,5,False
+Lexus,RX450h SUV AWD,2014,4.3,4,5,4,False
+Lexus,ES300H 4 DR FWD,2013,4.7,5,5,4,False
+Lexus,ES350 4 DR FWD,2013,4.7,5,5,4,False
+Lexus,ES300H 4 DR FWD,2016,4.3,4,5,4,False
+Lexus,ES350 4 DR FWD,2016,4.3,4,5,4,False
+Lexus,IS200T 4 DR AWD,2016,4.7,4,5,5,False
+Lexus,IS200T 4 DR RWD,2016,4.7,4,5,5,False
+Lexus,IS300 4 DR AWD,2016,4.7,4,5,5,False
+Lexus,IS300 4 DR RWD,2016,4.7,4,5,5,False
+Lexus,IS350 4 DR AWD,2016,4.7,4,5,5,False
+Lexus,IS350 4 DR RWD,2016,4.7,4,5,5,False
+Lexus,NX200T SUV FWD,2016,4.3,4,5,4,False
+Lexus,NX200T SUV AWD,2016,4.3,4,5,4,False
+Lexus,NX300H SUV AWD,2016,4.3,4,5,4,False
+Lexus,NX300H SUV FWD,2016,4.3,4,5,4,False
+Lexus,NX200T SUV AWD,2015,4.3,4,5,4,False
+Lexus,NX200T SUV FWD,2015,4.3,4,5,4,False
+Lexus,NX300H SUV AWD,2015,4.3,4,5,4,False
+Lexus,NX300H SUV FWD,2015,4.3,4,5,4,False
+Lexus,IS350 4 DR RWD,2014,4.7,4,5,5,False
+Lexus,IS350 4 DR AWD,2014,4.7,4,5,5,False
+Lexus,IS250 4 DR RWD,2014,4.7,4,5,5,False
+Lexus,IS250 4 DR AWD,2014,4.7,4,5,5,False
+Lexus,ES300H 4 DR FWD,2017,4.3,4,5,4,False
+Lexus,ES350 4 DR FWD,2017,4.3,4,5,4,False
+Lexus,IS200T 4 DR RWD,2017,4.7,4,5,5,False
+Lexus,IS300 4 DR AWD,2017,4.7,4,5,5,False
+Lexus,IS350 4 DR RWD,2017,4.7,4,5,5,False
+Lexus,IS350 4 DR AWD,2017,4.7,4,5,5,False
+Lexus,RX350 SUV AWD,2017,4.3,4,5,4,False
+Lexus,RX450h SUV AWD,2017,4.3,4,5,4,False
+Lexus,NX200T SUV FWD,2017,4.3,4,5,4,False
+Lexus,NX200T SUV AWD,2017,4.3,4,5,4,False
+Lexus,NX300H SUV FWD,2017,4.3,4,5,4,False
+Lexus,NX300H SUV AWD,2017,4.3,4,5,4,False
+Lexus,ES350 4 DR FWD,2018,4.3,4,5,4,False
+Lexus,IS350 4 DR AWD,2018,4.7,4,5,5,False
+Lexus,IS350 4 DR RWD,2018,4.7,4,5,5,False
+Lexus,IS300 4 DR RWD,2018,4.7,4,5,5,False
+Lexus,IS300 4 DR AWD,2018,4.7,4,5,5,False
+Lexus,RX350 SUV AWD,2018,4.3,4,5,4,False
+Lexus,RX450h SUV AWD,2018,4.3,4,5,4,False
+Lexus,NX300H SUV AWD,2018,4.3,4,5,4,False
+Lexus,NX300 SUV FWD,2018,4.3,4,5,4,False
+Lexus,NX300 SUV AWD,2018,4.3,4,5,4,False
+Lexus,NX300 SUV AWD,2019,4.3,4,5,4,False
+Lexus,NX300 SUV FWD,2019,4.3,4,5,4,False
+Lexus,NX300H SUV AWD,2019,4.3,4,5,4,False
+Lexus,RX350 SUV AWD,2019,4.3,4,5,4,False
+Lexus,RX450h SUV AWD,2019,4.3,4,5,4,False
+Lexus,IS300 4 DR RWD,2019,4.7,4,5,5,False
+Lexus,IS300 4 DR AWD,2019,4.7,4,5,5,False
+Lexus,IS350 4 DR AWD,2019,4.7,4,5,5,False
+Lexus,IS350 4 DR RWD,2019,4.7,4,5,5,False
+Lexus,UX 200 5 HB FWD,2019,4.3,4,5,4,False
+Lexus,UX 250h 5 HB AWD,2019,4.3,4,5,4,False
+Lexus,IS 300 4 DR AWD,2020,4.7,4,5,5,False
+Lexus,IS 350 4 DR AWD,2020,4.7,4,5,5,False
+Lexus,NX300 SUV AWD,2020,4.3,4,5,4,False
+Lexus,NX300 SUV FWD,2020,4.3,4,5,4,False
+Lexus,RX 350 SUV AWD,2020,4.3,4,5,4,False
+Lexus,NX300H SUV AWD,2020,4.3,4,5,4,False
+Lexus,ES 350 4 DR FWD,2020,4.3,4,5,4,False
+Lexus,ES 300h 4 DR FWD,2020,4.3,4,5,4,False
+Lexus,IS 300 4 DR RWD,2020,4.7,4,5,5,False
+Lexus,IS 350 4 DR RWD,2020,4.7,4,5,5,False
+Lexus,RX 450h SUV AWD,2020,4.3,4,5,4,False
+Lexus,UX 200 5 HB FWD,2020,4.3,4,5,4,False
+Lexus,UX 250h 5 HB AWD,2020,4.3,4,5,4,False
+Lexus,ES 350 4 DR FWD,2019,4.3,4,5,4,False
+Lexus,ES 300h 4 DR FWD,2019,4.3,4,5,4,False
+Lexus,ES 250 4 DR AWD,2022,4.3,4,5,4,False
+Lexus,ES 350 4 DR FWD,2022,4.3,4,5,4,False
+Lexus,ES 300h 4 DR FWD,2022,4.3,4,5,4,False
+Lexus,IS 300 4 DR RWD,2022,4.7,4,5,5,False
+Lexus,IS 350 4 DR RWD,2022,4.7,4,5,5,False
+Lexus,IS 500 4 DR RWD,2022,4.7,4,5,5,False
+Lexus,UX 200 5 HB FWD,2022,4.3,4,5,4,False
+Lexus,UX 250h 5 HB AWD,2022,4.3,4,5,4,False
+Lexus,IS 300 4 DR AWD,2022,4.7,4,5,5,False
+Lexus,IS 350 4 DR AWD,2022,4.7,4,5,5,False
+Lexus,ES 250 4 DR AWD,2021,4.3,4,5,4,False
+Lexus,ES 350 4 DR FWD,2021,4.3,4,5,4,False
+Lexus,ES 300h 4 DR FWD,2021,4.3,4,5,4,False
+Lexus,IS 300 4 DR RWD,2021,4.7,4,5,5,False
+Lexus,IS 350 4 DR RWD,2021,4.7,4,5,5,False
+Lexus,NX 300 SUV FWD,2021,4.3,4,5,4,False
+Lexus,NX 300h SUV AWD,2021,4.3,4,5,4,False
+Lexus,UX 200 5 HB FWD,2021,4.3,4,5,4,False
+Lexus,UX 250h 5 HB AWD,2021,4.3,4,5,4,False
+Lexus,IS 300 4 DR AWD,2021,4.7,4,5,5,False
+Lexus,IS 350 4 DR AWD,2021,4.7,4,5,5,False
+Lexus,RX 350 SUV AWD Early Release,2021,4.3,4,5,4,False
+Lexus,NX 300 SUV AWD,2021,4.3,4,5,4,False
+Lexus,ES 250 4 DR AWD,2023,4.3,4,5,4,False
+Lexus,ES 350 4 DR FWD,2023,4.3,4,5,4,False
+Lexus,ES 300h 4 DR FWD,2023,4.3,4,5,4,False
+Lexus,IS 300 4 DR RWD,2023,4.7,4,5,5,False
+Lexus,IS 300 4 DR AWD,2023,4.7,4,5,5,False
+Lexus,IS 350 4 DR RWD,2023,4.7,4,5,5,False
+Lexus,IS 350 4 DR AWD,2023,4.7,4,5,5,False
+Lexus,IS 500 4 DR RWD,2023,4.7,4,5,5,False
+Lexus,UX 250h 5 HB FWD,2023,4.3,4,5,4,False
+Lexus,UX 250h 5 HB AWD,2023,4.3,4,5,4,False
+Lexus,ES 300h 4 DR FWD,2024,4.3,4,5,4,False
+Lexus,ES 350 4 DR FWD,2024,4.3,4,5,4,False
+Lexus,IS 300 4 DR RWD,2024,4.7,4,5,5,False
+Lexus,IS 300 4 DR AWD,2024,4.7,4,5,5,False
+Lexus,IS 350 4 DR RWD,2024,4.7,4,5,5,False
+Lexus,IS 350 4 DR AWD,2024,4.7,4,5,5,False
+Lexus,IS 500 4 DR RWD,2024,4.7,4,5,5,False
+Lexus,UX 250h 5 HB FWD,2024,4.3,4,5,4,False
+Lexus,UX 250h 5 HB AWD,2024,4.3,4,5,4,False
+Lexus,ES 250 4 DR AWD,2024,4.3,4,5,4,False
+Lexus,RX350 SUV AWD,2011,4.3,4,5,4,False
+Lexus,RX450H SUV AWD,2011,4.3,4,5,4,False
+Lexus,RX350 SUV FWD,2011,4.3,4,5,4,False
+Lexus,RX450H SUV FWD,2011,4.3,4,5,4,False
+Lexus,RX350 SUV FWD,2012,4.3,4,5,4,False
+Lexus,RX450h SUV FWD,2012,4.3,4,5,4,False
+Lexus,RX350 SUV AWD,2012,4.3,4,5,4,False
+Lexus,RX450h SUV AWD,2012,4.3,4,5,4,False
+Lexus,RX450h SUV FWD,2013,4.3,4,5,4,False
+Lexus,RX350 SUV FWD,2013,4.3,4,5,4,False
+Lexus,IS250 4 DR AWD,2013,4.7,4,5,5,False
+Lexus,IS250 4 DR RWD,2013,4.7,4,5,5,False
+Lexus,IS350 4 DR RWD,2013,4.7,4,5,5,False
+Lexus,IS350 4 DR AWD,2013,4.7,4,5,5,False
+Lexus,RX350 SUV FWD,2015,4.3,4,5,4,False
+Lexus,RX450h SUV FWD,2015,4.3,4,5,4,False
+Lexus,RX350 SUV FWD,2014,4.3,4,5,4,False
+Lexus,RX450h SUV FWD,2014,4.3,4,5,4,False
+Lexus,RX350 SUV AWD,2016,4.3,4,5,4,False
+Lexus,RX350 SUV FWD,2016,4.3,4,5,4,False
+Lexus,RX350 SUV FWD,2017,4.3,4,5,4,False
+Lexus,RX450h SUV FWD,2017,4.3,4,5,4,False
+Lexus,RX350 SUV FWD,2018,4.3,4,5,4,False
+Lexus,RX350L SUV FWD,2018,4.3,4,5,4,False
+Lexus,RX350L SUV AWD,2018,4.3,4,5,4,False
+Lexus,RX450HL SUV AWD,2018,4.3,4,5,4,False
+Lexus,RX350 SUV FWD,2019,4.3,4,5,4,False
+Lexus,RX350L SUV FWD,2019,4.3,4,5,4,False
+Lexus,RX350L SUV AWD,2019,4.3,4,5,4,False
+Lexus,RX450HL SUV AWD,2019,4.3,4,5,4,False
+Lexus,RX 350L SUV AWD,2020,4.3,4,5,4,False
+Lexus,RX 350 SUV FWD,2020,4.3,4,5,4,False
+Lexus,RX 350L SUV FWD,2020,4.3,4,5,4,False
+Lexus,RX 450hL SUV AWD,2020,4.3,4,5,4,False
+Lexus,RX 350 SUV FWD,2022,4.3,4,5,4,False
+Lexus,RX 350L SUV FWD,2022,4.3,4,5,4,False
+Lexus,RX 450h SUV AWD,2022,4.3,4,5,4,False
+Lexus,RX 450hL SUV AWD,2022,4.3,4,5,4,False
+Lexus,RX 350 SUV AWD,2022,4.3,4,5,4,False
+Lexus,RX 350L SUV AWD,2022,4.3,4,5,4,False
+Lexus,RX 350 SUV AWD Later Release,2021,4.3,4,5,4,False
+Lexus,RX 350 SUV FWD Later Release,2021,4.3,4,5,4,False
+Lexus,RX 350L SUV AWD Later Release,2021,4.3,4,5,4,False
+Lexus,RX 350L SUV FWD Later Release,2021,4.3,4,5,4,False
+Lexus,RX 450h SUV AWD,2021,4.3,4,5,4,False
+Lexus,RX 450hL SUV AWD Later Release,2021,4.3,4,5,4,False
+Lexus,RX 350 SUV FWD Early Release,2021,4.3,4,5,4,False
+Lexus,RX 350L SUV FWD Early Release,2021,4.3,4,5,4,False
+Lexus,RX 450hL SUV AWD Early Release,2021,4.3,4,5,4,False
+Lexus,RX 350L SUV AWD Early Release,2021,4.3,4,5,4,False
+Lexus,GX 460 SUV AWD,2023,3.7,3,5,3,False
+Lexus,ES350 4 DR FWD,2012,3.3,4,2,4,False
+Lincoln,MKS 4 DR FWD,2013,4.7,5,5,4,False
+Lincoln,MKS 4 DR AWD,2013,4.7,5,5,4,False
+Lincoln,MKZ HEV 4 DR FWD,2015,4.3,5,4,4,False
+Lincoln,MKZ 4 DR FWD,2015,4.3,5,4,4,False
+Lincoln,MKZ 4 DR AWD,2015,4.3,5,4,4,False
+Lincoln,MKS 4 DR FWD,2015,4.7,5,5,4,False
+Lincoln,MKS 4 DR AWD,2015,4.7,5,5,4,False
+Lincoln,Navigator SUV 4x2,2015,4.3,5,5,3,False
+Lincoln,Navigator SUV 4x4,2015,4.7,5,5,4,False
+Lincoln,Navigator Extended SUV 4x2,2015,4.3,5,5,3,False
+Lincoln,Navigator Extended SUV 4x4,2015,4.7,5,5,4,False
+Lincoln,MKS 4 DR FWD,2014,4.7,5,5,4,False
+Lincoln,MKS 4 DR AWD,2014,4.7,5,5,4,False
+Lincoln,MKZ HEV 4 DR FWD,2014,4.3,5,4,4,False
+Lincoln,MKZ 4 DR FWD,2014,4.3,5,4,4,False
+Lincoln,MKZ 4 DR AWD,2014,4.3,5,4,4,False
+Lincoln,Navigator Extended SUV 4x2,2016,4.3,5,5,3,False
+Lincoln,Navigator SUV 4x4,2016,4.7,5,5,4,False
+Lincoln,Navigator SUV 4x2,2016,4.3,5,5,3,False
+Lincoln,Navigator Extended SUV 4x4,2016,4.7,5,5,4,False
+Lincoln,MKZ HEV 4 DR FWD,2016,4.3,5,4,4,False
+Lincoln,MKZ 4 DR AWD,2013,4.3,5,4,4,False
+Lincoln,MKS 4 DR FWD,2016,4.7,5,5,4,False
+Lincoln,MKS 4 DR AWD,2016,4.7,5,5,4,False
+Lincoln,MKZ 4 DR FWD,2013,4.3,5,4,4,False
+Lincoln,MKZ HEV 4 DR FWD,2013,4.3,5,4,4,False
+Lincoln,Navigator SUV 4x2,2017,4.3,5,5,3,False
+Lincoln,Navigator SUV 4x4,2017,4.7,5,5,4,False
+Lincoln,Navigator Extended SUV 4x2,2017,4.3,5,5,3,False
+Lincoln,Navigator Extended SUV 4x4,2017,4.7,5,5,4,False
+Lincoln,MKZ 4 DR FWD,2017,4.3,4,5,4,False
+Lincoln,MKZ 4 DR AWD,2017,4.3,4,5,4,False
+Lincoln,MKZ HEV 4 DR FWD,2017,4.3,4,5,4,False
+Lincoln,Continental 4 DR AWD,2017,4.7,5,5,4,False
+Lincoln,Continental 4 DR RWD,2017,4.7,5,5,4,False
+Lincoln,MKZ 4 DR FWD,2018,4.3,4,5,4,False
+Lincoln,MKZ 4 DR AWD,2018,4.3,4,5,4,False
+Lincoln,MKZ HEV 4 DR FWD,2018,4.3,4,5,4,False
+Lincoln,Continental 4 DR FWD,2018,4.7,5,5,4,False
+Lincoln,Continental 4 DR AWD,2018,4.7,5,5,4,False
+Lincoln,Navigator SUV 4x2,2018,4.3,5,5,3,False
+Lincoln,Navigator EL Extended SUV 4x4,2018,4.7,5,5,4,False
+Lincoln,Navigator SUV 4x4,2018,4.7,5,5,4,False
+Lincoln,Navigator EL Extended SUV 4x2,2018,4.3,5,5,3,False
+Lincoln,Navigator SUV 4WD,2020,4.7,5,5,4,False
+Lincoln,Navigator EL SUV 4WD,2020,4.7,5,5,4,False
+Lincoln,MKZ 4 DR FWD,2020,4.3,4,5,4,False
+Lincoln,MKZ HEV 4 DR FWD,2020,4.3,4,5,4,False
+Lincoln,Continental 4 DR FWD,2020,4.7,5,5,4,False
+Lincoln,Nautilus SUV FWD,2020,4.7,5,5,4,False
+Lincoln,Corsair SUV FWD,2020,4.7,5,5,4,False
+Lincoln,Aviator SUV RWD,2020,4.7,5,5,4,False
+Lincoln,Navigator SUV 2WD,2020,4.3,5,5,3,False
+Lincoln,Navigator EL SUV 2WD,2020,4.3,5,5,3,False
+Lincoln,MKZ 4 DR AWD,2019,4.3,4,5,4,False
+Lincoln,MKZ HEV 4 DR FWD,2019,4.3,4,5,4,False
+Lincoln,Continental 4 DR AWD,2019,4.7,5,5,4,False
+Lincoln,Continental 4 DR FWD,2019,4.7,5,5,4,False
+Lincoln,Navigator SUV 4x2,2019,4.3,5,5,3,False
+Lincoln,Navigator SUV 4x4,2019,4.7,5,5,4,False
+Lincoln,Navigator EL Extended SUV 4x2,2019,4.3,5,5,3,False
+Lincoln,Navigator EL Extended SUV 4x4,2019,4.7,5,5,4,False
+Lincoln,MKZ 4 DR AWD,2020,4.3,4,5,4,False
+Lincoln,Continental 4 DR AWD,2020,4.7,5,5,4,False
+Lincoln,Nautilus SUV AWD,2020,4.7,5,5,4,False
+Lincoln,Corsair SUV AWD,2020,4.7,5,5,4,False
+Lincoln,Aviator SUV 4WD,2020,4.7,5,5,4,False
+Lincoln,MKZ 4 DR FWD,2019,4.3,4,5,4,False
+Lincoln,Aviator SUV 4WD,2021,4.7,5,5,4,False
+Lincoln,Corsair SUV AWD,2021,4.7,5,5,4,False
+Lincoln,Nautilus SUV AWD,2021,4.7,5,5,4,False
+Lincoln,Navigator SUV 4WD,2021,4.7,5,5,4,False
+Lincoln,Navigator EL SUV 4WD,2021,4.7,5,5,4,False
+Lincoln,Aviator SUV RWD,2021,4.7,5,5,4,False
+Lincoln,Corsair SUV FWD,2021,4.7,5,5,4,False
+Lincoln,Nautilus SUV FWD,2021,4.7,5,5,4,False
+Lincoln,Navigator SUV 2WD,2021,4.3,5,5,3,False
+Lincoln,Navigator EL SUV 2WD,2021,4.3,5,5,3,False
+Lincoln,Aviator SUV RWD,2022,4.7,5,5,4,False
+Lincoln,Corsair SUV FWD,2022,4.7,5,5,4,False
+Lincoln,Aviator SUV 4WD,2022,4.7,5,5,4,False
+Lincoln,Corsair SUV AWD,2022,4.7,5,5,4,False
+Lincoln,Aviator Gas SUV RWD,2023,4.7,5,5,4,False
+Lincoln,Aviator Gas SUV 4WD,2023,4.7,5,5,4,False
+Lincoln,Corsair Gas SUV FWD,2023,4.7,5,5,4,False
+Lincoln,Corsair Gas SUV AWD,2023,4.7,5,5,4,False
+Lincoln,Nautilus SUV FWD,2023,4.7,5,5,4,False
+Lincoln,Nautilus SUV AWD,2023,4.7,5,5,4,False
+Lincoln,Nautilus SUV FWD,2022,4.7,5,5,4,False
+Lincoln,Nautilus SUV AWD,2022,4.7,5,5,4,False
+Lincoln,Aviator Gas SUV RWD,2024,4.7,5,5,4,False
+Lincoln,Aviator Gas SUV 4WD,2024,4.7,5,5,4,False
+Lincoln,Corsair Gas SUV FWD,2024,4.7,5,5,4,False
+Lincoln,Corsair Gas SUV AWD,2024,4.7,5,5,4,False
+Lincoln,MKX SUV AWD,2016,4.7,5,5,4,False
+Lincoln,MKX SUV FWD,2016,4.7,5,5,4,False
+Lincoln,MKX SUV AWD,2017,4.7,5,5,4,False
+Lincoln,MKX SUV FWD,2017,4.7,5,5,4,False
+Lincoln,MKX SUV FWD,2018,4.7,5,5,4,False
+Lincoln,MKX SUV AWD,2018,4.7,5,5,4,False
+Lincoln,Nautilus SUV FWD,2019,4.7,5,5,4,False
+Lincoln,Nautilus SUV AWD,2019,4.7,5,5,4,False
+Lincoln,MKZ 4 DR AWD,2016,4.3,5,4,4,False
+Lincoln,MKZ 4 DR FWD,2016,4.3,5,4,4,False
+Lincoln,Navigator EXTENDED SUV 4x4,2012,4.3,4,5,4,False
+Lincoln,MKZ 4 DR AWD,2012,4.0,3,4,5,False
+Lincoln,MKX SUV FWD,2012,4.0,3,5,4,False
+Lincoln,Navigator SUV 4x2,2012,4.0,4,5,3,False
+Lincoln,MKZ 4 DR FWD,2012,3.7,3,4,4,False
+Lincoln,MKZ Hev 4 DR FWD,2012,3.7,3,4,4,False
+Lincoln,MKX SUV AWD,2012,4.0,3,5,4,False
+Lincoln,Navigator SUV 4x4,2012,4.3,4,5,4,False
+Lincoln,MKX SUV FWD,2013,4.0,3,5,4,False
+Lincoln,MKX SUV AWD,2013,4.0,3,5,4,False
+Lincoln,Navigator EXTENDED SUV 4x2,2013,4.0,4,5,3,False
+Lincoln,Navigator EXTENDED SUV 4x4,2013,4.3,4,5,4,False
+Lincoln,Navigator SUV 4x2,2013,4.0,4,5,3,False
+Lincoln,Navigator SUV 4x4,2013,4.3,4,5,4,False
+Lincoln,MKX SUV FWD,2014,4.0,3,5,4,False
+Lincoln,MKX SUV AWD,2014,4.0,3,5,4,False
+Lincoln,Navigator Extended SUV 4x4,2014,4.3,4,5,4,False
+Lincoln,Navigator Extended SUV 4x2,2014,4.0,4,5,3,False
+Lincoln,Navigator SUV 4x2,2014,4.0,4,5,3,False
+Lincoln,Navigator SUV 4x4,2014,4.3,4,5,4,False
+Lincoln,MKC SUV AWD,2016,4.3,4,5,4,False
+Lincoln,MKC SUV AWD Later Release,2015,4.3,4,5,4,False
+Lincoln,MKC SUV FWD,2016,4.3,4,5,4,False
+Lincoln,MKC SUV AWD Early Release,2015,4.3,4,4,5,True
+Lincoln,MKC SUV FWD Early Release,2015,4.3,4,4,5,True
+Lincoln,MKC SUV FWD,2017,4.3,4,5,4,False
+Lincoln,MKC SUV AWD,2017,4.3,4,5,4,False
+Lincoln,MKC SUV FWD,2018,4.3,4,5,4,False
+Lincoln,MKC SUV AWD,2018,4.3,4,5,4,False
+Lincoln,MKC SUV AWD,2019,4.3,4,5,4,False
+Lincoln,MKC SUV FWD,2019,4.3,4,5,4,False
+Lincoln,MKX SUV FWD,2015,4.0,3,5,4,False
+Lincoln,MKX SUV AWD,2015,4.0,3,5,4,False
+Mercedes-Benz,C-Class 4 DR RWD,2013,4.3,4,5,4,False
+Mercedes-Benz,C-Class 4 DR AWD,2013,4.3,4,5,4,False
+Mercedes-Benz,ML-Class SUV RWD,2015,4.7,5,5,4,False
+Mercedes-Benz,ML-Class SUV 4WD,2015,4.7,5,5,4,False
+Mercedes-Benz,ML-Class SUV RWD,2013,4.7,5,5,4,False
+Mercedes-Benz,ML-Class SUV 4WD,2013,4.7,5,5,4,False
+Mercedes-Benz,C-Class 4 DR RWD,2014,4.3,4,5,4,False
+Mercedes-Benz,C-Class 4 DR AWD,2014,4.3,4,5,4,False
+Mercedes-Benz,ML-Class SUV RWD,2014,4.7,5,5,4,False
+Mercedes-Benz,ML-Class SUV 4WD,2014,4.7,5,5,4,False
+Mercedes-Benz,C-Class 4 DR 4WD,2016,4.3,4,5,4,False
+Mercedes-Benz,C-Class 4 DR RWD,2016,4.3,4,5,4,False
+Mercedes-Benz,C-Class 4 DR 4WD,2017,4.3,4,5,4,False
+Mercedes-Benz,C-Class 4 DR RWD,2017,4.3,4,5,4,False
+Mercedes-Benz,E-Class 4 DR 4WD,2017,5.0,5,5,5,False
+Mercedes-Benz,E-Class 4 DR RWD,2017,5.0,5,5,5,False
+Mercedes-Benz,E-CLASS SW 4WD,2017,5.0,5,5,5,False
+Mercedes-Benz,E-CLASS SW RWD,2017,5.0,5,5,5,False
+Mercedes-Benz,C-Class with rear seat SAB 4 DR RWD,2015,4.3,4,5,4,False
+Mercedes-Benz,C-Class with rear seat SAB 4 DR 4WD,2015,4.3,4,5,4,False
+Mercedes-Benz,C-Class 4 DR RWD,2018,4.3,4,5,4,False
+Mercedes-Benz,C-Class 4 DR 4WD,2018,4.3,4,5,4,False
+Mercedes-Benz,E-CLASS SW 4WD,2018,5.0,5,5,5,False
+Mercedes-Benz,E-Class 4 DR RWD,2018,5.0,5,5,5,False
+Mercedes-Benz,E-Class 4 DR 4WD,2018,5.0,5,5,5,False
+Mercedes-Benz,E-CLASS SW RWD,2018,5.0,5,5,5,False
+Mercedes-Benz,GLC-Class SUV 4WD,2018,4.7,5,5,4,False
+Mercedes-Benz,GLC-Class SUV RWD,2018,4.7,5,5,4,False
+Mercedes-Benz,E-Class 4 DR RWD,2019,5.0,5,5,5,False
+Mercedes-Benz,E-Class SW RWD,2019,5.0,5,5,5,False
+Mercedes-Benz,GLC-Class SUV RWD,2019,4.7,5,5,4,False
+Mercedes-Benz,E-Class 4 DR 4WD,2019,5.0,5,5,5,False
+Mercedes-Benz,E-Class SW 4WD,2019,5.0,5,5,5,False
+Mercedes-Benz,GLC-Class SUV 4WD,2019,4.7,5,5,4,False
+Mercedes-Benz,E-Class 4 DR RWD,2020,5.0,5,5,5,False
+Mercedes-Benz,E-Class station wagon SW RWD,2020,5.0,5,5,5,False
+Mercedes-Benz,E-Class 4 DR 4WD,2020,5.0,5,5,5,False
+Mercedes-Benz,E-Class station wagon SW 4WD,2020,5.0,5,5,5,False
+Mercedes-Benz,GLC-Class SUV RWD,2022,4.7,5,5,4,False
+Mercedes-Benz,GLE-Class SUV RWD,2022,4.7,5,5,4,False
+Mercedes-Benz,E-Class 4 DR 4WD,2022,5.0,5,5,5,False
+Mercedes-Benz,E-Class station wagon SW 4WD,2022,5.0,5,5,5,False
+Mercedes-Benz,GLB-Class SUV 4WD,2022,4.3,4,5,4,False
+Mercedes-Benz,GLC-Class SUV 4WD,2022,4.7,5,5,4,False
+Mercedes-Benz,GLE-Class SUV 4WD,2022,4.7,5,5,4,False
+Mercedes-Benz,E-Class 4 DR RWD,2022,5.0,5,5,5,False
+Mercedes-Benz,E-Class station wagon SW RWD,2022,5.0,5,5,5,False
+Mercedes-Benz,C-Class 4 DR 4WD,2021,4.3,4,5,4,False
+Mercedes-Benz,E-Class 4 DR 4WD,2021,5.0,5,5,5,False
+Mercedes-Benz,E-Class SW 4WD,2021,5.0,5,5,5,False
+Mercedes-Benz,GLB-Class SUV 4WD,2021,4.3,4,5,4,False
+Mercedes-Benz,GLC SUV 4WD,2021,4.7,5,5,4,False
+Mercedes-Benz,GLE Class SUV 4WD,2021,4.7,5,5,4,False
+Mercedes-Benz,C-Class 4 DR RWD,2021,4.3,4,5,4,False
+Mercedes-Benz,E-Class 4 DR RWD,2021,5.0,5,5,5,False
+Mercedes-Benz,E-Class SW RWD,2021,5.0,5,5,5,False
+Mercedes-Benz,GLC SUV RWD,2021,4.7,5,5,4,False
+Mercedes-Benz,GLE Class SUV RWD,2021,4.7,5,5,4,False
+Mercedes-Benz,E-Class 4 DR RWD,2023,5.0,5,5,5,False
+Mercedes-Benz,E-Class 4 DR AWD,2023,5.0,5,5,5,False
+Mercedes-Benz,E-Class station wagon SW AWD,2023,5.0,5,5,5,False
+Mercedes-Benz,GLB-Class SUV AWD,2023,4.3,4,5,4,False
+Mercedes-Benz,GLE-Class SUV RWD,2023,4.7,5,5,4,False
+Mercedes-Benz,GLE-Class SUV AWD,2023,4.7,5,5,4,False
+Mercedes-Benz,C-Class 4 DR RWD,2011,4.0,3,5,4,False
+Mercedes-Benz,C-Class 4 DR AWD,2011,4.0,3,5,4,False
+Mercedes-Benz,E-CLASS SW 4WD,2015,4.7,4,5,5,False
+Mercedes-Benz,E-CLASS SW RWD,2015,4.7,4,5,5,False
+Mercedes-Benz,E-Class 4 DR RWD,2015,4.7,4,5,5,False
+Mercedes-Benz,E-Class 4 DR 4WD,2015,4.7,4,5,5,False
+Mercedes-Benz,E-Class Hybrid 4 DR RWD,2015,4.7,4,5,5,False
+Mercedes-Benz,E-Class 4 DR 4WD,2016,4.7,4,5,5,False
+Mercedes-Benz,E-Class 4 DR RWD,2016,4.7,4,5,5,False
+Mercedes-Benz,E-CLASS SW 4WD,2016,4.7,4,5,5,False
+Mercedes-Benz,E-CLASS SW RWD,2016,4.7,4,5,5,False
+Mercedes-Benz,E-CLASS SW RWD,2014,4.7,4,5,5,False
+Mercedes-Benz,E-CLASS SW 4WD,2014,4.7,4,5,5,False
+Mercedes-Benz,C-Class 4 DR 4WD,2015,4.3,4,5,4,False
+Mercedes-Benz,C-Class 4 DR RWD,2015,4.3,4,5,4,False
+Mercedes-Benz,E-Class Hybrid 4 DR RWD,2014,4.7,4,5,5,False
+Mercedes-Benz,E-Class 4 DR AWD,2014,4.7,4,5,5,False
+Mercedes-Benz,E-Class 4 DR RWD,2014,4.7,4,5,5,False
+Mercedes-Benz,GLB-Class SUV FWD,2022,4.3,4,5,4,False
+Mercedes-Benz,GLB-Class SUV FWD,2021,4.3,4,5,4,False
+Mercedes-Benz,GLB-Class SUV FWD,2023,4.3,4,5,4,False
+Nissan,Leaf 5 HB FWD,2011,4.3,4,5,4,False
+Nissan,Leaf 5 HB FWD,2012,4.3,4,5,4,False
+Nissan,Pathfinder SUV FWD,2015,4.3,4,5,4,False
+Nissan,Pathfinder SUV AWD,2015,4.3,4,5,4,False
+Nissan,Altima 4 DR FWD,2014,4.7,5,5,4,False
+Nissan,Altima 4 DR FWD,2013,4.7,5,5,4,False
+Nissan,Pathfinder SUV AWD,2016,4.3,4,5,4,False
+Nissan,Pathfinder SUV FWD,2016,4.3,4,5,4,False
+Nissan,Murano SUV AWD,2016,4.3,4,5,4,False
+Nissan,Altima 4 DR FWD,2015,4.7,5,5,4,False
+Nissan,Pathfinder SUV FWD,2014,4.3,4,5,4,False
+Nissan,Pathfinder SUV AWD,2014,4.3,4,5,4,False
+Nissan,Pathfinder Hybrid SUV FWD,2014,4.3,4,5,4,False
+Nissan,Pathfinder Hybrid SUV AWD,2014,4.3,4,5,4,False
+Nissan,Altima 4 DR FWD,2016,4.7,5,5,4,False
+Nissan,Maxima 4 DR FWD Early Release,2016,5.0,5,5,5,True
+Nissan,Altima 4 DR FWD,2017,4.7,5,5,4,False
+Nissan,Maxima 4 DR FWD,2017,5.0,5,5,5,False
+Nissan,Maxima 4 DR FWD Later Release,2016,5.0,5,5,5,False
+Nissan,Pathfinder SUV FWD,2017,4.3,4,5,4,False
+Nissan,Pathfinder SUV AWD,2017,4.3,4,5,4,False
+Nissan,Murano SUV AWD,2018,4.3,4,5,4,False
+Nissan,Maxima 4 DR FWD,2018,4.7,4,5,5,False
+Nissan,Altima 4 DR FWD,2018,4.7,5,5,4,False
+Nissan,Pathfinder SUV AWD,2018,4.3,4,5,4,False
+Nissan,Pathfinder SUV FWD,2018,4.3,4,5,4,False
+Nissan,Altima 4 DR AWD,2020,4.7,4,5,5,False
+Nissan,Pathfinder SUV AWD,2020,4.3,4,5,4,False
+Nissan,Murano SUV AWD,2020,4.7,5,5,4,False
+Nissan,Versa 4 DR FWD,2020,4.7,5,5,4,False
+Nissan,Sentra 4 DR FWD,2020,4.7,4,5,5,False
+Nissan,Altima 4 DR FWD,2020,4.7,4,5,5,False
+Nissan,Maxima 4 DR FWD,2020,5.0,5,5,5,False
+Nissan,Pathfinder SUV FWD,2020,4.3,4,5,4,False
+Nissan,LEAF (40 KWh Battery) 5 HB FWD,2020,4.3,4,5,4,False
+Nissan,LEAF PLUS (62 KWh Battery) 5 HB FWD,2020,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2020,4.7,5,5,4,False
+Nissan,Altima 4 DR FWD,2019,4.7,4,5,5,False
+Nissan,Pathfinder SUV FWD,2019,4.3,4,5,4,False
+Nissan,Pathfinder SUV AWD,2019,4.3,4,5,4,False
+Nissan,Altima 4 DR AWD,2019,4.7,4,5,5,False
+Nissan,Murano SUV AWD,2019,4.7,5,5,4,False
+Nissan,Murano SUV FWD,2019,4.7,5,5,4,False
+Nissan,Versa 4 FWD,2022,4.3,4,5,4,False
+Nissan,Sentra 4 FWD,2022,4.7,4,5,5,False
+Nissan,Altima 4DR FWD,2022,4.7,4,5,5,False
+Nissan,Maxima 4 FWD,2022,5.0,5,5,5,False
+Nissan,LEAF (40 KWh Battery) 5 HB FWD,2022,4.3,4,5,4,False
+Nissan,LEAF PLUS (62 KWh Battery) 5 HB FWD,2022,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2022,4.7,5,5,4,False
+Nissan,Altima 4DR AWD,2022,4.7,4,5,5,False
+Nissan,Murano SUV AWD,2022,4.7,5,5,4,False
+Nissan,Pathfinder SUV AWD,2022,4.3,4,5,4,False
+Nissan,Versa 4 DR FWD,2021,4.3,4,5,4,False
+Nissan,Sentra 4 DR FWD,2021,4.7,4,5,5,False
+Nissan,Altima 4 DR FWD,2021,4.7,4,5,5,False
+Nissan,Maxima 4 DR FWD,2021,5.0,5,5,5,False
+Nissan,LEAF (40 KWh Battery) 5 HB FWD,2021,4.3,4,5,4,False
+Nissan,LEAF PLUS (62 KWh Battery) 5 HB FWD,2021,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2021,4.7,5,5,4,False
+Nissan,Altima 4 DR AWD,2021,4.7,4,5,5,False
+Nissan,Murano SUV AWD,2021,4.7,5,5,4,False
+Nissan,LEAF (40 KWh Battery) 5 HB FWD,2023,4.3,4,5,4,False
+Nissan,LEAF PLUS (62 KWh Battery) 5 HB FWD,2023,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2023,4.7,5,5,4,False
+Nissan,Murano SUV AWD,2023,4.7,5,5,4,False
+Nissan,Rogue SUV FWD,2023,4.3,4,5,4,False
+Nissan,Rogue SUV AWD,2023,4.3,4,5,4,False
+Nissan,ARIYA SUV 2WD,2023,4.3,4,5,4,False
+Nissan,Versa 4 DR FWD,2023,4.3,4,5,4,False
+Nissan,Sentra 4 DR FWD,2023,4.7,4,5,5,False
+Nissan,Maxima 4 DR FWD,2023,5.0,5,5,5,False
+Nissan,Pathfinder SUV AWD,2023,4.3,4,5,4,False
+Nissan,Rogue Sport SUV AWD,2022,4.3,4,5,4,False
+Nissan,Rogue Sport SUV FWD,2021,4.3,4,5,4,False
+Nissan,Rogue Sport SUV AWD,2021,4.3,4,5,4,False
+Nissan,Rogue SUV AWD Later Release,2022,4.3,4,5,4,False
+Nissan,Rogue SUV FWD Later Release,2022,4.3,4,5,4,False
+Nissan,Altima 4 DR FWD,2023,4.7,4,5,5,False
+Nissan,Altima 4 DR AWD,2023,4.7,4,5,5,False
+Nissan,Altima 4 DR FWD,2024,4.7,4,5,5,False
+Nissan,Altima 4 DR AWD,2024,4.7,4,5,5,False
+Nissan,Pathfinder SUV FWD,2024,4.3,4,5,4,False
+Nissan,Pathfinder SUV AWD,2024,4.3,4,5,4,False
+Nissan,LEAF (40 kWh Battery) 5 HB FWD,2024,4.3,4,5,4,False
+Nissan,LEAF PLUS (60 kWh Battery) 5 HB FWD,2024,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2024,4.7,5,5,4,False
+Nissan,Murano SUV AWD,2024,4.7,5,5,4,False
+Nissan,Rogue SUV FWD,2024,4.3,4,5,4,False
+Nissan,Rogue SUV AWD,2024,4.3,4,5,4,False
+Nissan,ARIYA SUV 2WD,2024,4.3,4,5,4,False
+Nissan,Versa 4 DR FWD,2024,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2011,4.3,4,5,4,False
+Nissan,Rogue SUV FWD,2011,4.3,4,5,4,False
+Nissan,Sentra 4 DR FWD,2011,3.3,3,3,4,False
+Nissan,Altima 4 DR FWD,2011,4.3,4,5,4,False
+Nissan,Altima HEV 4 DR FWD,2011,4.3,4,5,4,False
+Nissan,Murano SUV AWD,2011,4.3,4,5,4,False
+Nissan,Rogue SUV AWD,2011,4.3,4,5,4,False
+Nissan,Versa 4 DR FWD,2012,3.7,3,4,4,False
+Nissan,Sentra 4 DR FWD,2012,3.3,3,3,4,False
+Nissan,Altima 4 DR FWD,2012,4.3,4,5,4,False
+Nissan,Maxima 4 DR FWD,2012,4.3,3,5,5,False
+Nissan,Juke SUV FWD,2012,4.0,3,5,4,False
+Nissan,Rogue SUV FWD,2012,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2012,4.3,4,5,4,False
+Nissan,Juke SUV AWD,2012,4.0,3,5,4,False
+Nissan,Rogue SUV AWD,2012,4.3,4,5,4,False
+Nissan,Murano SUV AWD,2012,4.3,4,5,4,False
+Nissan,Juke SUV FWD,2015,4.0,3,5,4,False
+Nissan,Juke SUV AWD,2015,4.0,3,5,4,False
+Nissan,Rogue Select SUV AWD,2015,4.3,4,5,4,False
+Nissan,Rogue Select SUV FWD,2015,4.3,4,5,4,False
+Nissan,Sentra 4 DR FWD,2014,4.3,4,5,4,False
+Nissan,Maxima 4 DR FWD,2014,4.3,3,5,5,False
+Nissan,Rogue Select SUV AWD,2014,4.3,4,5,4,False
+Nissan,Rogue Select SUV FWD,2014,4.3,4,5,4,False
+Nissan,Rogue SUV AWD,2014,4.0,3,5,4,False
+Nissan,Rogue SUV FWD,2014,4.0,3,5,4,False
+Nissan,Leaf 5 HB FWD,2014,4.0,4,4,4,False
+Nissan,Juke SUV AWD,2014,4.0,3,5,4,False
+Nissan,Juke SUV FWD,2014,4.0,3,5,4,False
+Nissan,Murano SUV AWD,2014,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2014,4.3,4,5,4,False
+Nissan,Versa 4 DR FWD,2013,3.7,3,4,4,False
+Nissan,Maxima 4 DR FWD,2013,4.3,3,5,5,False
+Nissan,Leaf 5 HB FWD,2013,4.0,4,4,4,False
+Nissan,Juke SUV AWD,2013,4.0,3,5,4,False
+Nissan,Juke SUV FWD,2013,4.0,3,5,4,False
+Nissan,Rogue SUV FWD,2013,4.3,4,5,4,False
+Nissan,Rogue SUV AWD,2013,4.3,4,5,4,False
+Nissan,Murano SUV AWD,2013,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2013,4.3,4,5,4,False
+Nissan,Pathfinder SUV AWD,2013,4.3,4,5,4,False
+Nissan,Sentra 4 DR FWD,2015,4.3,4,5,4,False
+Nissan,Pathfinder SUV FWD,2013,4.3,4,5,4,False
+Nissan,Sentra 4 DR FWD,2013,4.3,4,5,4,False
+Nissan,Versa 4 DR FWD,2014,3.7,3,4,4,False
+Nissan,Versa 4 DR FWD,2016,4.0,4,4,4,False
+Nissan,Versa Note 5 HB FWD,2016,4.0,3,5,4,False
+Nissan,Sentra 4 DR FWD,2016,4.3,4,5,4,False
+Nissan,Leaf 5 HB FWD,2016,4.0,4,4,4,False
+Nissan,Murano SUV FWD,2016,4.3,4,5,4,False
+Nissan,Rogue SUV AWD,2016,4.3,4,5,4,False
+Nissan,Rogue SUV FWD,2016,4.3,4,5,4,False
+Nissan,Versa 4 DR FWD,2015,3.7,3,4,4,False
+Nissan,Versa Note 5 HB FWD,2015,4.0,3,5,4,False
+Nissan,Leaf 5 HB FWD,2015,4.0,4,4,4,False
+Nissan,Rogue SUV AWD,2015,4.3,4,5,4,False
+Nissan,Rogue SUV FWD,2015,4.3,4,5,4,False
+Nissan,Murano SUV AWD,2015,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2015,4.3,4,5,4,False
+Nissan,Versa Note 5 HB FWD,2014,4.0,3,5,4,False
+Nissan,Juke SUV FWD,2016,4.0,3,5,4,False
+Nissan,Juke SUV AWD,2016,4.0,3,5,4,False
+Nissan,Frontier Crew Cab PU/CC 4WD,2017,4.0,3,5,4,False
+Nissan,Frontier Crew Cab PU/CC RWD,2017,3.7,3,5,3,False
+Nissan,Rogue SUV AWD,2017,4.3,4,5,4,False
+Nissan,Rogue SUV FWD,2017,4.3,4,5,4,False
+Nissan,Titan Crew Cab RWD,2017,4.3,4,5,4,False
+Nissan,Titan Crew Cab AWD,2017,4.3,4,5,4,False
+Nissan,Sentra 4 DR FWD,2017,4.3,4,5,4,False
+Nissan,Murano SUV FWD,2018,4.3,4,5,4,False
+Nissan,Armada SUV AWD,2018,3.7,3,5,3,False
+Nissan,Armada SUV RWD,2018,3.7,3,5,3,False
+Nissan,Versa 4 DR FWD,2018,4.0,4,4,4,False
+Nissan,Sentra 4 DR FWD,2018,4.3,4,5,4,False
+Nissan,Titan Crew Cab RWD Early Release,2018,4.3,4,5,4,False
+Nissan,Titan Crew Cab AWD Early Release,2018,4.3,4,5,4,False
+Nissan,Rogue SUV AWD Early Release,2018,4.3,4,5,4,False
+Nissan,Rogue SUV FWD Early Release,2018,4.3,4,5,4,False
+Nissan,Frontier Crew Cab PU/CC 4WD,2020,4.0,3,5,4,False
+Nissan,Titan Crew Cab PU/CC 4WD,2020,4.0,4,5,3,False
+Nissan,Rogue SUV AWD,2020,4.3,4,5,4,False
+Nissan,Armada SUV AWD,2020,3.7,3,5,3,False
+Nissan,Titan Crew Cab AWD Later Release,2018,4.3,4,5,4,False
+Nissan,Titan Crew Cab RWD Later Release,2018,4.3,4,5,4,False
+Nissan,Frontier Crew Cab PU/CC RWD,2020,3.7,3,5,3,False
+Nissan,Titan Crew Cab PU/CC RWD,2020,4.3,4,5,4,False
+Nissan,Rogue SUV FWD,2020,4.3,4,5,4,False
+Nissan,Kicks SUV FWD,2020,4.3,4,5,4,False
+Nissan,Armada SUV RWD,2020,3.7,3,5,3,False
+Nissan,Frontier Crew Cab PU/CC AWD Early Release,2019,3.7,3,3,5,True
+Nissan,Frontier Crew Cab PU/CC RWD Early Release,2019,3.7,3,3,5,True
+Nissan,Titan Crew Cab AWD,2019,4.3,4,5,4,False
+Nissan,Titan Crew Cab RWD,2019,4.3,4,5,4,False
+Nissan,Rogue SUV AWD Later Release,2018,4.3,4,5,4,False
+Nissan,Rogue SUV FWD Later Release,2018,4.3,4,5,4,False
+Nissan,Rogue SUV AWD,2019,4.3,4,5,4,False
+Nissan,Rogue SUV FWD,2019,4.3,4,5,4,False
+Nissan,Kicks SUV FWD,2019,4.3,4,5,4,False
+Nissan,Armada SUV AWD,2019,3.7,3,5,3,False
+Nissan,Frontier Crew Cab PU/CC AWD Later Release,2019,4.0,3,5,4,False
+Nissan,Frontier Crew Cab PU/CC RWD Later Release,2019,3.7,3,5,3,False
+Nissan,Armada SUV RWD,2019,3.7,3,5,3,False
+Nissan,Versa 4 DR FWD,2019,4.0,4,4,4,False
+Nissan,Sentra 4 DR FWD,2019,4.3,4,5,4,False
+Nissan,Frontier Crew Cab PU/CC RWD,2022,4.0,4,5,3,False
+Nissan,Titan Crew Cab PU/CC RWD,2022,4.3,4,5,4,False
+Nissan,Frontier Crew Cab PU/CC 4WD,2022,4.0,4,5,3,False
+Nissan,Titan Crew Cab PU/CC 4WD,2022,4.0,4,5,3,False
+Nissan,Frontier Crew Cab PU/CC RWD,2021,3.7,3,5,3,False
+Nissan,Frontier Crew Cab PU/CC 4WD,2021,4.0,3,5,4,False
+Nissan,Titan Crew Cab PU/CC RWD,2021,4.3,4,5,4,False
+Nissan,Kicks SUV FWD,2021,4.3,4,5,4,False
+Nissan,Rogue SUV FWD Earlier Release,2021,4.0,3,5,4,False
+Nissan,Titan Crew Cab PU/CC 4WD,2021,4.0,4,5,3,False
+Nissan,Rogue SUV AWD Earlier Release,2021,4.0,3,5,4,False
+Nissan,Rogue SUV FWD Later Release,2021,4.3,4,5,4,False
+Nissan,Rogue SUV AWD Later Release,2021,4.3,4,5,4,False
+Nissan,Kicks SUV FWD,2022,4.3,4,5,4,False
+Nissan,Titan Crew Cab PU/CC RWD,2023,4.3,4,5,4,False
+Nissan,Titan Crew Cab PU/CC 4WD,2023,4.0,4,5,3,False
+Nissan,Armada SUV RWD,2023,3.7,3,5,3,False
+Nissan,Armada SUV 4WD,2023,3.7,3,5,3,False
+Nissan,Frontier Crew Cab PU/CC RWD,2023,4.0,4,5,3,False
+Nissan,Frontier Crew Cab PU/CC 4WD,2023,4.0,4,5,3,False
+Nissan,Rogue Sport SUV FWD,2018,4.3,4,5,4,False
+Nissan,Rogue Sport SUV AWD,2018,4.3,4,5,4,False
+Nissan,Rogue Sport SUV FWD,2019,4.3,4,5,4,False
+Nissan,Rogue Sport SUV AWD,2019,4.3,4,5,4,False
+Nissan,Rogue SUV FWD Early Release,2022,4.3,4,5,4,False
+Nissan,Rogue Sport SUV FWD,2022,4.3,4,5,4,False
+Nissan,Rogue SUV AWD Early Release,2022,4.3,4,5,4,False
+Nissan,Frontier Crew Cab PU/CC RWD,2024,4.0,4,5,3,False
+Nissan,Frontier Crew Cab PU/CC 4WD,2024,4.0,4,5,3,False
+Nissan,Titan Crew Cab PU/CC RWD,2024,4.3,4,5,4,False
+Nissan,Titan Crew Cab PU/CC 4WD,2024,4.0,4,5,3,False
+Nissan,Kicks SUV FWD,2024,4.3,4,5,4,False
+Nissan,Armada SUV RWD,2024,3.7,3,5,3,False
+Nissan,Armada SUV 4WD,2024,3.7,3,5,3,False
+Nissan,Kicks Early Release SUV FWD,2023,4.3,4,5,4,False
+Nissan,Kicks Later Release SUV FWD,2023,4.3,4,5,4,False
+Nissan,Versa 4 DR FWD,2011,3.0,3,2,4,False
+Nissan,Versa 5 HB FWD,2011,3.0,3,2,4,False
+Smart,ED 2 DR RWD,2015,4.3,4,5,4,False
+Smart,ED 2 DR RWD,2013,4.3,4,5,4,False
+Smart,ED 2 DR RWD,2016,4.3,4,5,4,False
+Smart,ED 2 DR RWD,2014,4.3,4,5,4,False
+Smart,Fortwo 2 DR RWD,2017,4.3,4,5,4,False
+Subaru,Legacy 4 DR AWD,2013,5.0,5,5,5,False
+Subaru,Impreza 4 DR AWD,2013,4.7,4,5,5,False
+Subaru,Impreza SW AWD,2013,4.7,4,5,5,False
+Subaru,BRZ 2 DR RWD,2015,4.7,4,5,5,False
+Subaru,Forester SUV AWD,2015,4.3,4,5,4,False
+Subaru,Impreza 4 DR AWD,2015,4.7,4,5,5,False
+Subaru,Impreza SW AWD,2015,4.7,4,5,5,False
+Subaru,XV Crosstrek SUV AWD,2015,4.3,4,5,4,False
+Subaru,XV Crosstrek Hybrid SUV AWD,2015,4.3,4,5,4,False
+Subaru,Legacy 4 DR AWD,2016,5.0,5,5,5,False
+Subaru,Impreza 4 DR AWD,2016,4.7,4,5,5,False
+Subaru,Impreza SW AWD,2016,4.7,4,5,5,False
+Subaru,Crosstrek SUV AWD,2016,4.3,4,5,4,False
+Subaru,Crosstrek Hybrid SUV AWD,2016,4.3,4,5,4,False
+Subaru,Forester SUV AWD,2016,4.3,4,5,4,False
+Subaru,BRZ 2 DR RWD,2016,4.7,4,5,5,False
+Subaru,Outback SUV AWD,2015,4.7,5,5,4,False
+Subaru,Impreza 4 DR AWD,2014,4.7,4,5,5,False
+Subaru,Impreza SW AWD,2014,4.7,4,5,5,False
+Subaru,XV Crosstrek SUV AWD,2014,4.3,4,5,4,False
+Subaru,XV Crosstrek Hybrid SUV AWD,2014,4.3,4,5,4,False
+Subaru,Forester SUV AWD,2014,4.3,4,5,4,False
+Subaru,BRZ 2 DR RWD,2014,4.7,4,5,5,False
+Subaru,Legacy 4 DR AWD,2015,5.0,5,5,5,False
+Subaru,Legacy 4 DR AWD,2014,5.0,5,5,5,False
+Subaru,Legacy 4 DR AWD,2017,5.0,5,5,5,False
+Subaru,Impreza 4 DR AWD,2017,5.0,5,5,5,False
+Subaru,Impreza SW AWD,2017,5.0,5,5,5,False
+Subaru,Crosstrek SW AWD,2017,4.3,4,5,4,False
+Subaru,Forester SUV AWD,2017,4.3,4,5,4,False
+Subaru,Legacy 4 DR AWD,2018,5.0,5,5,5,False
+Subaru,Impreza 4 DR AWD,2018,5.0,5,5,5,False
+Subaru,Impreza SW AWD,2018,5.0,5,5,5,False
+Subaru,Crosstrek SW AWD,2018,4.3,4,5,4,False
+Subaru,Forester SUV AWD,2018,4.3,4,5,4,False
+Subaru,Ascent SUV AWD,2019,4.7,5,5,4,False
+Subaru,Legacy 4 DR AWD,2020,5.0,5,5,5,False
+Subaru,Impreza 4 DR AWD,2020,5.0,5,5,5,False
+Subaru,Impreza SW AWD,2020,5.0,5,5,5,False
+Subaru,Crosstrek SW AWD,2020,4.3,4,5,4,False
+Subaru,WRX 4 DR AWD,2020,5.0,5,5,5,False
+Subaru,Forester SUV AWD,2020,4.7,5,5,4,False
+Subaru,Ascent SUV AWD,2020,4.7,5,5,4,False
+Subaru,Ascent SUV AWD,2021,4.7,5,5,4,False
+Subaru,Legacy 4 DR AWD,2019,5.0,5,5,5,False
+Subaru,Impreza 4 DR AWD,2019,5.0,5,5,5,False
+Subaru,Impreza SW AWD,2019,5.0,5,5,5,False
+Subaru,Crosstrek SW AWD,2019,4.3,4,5,4,False
+Subaru,Forester SUV AWD,2019,4.7,5,5,4,False
+Subaru,Legacy 4 DR AWD,2022,5.0,5,5,5,False
+Subaru,Outback SW AWD,2022,4.7,5,5,4,False
+Subaru,Impreza 4 DR AWD,2022,5.0,5,5,5,False
+Subaru,Impreza SW AWD,2022,5.0,5,5,5,False
+Subaru,Crosstrek SW AWD,2022,4.3,4,5,4,False
+Subaru,Forester SUV AWD,2022,4.7,5,5,4,False
+Subaru,Ascent SUV AWD,2022,4.7,5,5,4,False
+Subaru,Legacy 4 DR AWD,2021,5.0,5,5,5,False
+Subaru,Outback SUV AWD,2021,4.7,5,5,4,False
+Subaru,Impreza 4 DR AWD,2021,5.0,5,5,5,False
+Subaru,Impreza SW AWD,2021,5.0,5,5,5,False
+Subaru,Crosstrek SW AWD,2021,4.3,4,5,4,False
+Subaru,WRX 4 DR AWD,2021,5.0,5,5,5,False
+Subaru,Forester SUV AWD,2021,4.7,5,5,4,False
+Subaru,WRX 4 DR AWD,2022,5.0,5,5,5,False
+Subaru,Legacy 4 DR AWD,2023,5.0,5,5,5,False
+Subaru,Outback SW AWD,2023,4.7,5,5,4,False
+Subaru,Impreza 4 DR AWD,2023,5.0,5,5,5,False
+Subaru,Impreza SW AWD,2023,5.0,5,5,5,False
+Subaru,Crosstrek SW AWD,2023,4.3,4,5,4,False
+Subaru,WRX 4 DR AWD,2023,5.0,5,5,5,False
+Subaru,Forester SUV AWD,2023,4.7,5,5,4,False
+Subaru,Ascent SUV AWD,2023,4.7,5,5,4,False
+Subaru,Solterra SUV AWD,2023,4.7,5,5,4,False
+Subaru,Outback SUV AWD,2020,4.7,5,5,4,False
+Subaru,Outback SW AWD,2019,4.7,5,5,4,False
+Subaru,Legacy 4 DR AWD,2024,5.0,5,5,5,False
+Subaru,Impreza SW AWD,2024,5.0,5,5,5,False
+Subaru,Crosstrek SW AWD,2024,4.7,5,5,4,False
+Tesla,Model S 60KWH 5 HB RWD,2015,5.0,5,5,5,False
+Tesla,Model S 5 HB RWD,2014,5.0,5,5,5,False
+Tesla,Model S 85KWH 5 HB RWD,2015,5.0,5,5,5,False
+Tesla,Model S 5 HB RWD,2013,5.0,5,5,5,False
+Tesla,Model X 60D SUV AWD,2017,5.0,5,5,5,False
+Tesla,Model X 75D SUV AWD,2017,5.0,5,5,5,False
+Tesla,Model X 90D SUV AWD,2017,5.0,5,5,5,False
+Tesla,Model X P100D SUV AWD,2017,5.0,5,5,5,False
+Tesla,Model X P90D SUV AWD,2017,5.0,5,5,5,False
+Tesla,Model 3 4 DR RWD,2018,5.0,5,5,5,False
+Tesla,Model X 60D SUV AWD,2018,5.0,5,5,5,False
+Tesla,Model X 75D SUV AWD,2018,5.0,5,5,5,False
+Tesla,Model X 90D SUV AWD,2018,5.0,5,5,5,False
+Tesla,Model X P100D SUV AWD,2018,5.0,5,5,5,False
+Tesla,Model X P90D SUV AWD,2018,5.0,5,5,5,False
+Tesla,Model S 60 5 HB RWD Early Release,2016,5.0,5,5,5,False
+Tesla,Model S 70 5 HB RWD,2016,5.0,5,5,5,False
+Tesla,Model S 70D 5 HB AWD,2016,5.0,5,5,5,False
+Tesla,Model S 75 5 HB RWD Early Release,2016,5.0,5,5,5,False
+Tesla,Model S 85 5 HB RWD,2016,5.0,5,5,5,False
+Tesla,Model S 90 5 HB RWD,2016,5.0,5,5,5,False
+Tesla,Model 3 4 DR AWD,2019,5.0,5,5,5,False
+Tesla,Model 3 4 DR RWD,2019,5.0,5,5,5,False
+Tesla,Model X 60D SUV AWD,2019,5.0,5,5,5,False
+Tesla,Model X 75D SUV AWD,2019,5.0,5,5,5,False
+Tesla,Model X 90D SUV AWD,2019,5.0,5,5,5,False
+Tesla,Model X P100D SUV AWD,2019,5.0,5,5,5,False
+Tesla,Model X P90D SUV AWD,2019,5.0,5,5,5,False
+Tesla,Model X (All Variants 5-Seat) SUV AWD,2020,5.0,5,5,5,False
+Tesla,Model X (All Variants 6-Seat) SUV AWD,2020,5.0,5,5,5,False
+Tesla,Model X (All Variants 7psgr) SUV AWD,2020,5.0,5,5,5,False
+Tesla,Model 3 4 DR AWD,2020,5.0,5,5,5,False
+Tesla,Model 3 4 DR RWD,2020,5.0,5,5,5,False
+Tesla,Model Y SUV AWD,2020,5.0,5,5,5,False
+Tesla,Model X 5-Seat SUV AWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model X 6-Seat SUV AWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model X 7-Seat SUV AWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model 3 4 DR RWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model 3 4 DR AWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model Y 5-Seat SUV AWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model Y 5-Seat SUV RWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model Y 7-Seat SUV AWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model Y 7-Seat SUV RWD Early Release,2021,5.0,5,5,5,False
+Tesla,Model Y 5-Seat SUV RWD,2022,5.0,5,5,5,False
+Tesla,Model Y 7-Seat SUV AWD,2022,5.0,5,5,5,False
+Tesla,Model Y 7-Seat SUV RWD,2022,5.0,5,5,5,False
+Tesla,Model 3 4 DR AWD Later Release,2021,5.0,5,5,5,False
+Tesla,Model 3 4 DR RWD Later Release,2021,5.0,5,5,5,False
+Tesla,Model Y 5-Seat SUV RWD Later Release,2021,5.0,5,5,5,False
+Tesla,Model Y 5-Seat SUV AWD Later Release,2021,5.0,5,5,5,False
+Tesla,Model Y 7-Seat SUV AWD Later Release,2021,5.0,5,5,5,False
+Tesla,Model Y 7-Seat SUV RWD Later Release,2021,5.0,5,5,5,False
+Tesla,Model 3 4 DR RWD,2022,5.0,5,5,5,False
+Tesla,Model 3 4 DR AWD,2022,5.0,5,5,5,False
+Tesla,Model Y 5-Seat SUV AWD,2022,5.0,5,5,5,False
+Tesla,Model 3 4 DR AWD,2023,5.0,5,5,5,False
+Tesla,Model Y (All Variants) SUV AWD,2023,5.0,5,5,5,False
+Tesla,Model 3 4 DR AWD,2024,5.0,5,5,5,False
+Tesla,Model Y (All Variants) SUV AWD,2024,5.0,5,5,5,False
+Toyota,Prius 4 DR FWD,2011,4.3,4,5,4,False
+Toyota,Scion TC 3 HB FWD,2011,4.3,4,5,4,False
+Toyota,Camry 4 DR FWD,2012,4.3,4,5,4,False
+Toyota,Camry HV 4 DR FWD,2012,4.3,4,5,4,False
+Toyota,Prius 5 HB FWD,2012,4.3,4,5,4,False
+Toyota,Scion TC 3 HB FWD,2012,4.3,4,5,4,False
+Toyota,Camry 4 DR FWD,2013,4.3,4,5,4,False
+Toyota,Camry HV 4 DR FWD,2013,4.3,4,5,4,False
+Toyota,Prius 5 HB FWD,2013,4.3,4,5,4,False
+Toyota,Venza SUV AWD,2013,4.3,4,5,4,False
+Toyota,Venza SUV FWD,2013,4.3,4,5,4,False
+Toyota,Scion TC 3 HB FWD,2013,4.3,4,5,4,False
+Toyota,Scion FR-S 2 DR RWD,2015,4.7,4,5,5,False
+Toyota,Camry 4 DR FWD Later Release,2014,4.3,4,5,4,False
+Toyota,Avalon 4 DR FWD,2015,4.3,4,5,4,False
+Toyota,Avalon HYBRID 4 DR FWD,2015,4.3,4,5,4,False
+Toyota,Camry 4 DR FWD,2015,4.3,4,5,4,False
+Toyota,Camry HV 4 DR FWD,2015,4.3,4,5,4,False
+Toyota,Corolla 4 DR FWD Early Release,2015,4.7,5,5,4,False
+Toyota,Prius V SW FWD,2014,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2014,4.3,4,5,4,False
+Toyota,Sienna VAN AWD,2014,4.3,4,5,4,False
+Toyota,Sienna VAN AWD,2015,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2015,4.3,4,5,4,False
+Toyota,Highlander SUV FWD,2015,4.3,4,5,4,False
+Toyota,Highlander SUV AWD,2015,4.3,4,5,4,False
+Toyota,Highlander HV SUV AWD,2015,4.3,4,5,4,False
+Toyota,Venza SUV AWD,2014,4.3,4,5,4,False
+Toyota,Venza SUV FWD,2014,4.3,4,5,4,False
+Toyota,Venza SUV AWD,2015,4.3,4,5,4,False
+Toyota,Venza SUV FWD,2015,4.3,4,5,4,False
+Toyota,Scion TC 3 HB FWD,2015,4.3,4,5,4,False
+Toyota,Avalon 4 DR FWD,2013,4.3,4,5,4,False
+Toyota,Avalon Hybrid 4 DR FWD,2013,4.3,4,5,4,False
+Toyota,Prius V SW FWD,2013,4.3,4,5,4,False
+Toyota,Scion FR-S 2 DR RWD,2016,4.7,4,5,5,False
+Toyota,Avalon 4 DR FWD,2016,4.3,4,5,4,False
+Toyota,Avalon HYBRID 4 DR FWD,2016,4.3,4,5,4,False
+Toyota,Camry 4 DR FWD,2016,4.3,4,5,4,False
+Toyota,Camry HV 4 DR FWD,2016,4.3,4,5,4,False
+Toyota,Corolla 4 DR FWD,2016,4.7,5,5,4,False
+Toyota,Prius 5 HB FWD,2016,4.3,4,5,4,False
+Toyota,Sienna VAN AWD,2016,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2016,4.3,4,5,4,False
+Toyota,Highlander SUV AWD,2016,4.3,4,5,4,False
+Toyota,Highlander SUV FWD,2016,4.3,4,5,4,False
+Toyota,Corolla 4 DR FWD Later Release,2015,4.7,5,5,4,False
+Toyota,Highlander HV SUV AWD,2016,4.3,4,5,4,False
+Toyota,Scion TC 3 HB FWD,2016,4.3,4,5,4,False
+Toyota,Rav4 SUV FWD Later Release,2015,4.3,4,5,4,False
+Toyota,Rav4 SUV AWD Later Release,2015,4.3,4,5,4,False
+Toyota,Highlander SUV FWD,2014,4.3,4,5,4,False
+Toyota,Highlander SUV AWD,2014,4.3,4,5,4,False
+Toyota,Highlander HV SUV AWD,2014,4.3,4,5,4,False
+Toyota,Scion FR-S 2 DR RWD,2014,4.7,4,5,5,False
+Toyota,Scion TC 3 HB FWD,2014,4.3,4,5,4,False
+Toyota,Avalon 4 DR FWD,2014,4.3,4,5,4,False
+Toyota,Avalon HYBRID 4 DR FWD,2014,4.3,4,5,4,False
+Toyota,Camry 4 DR FWD Early Release,2014,4.3,4,5,4,False
+Toyota,Camry HV 4 DR FWD,2014,4.3,4,5,4,False
+Toyota,Corolla 4 DR FWD,2014,4.7,5,5,4,False
+Toyota,Avalon 4 DR FWD,2017,4.3,4,5,4,False
+Toyota,Avalon Hybrid 4 DR FWD,2017,4.3,4,5,4,False
+Toyota,Camry 4 DR FWD,2017,4.3,4,5,4,False
+Toyota,Camry HV 4 DR FWD,2017,4.3,4,5,4,False
+Toyota,Corolla 4 DR FWD,2017,4.3,4,5,4,False
+Toyota,Prius 5 HB FWD,2017,4.3,4,5,4,False
+Toyota,Rav4 SUV AWD,2017,4.3,4,5,4,False
+Toyota,Rav4 SUV FWD,2017,4.3,4,5,4,False
+Toyota,Rav4 Hybrid SUV AWD,2017,4.3,4,5,4,False
+Toyota,Sienna VAN AWD,2017,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2017,4.3,4,5,4,False
+Toyota,Highlander SUV FWD,2017,4.3,4,5,4,False
+Toyota,Highlander SUV AWD,2017,4.3,4,5,4,False
+Toyota,Highlander HV SUV AWD,2017,4.3,4,5,4,False
+Toyota,Yaris iA 4 DR FWD,2017,4.7,5,5,4,False
+Toyota,Avalon 4 DR FWD,2018,4.3,4,5,4,False
+Toyota,Avalon Hybrid 4 DR FWD,2018,4.3,4,5,4,False
+Toyota,Camry 4 DR FWD,2018,5.0,5,5,5,False
+Toyota,Camry Hybrid 4 DR FWD,2018,5.0,5,5,5,False
+Toyota,Corolla 4 DR FWD,2018,4.3,4,5,4,False
+Toyota,Prius 5 HB FWD,2018,4.3,4,5,4,False
+Toyota,Rav4 SUV AWD,2018,4.3,4,5,4,False
+Toyota,Rav4 SUV FWD,2018,4.3,4,5,4,False
+Toyota,Rav4 Hybrid SUV AWD,2018,4.3,4,5,4,False
+Toyota,Sienna VAN AWD,2018,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2018,4.3,4,5,4,False
+Toyota,Highlander SUV AWD,2018,4.3,4,5,4,False
+Toyota,Highlander SUV FWD,2018,4.3,4,5,4,False
+Toyota,Highlander Hybrid SUV AWD,2018,4.3,4,5,4,False
+Toyota,C-HR 5 HB FWD,2018,4.3,4,5,4,False
+Toyota,Sienna VAN AWD,2019,4.3,4,5,4,False
+Toyota,Highlander SUV AWD,2019,4.3,4,5,4,False
+Toyota,Highlander SUV FWD,2019,4.3,4,5,4,False
+Toyota,Highlander Hybrid SUV AWD,2019,4.3,4,5,4,False
+Toyota,Avalon Hybrid 4 DR FWD,2019,4.3,4,5,4,False
+Toyota,Avalon 4 DR FWD,2019,4.3,4,5,4,False
+Toyota,Corolla 5 HB FWD,2019,4.7,5,5,4,False
+Toyota,C-HR 5 HB FWD,2019,4.7,5,5,4,False
+Toyota,Yaris iA 4 DR FWD,2019,4.7,5,5,4,False
+Toyota,Yaris iA 4 DR FWD,2018,4.7,5,5,4,False
+Toyota,Camry 4 DR FWD,2019,5.0,5,5,5,False
+Toyota,Camry Hybrid 4 DR FWD,2019,5.0,5,5,5,False
+Toyota,Corolla 4 DR FWD,2019,4.3,4,5,4,False
+Toyota,Prius 5 HB FWD,2019,4.3,4,5,4,False
+Toyota,Prius 5 HB AWD,2019,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2019,4.3,4,5,4,False
+Toyota,RAV4 SUV FWD,2019,4.3,4,5,4,False
+Toyota,RAV4 SUV AWD,2019,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV FWD,2020,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV FWD,2020,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV AWD,2020,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV AWD,2020,4.3,4,5,4,False
+Toyota,RAV4 Hybrid SUV AWD,2019,4.3,4,5,4,False
+Toyota,Corolla 5 HB FWD,2020,4.7,5,5,4,False
+Toyota,Corolla Hybrid 4 DR FWD,2020,4.7,5,5,4,False
+Toyota,PRIUS 5 HB AWD,2020,4.3,4,5,4,False
+Toyota,RAV4 SUV AWD,2020,4.3,4,5,4,False
+Toyota,SIENNA VAN AWD,2020,4.3,4,5,4,False
+Toyota,AVALON 4 DR FWD,2020,4.3,4,5,4,False
+Toyota,AVALON HYBRID 4 DR FWD,2020,4.3,4,5,4,False
+Toyota,CAMRY 4 DR FWD,2020,5.0,5,5,5,False
+Toyota,CAMRY HYBRID 4 DR FWD,2020,5.0,5,5,5,False
+Toyota,PRIUS 5 HB FWD,2020,4.3,4,5,4,False
+Toyota,RAV4 SUV FWD,2020,4.3,4,5,4,False
+Toyota,RAV4 HYBRID SUV AWD,2020,4.3,4,5,4,False
+Toyota,SIENNA VAN FWD,2020,4.3,4,5,4,False
+Toyota,C-HR 5 HB FWD,2020,4.7,5,5,4,False
+Toyota,YARIS 4 DR FWD,2020,4.7,5,5,4,False
+Toyota,YARIS HATCHBACK 5 HB FWD,2020,4.7,5,5,4,False
+Toyota,Corolla 4 DR FWD,2020,4.7,5,5,4,False
+Toyota,AVALON 4 DR FWD,2022,4.3,4,5,4,False
+Toyota,AVALON HYBRID 4 DR FWD,2022,4.3,4,5,4,False
+Toyota,CAMRY 4 DR FWD,2022,5.0,5,5,5,False
+Toyota,CAMRY HYBRID 4 DR FWD,2022,5.0,5,5,5,False
+Toyota,COROLLA 4 DR FWD,2022,4.7,5,5,4,False
+Toyota,COROLLA HYBRID 4 DR FWD,2022,4.7,5,5,4,False
+Toyota,COROLLA HATCHBACK 5 HB FWD,2022,4.7,5,5,4,False
+Toyota,PRIUS 5 HB FWD,2022,4.3,4,5,4,False
+Toyota,PRIUS PRIME 5 HB FWD,2022,4.3,4,5,4,False
+Toyota,RAV4 SUV FWD,2022,4.3,4,5,4,False
+Toyota,RAV4 HYBRID SUV AWD,2022,4.3,4,5,4,False
+Toyota,SIENNA HYBRID VAN FWD,2022,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV FWD,2022,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV FWD,2022,4.3,4,5,4,False
+Toyota,VENZA HYBRID SUV AWD,2022,4.3,4,5,4,False
+Toyota,CAMRY 4 DR AWD,2022,5.0,5,5,5,False
+Toyota,PRIUS 5 HB AWD,2022,4.3,4,5,4,False
+Toyota,RAV4 SUV AWD,2022,4.3,4,5,4,False
+Toyota,SIENNA HYBRID VAN AWD,2022,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV AWD,2022,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV AWD,2022,4.3,4,5,4,False
+Toyota,CAMRY 4 DR AWD,2020,5.0,5,5,5,False
+Toyota,VENZA HYBRID SUV AWD,2021,4.3,4,5,4,False
+Toyota,SIENNA HYBRID VAN FWD,2021,4.3,4,5,4,False
+Toyota,SIENNA HYBRID VAN AWD,2021,4.3,4,5,4,False
+Toyota,AVALON 4 DR FWD,2021,4.3,4,5,4,False
+Toyota,AVALON HYBRID 4 DR FWD,2021,4.3,4,5,4,False
+Toyota,CAMRY 4 DR FWD,2021,5.0,5,5,5,False
+Toyota,CAMRY HYBRID 4 DR FWD,2021,5.0,5,5,5,False
+Toyota,COROLLA HATCHBACK 5 HB FWD,2021,4.7,5,5,4,False
+Toyota,PRIUS 5 HB FWD,2021,4.3,4,5,4,False
+Toyota,RAV4 SUV FWD,2021,4.3,4,5,4,False
+Toyota,RAV4 HYBRID SUV AWD,2021,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV FWD,2021,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV FWD,2021,4.3,4,5,4,False
+Toyota,C-HR 5 HB FWD Early Release,2021,4.7,5,5,4,False
+Toyota,AVALON 4 DR AWD,2021,4.3,4,5,4,False
+Toyota,CAMRY 4 DR AWD,2021,5.0,5,5,5,False
+Toyota,PRIUS 5 HB AWD,2021,4.3,4,5,4,False
+Toyota,RAV4 SUV AWD,2021,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV AWD,2021,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV AWD,2021,4.3,4,5,4,False
+Toyota,TUNDRA PU/CC 4WD,2022,4.7,5,5,4,False
+Toyota,PRIUS PRIME 5 HB FWD,2021,4.3,4,5,4,False
+Toyota,COROLLA 4 DR FWD,2021,4.7,5,5,4,False
+Toyota,COROLLA HYBRID 4 DR FWD,2021,4.7,5,5,4,False
+Toyota,TUNDRA PU/CC 4WD,2023,4.7,5,5,4,False
+Toyota,TUNDRA HYBRID PU/CC 4WD,2023,4.7,5,5,4,False
+Toyota,VENZA HYBRID SUV AWD,2023,4.3,4,5,4,False
+Toyota,bZ4X SUV FWD,2023,4.7,5,5,4,False
+Toyota,bZ4X SUV AWD,2023,4.7,5,5,4,False
+Toyota,CAMRY 4 DR FWD Early Release,2023,5.0,5,5,5,False
+Toyota,CAMRY 4 DR AWD Early Release,2023,5.0,5,5,5,False
+Toyota,CAMRY HYBRID 4 DR FWD Early Release,2023,5.0,5,5,5,False
+Toyota,COROLLA 4 DR FWD,2023,4.7,5,5,4,False
+Toyota,COROLLA HYBRID 4 DR FWD,2023,4.7,5,5,4,False
+Toyota,COROLLA HYBRID 4 DR AWD,2023,4.7,5,5,4,False
+Toyota,COROLLA HATCHBACK 5 HB FWD,2023,4.7,5,5,4,False
+Toyota,RAV4 SUV FWD,2023,4.3,4,5,4,False
+Toyota,RAV4 SUV AWD,2023,4.3,4,5,4,False
+Toyota,RAV4 HYBRID SUV AWD,2023,4.3,4,5,4,False
+Toyota,RAV4 PRIME SUV AWD,2023,4.3,4,5,4,False
+Toyota,SIENNA HYBRID VAN FWD,2023,4.3,4,5,4,False
+Toyota,SIENNA HYBRID VAN AWD,2023,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV FWD,2023,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV AWD,2023,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV FWD,2023,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV AWD,2023,4.3,4,5,4,False
+Toyota,TUNDRA HYBRID PU/CC 4WD,2022,4.7,5,5,4,False
+Toyota,RAV4 SUV FWD,2024,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV FWD,2024,4.3,4,5,4,False
+Toyota,TUNDRA PU/CC 4WD,2024,4.7,5,5,4,False
+Toyota,COROLLA 4 DR FWD,2024,4.7,5,5,4,False
+Toyota,COROLLA HYBRID 4 DR FWD,2024,4.7,5,5,4,False
+Toyota,COROLLA HYBRID 4 DR AWD,2024,4.7,5,5,4,False
+Toyota,COROLLA HATCHBACK 5 HB FWD,2024,4.7,5,5,4,False
+Toyota,RAV4 SUV AWD,2024,4.3,4,5,4,False
+Toyota,RAV4 HYBRID SUV AWD,2024,4.3,4,5,4,False
+Toyota,RAV4 PRIME SUV AWD,2024,4.3,4,5,4,False
+Toyota,SIENNA HYBRID VAN FWD,2024,4.3,4,5,4,False
+Toyota,SIENNA HYBRID VAN AWD,2024,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV FWD,2024,4.3,4,5,4,False
+Toyota,HIGHLANDER SUV AWD,2024,4.3,4,5,4,False
+Toyota,HIGHLANDER HYBRID SUV AWD,2024,4.3,4,5,4,False
+Toyota,TUNDRA HYBRID PU/CC 4WD,2024,4.7,5,5,4,False
+Toyota,VENZA HYBRID SUV AWD,2024,4.3,4,5,4,False
+Toyota,bZ4X SUV FWD,2024,4.7,5,5,4,False
+Toyota,bZ4X SUV AWD,2024,4.7,5,5,4,False
+Toyota,Rav4 SUV FWD,2016,4.3,4,5,4,False
+Toyota,Rav4 SUV AWD,2016,4.3,4,5,4,False
+Toyota,Camry 4 DR FWD Later Release,2011,3.7,3,4,4,False
+Toyota,Highlander SUV AWD,2011,4.3,4,5,4,False
+Toyota,Sienna VAN AWD,2011,4.0,3,5,4,False
+Toyota,Tacoma PU/CC AWD,2011,4.0,3,5,4,False
+Toyota,Tundra Double Cab AWD,2011,4.3,4,5,4,False
+Toyota,Tundra PU/RC AWD,2011,4.3,4,5,4,False
+Toyota,Venza SUV AWD,2011,4.0,3,5,4,False
+Toyota,Highlander SUV FWD,2011,4.3,4,5,4,False
+Toyota,Highlander HV SUV AWD,2011,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2011,4.0,3,5,4,False
+Toyota,Tundra Double Cab RWD,2011,4.0,4,5,3,False
+Toyota,Tundra PU/RC RWD,2011,4.0,4,5,3,False
+Toyota,Venza SUV FWD,2011,4.0,3,5,4,False
+Toyota,Tacoma PU/CC RWD,2011,4.0,3,5,4,False
+Toyota,Yaris Liftback 5 HB FWD,2012,4.3,4,5,4,False
+Toyota,Corolla 4 DR FWD,2012,4.3,4,5,4,False
+Toyota,4Runner SUV AWD,2012,4.0,4,5,3,False
+Toyota,RAV4 SUV FWD,2012,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2012,4.3,4,5,4,False
+Toyota,Highlander SUV FWD,2012,4.3,4,5,4,False
+Toyota,Highlander HV SUV AWD,2012,4.3,4,5,4,False
+Toyota,Venza SUV FWD,2012,4.0,3,5,4,False
+Toyota,Tundra PU/RC 2WD,2012,4.0,4,5,3,False
+Toyota,Tundra PU/EC 2WD,2012,4.0,4,5,3,False
+Toyota,Tundra PU/CC 2WD,2012,3.7,3,5,3,False
+Toyota,Tacoma PU/CC 2WD,2012,4.0,3,5,4,False
+Toyota,Scion IQ 3 HB FWD,2012,3.7,4,3,4,False
+Toyota,Camry HV 4 DR FWD Later Release,2011,3.7,3,4,4,False
+Toyota,4Runner SUV 2WD,2012,4.0,4,5,3,False
+Toyota,RAV4 SUV AWD,2012,4.3,4,5,4,False
+Toyota,Sienna VAN AWD,2012,4.3,4,5,4,False
+Toyota,Highlander SUV AWD,2012,4.3,4,5,4,False
+Toyota,Venza SUV AWD,2012,4.0,3,5,4,False
+Toyota,Tundra PU/RC 4WD,2012,4.3,4,5,4,False
+Toyota,Tundra PU/EC 4WD,2012,4.3,4,5,4,False
+Toyota,Tundra PU/CC 4WD,2012,4.0,3,5,4,False
+Toyota,Tacoma PU/CC 4WD,2012,4.0,3,5,4,False
+Toyota,Tacoma PU/CC 2WD,2013,4.0,3,5,4,False
+Toyota,Tacoma PU/EC 2WD,2013,4.3,4,5,4,False
+Toyota,Tacoma PU/EC 4WD,2013,4.3,4,5,4,False
+Toyota,Tacoma PU/RC 2WD,2013,4.0,4,4,4,False
+Toyota,Corolla 4 DR FWD,2013,4.3,4,5,4,False
+Toyota,4Runner SUV 4WD,2013,4.0,4,5,3,False
+Toyota,4Runner SUV 2WD,2013,4.0,4,5,3,False
+Toyota,Sienna VAN AWD,2013,4.3,4,5,4,False
+Toyota,Sienna VAN FWD,2013,4.3,4,5,4,False
+Toyota,Highlander SUV FWD,2013,4.3,4,5,4,False
+Toyota,Highlander SUV AWD,2013,4.3,4,5,4,False
+Toyota,Highlander HV SUV AWD,2013,4.3,4,5,4,False
+Toyota,Tundra PU/EC 2WD,2013,4.0,4,5,3,False
+Toyota,Tundra PU/EC 4WD,2013,4.3,4,5,4,False
+Toyota,Tundra PU/RC 2WD,2013,4.0,4,5,3,False
+Toyota,Tundra PU/RC 4WD,2013,4.3,4,5,4,False
+Toyota,Tundra PU/CC 2WD,2013,4.0,4,5,3,False
+Toyota,Tundra PU/CC 4WD,2013,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 4WD,2013,4.0,3,5,4,False
+Toyota,Tacoma PU/RC 4WD,2013,4.0,4,4,4,False
+Toyota,Scion IQ 3 HB FWD,2013,3.7,4,3,4,False
+Toyota,Prius Plug-In 5 HB FWD,2012,4.3,4,5,4,False
+Toyota,Prius 5 HB FWD,2015,4.3,4,5,4,False
+Toyota,4Runner SUV AWD,2015,4.0,4,5,3,False
+Toyota,Yaris Liftback 5 HB FWD,2014,4.3,4,5,4,False
+Toyota,Prius C 5 HB FWD,2014,4.0,4,4,4,True
+Toyota,Rav4 SUV FWD,2014,4.3,4,5,4,False
+Toyota,Rav4 SUV AWD,2014,4.3,4,5,4,False
+Toyota,4Runner SUV 2WD,2015,4.0,4,5,3,False
+Toyota,Rav4 SUV FWD Early Release,2015,4.3,4,5,4,False
+Toyota,Rav4 SUV AWD Early Release,2015,4.3,4,5,4,False
+Toyota,Tundra PU/CC 4WD,2015,4.3,4,5,4,False
+Toyota,Tacoma PU/RC 4WD,2014,4.0,4,4,4,False
+Toyota,Tacoma PU/RC 2WD,2014,4.0,4,4,4,False
+Toyota,Tacoma PU/CC 4WD,2014,4.0,3,5,4,False
+Toyota,Tacoma PU/EC 4WD,2014,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 2WD,2014,4.0,3,5,4,False
+Toyota,Tacoma PU/EC 2WD,2014,4.3,4,5,4,False
+Toyota,Prius 5 HB FWD,2014,4.3,4,5,4,False
+Toyota,Tundra PU/CC 2WD,2015,4.0,4,5,3,False
+Toyota,Tundra PU/EC 4WD,2015,4.3,4,5,4,False
+Toyota,Tundra PU/RC 4WD,2015,4.3,4,5,4,False
+Toyota,Tundra PU/RC 2WD,2015,4.0,4,5,3,False
+Toyota,Yaris Liftback 5 HB FWD,2015,4.3,4,5,4,False
+Toyota,Prius C 5 HB FWD,2015,4.0,4,4,4,True
+Toyota,Scion IQ 3 HB FWD,2015,3.7,4,3,4,False
+Toyota,Tundra PU/EC 2WD,2015,4.0,4,5,3,False
+Toyota,Tacoma PU/EC 2WD,2015,4.0,4,4,4,False
+Toyota,Tacoma PU/CC 2WD,2015,4.0,3,5,4,False
+Toyota,Tacoma PU/EC 4WD,2015,4.0,4,4,4,False
+Toyota,Tacoma PU/CC 4WD,2015,4.0,3,5,4,False
+Toyota,Yaris Liftback 5 HB FWD,2013,4.3,4,5,4,False
+Toyota,Prius C 5 HB FWD,2013,4.0,4,4,4,True
+Toyota,Prius Plug-In Hybrid 5 HB FWD,2013,4.3,4,5,4,False
+Toyota,4Runner SUV AWD,2016,4.0,4,5,3,False
+Toyota,4Runner SUV 2WD,2016,4.0,4,5,3,False
+Toyota,Prius C 5 HB FWD,2016,4.0,4,4,4,True
+Toyota,Tundra PU/EC 2WD,2016,4.0,4,5,3,False
+Toyota,Tundra PU/EC 4WD,2016,4.3,4,5,4,False
+Toyota,Tundra PU/RC 4WD,2016,4.3,4,5,4,False
+Toyota,Tundra PU/RC 2WD,2016,4.0,4,5,3,False
+Toyota,Tundra PU/CC 4WD,2016,4.3,4,5,4,False
+Toyota,Tundra PU/CC 2WD,2016,4.0,4,5,3,False
+Toyota,Tacoma PU/CC 2WD,2016,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 4WD,2016,4.3,4,5,4,False
+Toyota,Yaris Liftback 5 HB FWD,2016,4.3,4,5,4,False
+Toyota,4Runner SUV AWD,2014,4.0,4,5,3,False
+Toyota,Tundra PU/EC 4WD,2014,3.7,2,5,4,False
+Toyota,Tundra PU/CC 2WD,2014,4.0,4,5,3,False
+Toyota,Tundra PU/CC 4WD,2014,4.3,4,5,4,False
+Toyota,Scion IQ 3 HB FWD,2014,3.7,4,3,4,False
+Toyota,4Runner SUV FWD,2014,4.0,4,5,3,False
+Toyota,4Runner SUV 2WD,2017,4.0,4,5,3,False
+Toyota,4Runner SUV AWD,2017,4.0,4,5,3,False
+Toyota,Tundra PU/CC 2WD,2017,4.0,4,5,3,False
+Toyota,Tundra PU/CC 4WD,2017,4.3,4,5,4,False
+Toyota,Tundra PU/EC 4WD,2017,4.3,4,5,4,False
+Toyota,Tundra PU/EC 2WD,2017,4.0,4,5,3,False
+Toyota,Tundra PU/RC 2WD,2017,4.0,4,5,3,False
+Toyota,Tundra PU/RC 4WD,2017,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 4WD,2017,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 2WD,2017,4.3,4,5,4,False
+Toyota,Prius C 5 HB FWD,2017,4.0,4,4,4,True
+Toyota,Yaris 5 HB FWD,2017,4.3,4,5,4,False
+Toyota,Prius C 5 HB FWD,2018,4.0,4,4,4,False
+Toyota,4Runner SUV AWD,2018,4.0,4,5,3,False
+Toyota,4Runner SUV 2WD,2018,4.0,4,5,3,False
+Toyota,Tundra PU/CC 2WD,2018,4.0,4,5,3,False
+Toyota,Tundra PU/CC 4WD,2018,4.3,4,5,4,False
+Toyota,Tundra PU/EC 2WD,2018,4.0,4,5,3,False
+Toyota,Tundra PU/EC 4WD,2018,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 4WD,2018,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 2WD,2018,4.3,4,5,4,False
+Toyota,Tundra PU/CC 2WD,2019,4.0,4,5,3,False
+Toyota,Tundra PU/EC 4WD,2019,4.3,4,5,4,False
+Toyota,Prius C 5 HB FWD,2019,4.0,4,4,4,False
+Toyota,Tundra PU/EC 2WD,2019,4.0,4,5,3,False
+Toyota,Tundra PU/CC 4WD,2019,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 2WD,2019,4.3,4,5,4,False
+Toyota,Tacoma PU/CC 4WD,2019,4.3,4,5,4,False
+Toyota,4Runner SUV 2WD,2019,4.0,4,5,3,False
+Toyota,4Runner SUV AWD,2019,4.0,4,5,3,False
+Toyota,4RUNNER SUV AWD,2020,4.0,4,5,3,False
+Toyota,TUNDRA PU/EC 4WD,2020,4.3,4,5,4,False
+Toyota,TUNDRA PU/CC 4WD,2020,4.3,4,5,4,False
+Toyota,TACOMA PU/EC 4WD,2020,4.3,4,5,4,False
+Toyota,TACOMA PU/CC 4WD,2020,4.3,4,5,4,False
+Toyota,PRIUS c 5 HB FWD,2020,4.0,4,4,4,False
+Toyota,4RUNNER SUV 2WD,2020,4.0,4,5,3,False
+Toyota,TUNDRA PU/EC 2WD,2020,4.0,4,5,3,False
+Toyota,TUNDRA PU/CC 2WD,2020,4.0,4,5,3,False
+Toyota,TACOMA PU/EC 2WD,2020,4.3,4,5,4,False
+Toyota,TACOMA PU/CC 2WD,2020,4.3,4,5,4,False
+Toyota,4RUNNER SUV 2WD,2022,4.0,4,5,3,False
+Toyota,TACOMA PU/EC 2WD,2022,4.3,4,5,4,False
+Toyota,TACOMA PU/CC 2WD,2022,4.3,4,5,4,False
+Toyota,C-HR 5 HB FWD,2022,4.3,4,5,4,False
+Toyota,4RUNNER SUV AWD,2022,4.0,4,5,3,False
+Toyota,TACOMA PU/EC 4WD,2022,4.3,4,5,4,False
+Toyota,TACOMA PU/CC 4WD,2022,4.3,4,5,4,False
+Toyota,4RUNNER SUV 2WD,2021,4.0,4,5,3,False
+Toyota,TUNDRA PU/EC 2WD,2021,4.0,4,5,3,False
+Toyota,TUNDRA PU/CC 2WD,2021,4.0,4,5,3,False
+Toyota,TACOMA PU/EC 2WD,2021,4.3,4,5,4,False
+Toyota,TACOMA PU/CC 2WD,2021,4.3,4,5,4,False
+Toyota,4RUNNER SUV AWD,2021,4.0,4,5,3,False
+Toyota,TUNDRA PU/EC 4WD,2021,4.3,4,5,4,False
+Toyota,TUNDRA PU/CC 4WD,2021,4.3,4,5,4,False
+Toyota,TACOMA PU/EC 4WD,2021,4.3,4,5,4,False
+Toyota,TACOMA PU/CC 4WD,2021,4.3,4,5,4,False
+Toyota,C-HR 5 HB FWD Later Release,2021,4.3,4,5,4,False
+Toyota,TACOMA PU/EC 2WD,2023,4.3,4,5,4,False
+Toyota,TACOMA PU/EC 4WD,2023,4.3,4,5,4,False
+Toyota,TACOMA PU/CC 2WD,2023,4.3,4,5,4,False
+Toyota,TACOMA PU/CC 4WD,2023,4.3,4,5,4,False
+Toyota,4RUNNER SUV 2WD,2023,4.0,4,5,3,False
+Toyota,4RUNNER SUV AWD,2023,4.0,4,5,3,False
+Toyota,4RUNNER SUV 2WD,2024,4.0,4,5,3,False
+Toyota,4RUNNER SUV 4WD,2024,4.0,4,5,3,False
+Toyota,Rav4 SUV FWD Later Release,2013,4.3,4,5,4,False
+Toyota,Rav4 SUV AWD Later Release,2013,4.3,4,5,4,False
+Toyota,Rav4 SUV AWD Early Release,2013,4.3,4,5,4,False
+Toyota,Rav4 SUV FWD Early Release,2013,4.3,4,5,4,False
+Toyota,RAV4 SUV AWD,2011,3.7,3,4,4,False
+Toyota,Camry 4 DR FWD Early Release,2011,3.3,3,3,4,False
+Toyota,Camry HV 4 DR FWD Early Release,2011,3.3,3,3,4,False
+Toyota,Corolla 4 DR FWD,2011,3.3,4,2,4,False
+Toyota,RAV4 SUV FWD,2011,3.7,3,4,4,False
+Toyota,Tundra PU/RC 2WD,2014,3.3,2,5,3,False
+Toyota,Tundra PU/RC 4WD,2014,3.7,2,5,4,False
+Toyota,Tundra PU/EC 2WD,2014,3.3,2,5,3,False
+Volkswagen,Passat 4 DR FWD,2012,4.7,5,5,4,False
+Volkswagen,Beetle 2 DR FWD,2013,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD,2013,4.7,5,5,4,False
+Volkswagen,Beetle 2 DR FWD,2015,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2015,4.3,4,5,4,False
+Volkswagen,Jetta HEV 4 DR FWD,2015,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD,2015,4.7,5,5,4,False
+Volkswagen,Jetta HEV 4 DR FWD,2016,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2016,4.3,4,5,4,False
+Volkswagen,Beetle 2 DR FWD,2016,4.3,4,5,4,False
+Volkswagen,Golf 2 DR FWD,2015,4.3,4,5,4,False
+Volkswagen,Beetle 2 DR FWD,2014,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2014,4.3,4,5,4,False
+Volkswagen,Jetta HEV 4 DR FWD,2014,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD,2014,4.7,5,5,4,False
+Volkswagen,Golf 4 DR FWD,2016,4.3,4,5,4,False
+Volkswagen,Golf GTI 4 DR FWD,2016,4.3,4,5,4,False
+Volkswagen,Golf R 4 DR AWD,2016,4.3,4,5,4,False
+Volkswagen,Golf Sportwagen SW FWD,2016,4.3,4,5,4,False
+Volkswagen,Beetle 2 DR FWD,2017,4.3,4,5,4,False
+Volkswagen,Golf 4 DR FWD,2017,4.3,4,5,4,False
+Volkswagen,Golf GTI 2 DR FWD,2017,4.3,4,5,4,False
+Volkswagen,Golf GTI 4 DR FWD,2017,4.3,4,5,4,False
+Volkswagen,Golf R 4 DR AWD,2017,4.3,4,5,4,False
+Volkswagen,Golf Sportwagen SW FWD,2017,4.3,4,5,4,False
+Volkswagen,Golf Sportwagen SW AWD,2017,4.3,4,5,4,False
+Volkswagen,Alltrack SW AWD,2017,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2017,4.3,4,5,4,False
+Volkswagen,Jetta GLI 4 DR FWD,2017,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD,2017,4.3,4,5,4,False
+Volkswagen,Golf 2 DR FWD,2016,4.3,4,5,4,False
+Volkswagen,Golf GTI 2 DR FWD,2016,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD,2016,4.3,4,5,4,False
+Volkswagen,Alltrack SW AWD,2018,4.3,4,5,4,False
+Volkswagen,Golf 4 DR FWD,2018,4.3,4,5,4,False
+Volkswagen,Golf GTI 4 DR FWD,2018,4.3,4,5,4,False
+Volkswagen,Golf R 4 DR AWD,2018,4.3,4,5,4,False
+Volkswagen,Golf Sportwagen SW FWD,2018,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2018,4.3,4,5,4,False
+Volkswagen,Jetta GLI 4 DR FWD,2018,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD,2018,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD,2020,4.3,4,4,5,True
+Volkswagen,Atlas Cross Sport SUV FWD,2020,4.3,4,5,4,False
+Volkswagen,Golf 4 DR FWD,2020,4.3,4,5,4,False
+Volkswagen,Golf GTI 4 DR FWD,2020,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2020,4.3,4,5,4,False
+Volkswagen,Jetta GLI 4 DR FWD,2020,4.3,4,5,4,False
+Volkswagen,Tiguan SUV FWD,2020,4.3,4,4,5,True
+Volkswagen,Atlas Cross Sport SUV AWD,2020,4.3,4,5,4,False
+Volkswagen,Tiguan SUV AWD,2020,4.3,4,4,5,True
+Volkswagen,Alltrack SW AWD,2019,4.3,4,5,4,False
+Volkswagen,Golf 4 DR FWD,2019,4.3,4,5,4,False
+Volkswagen,Golf GTI 4 DR FWD,2019,4.3,4,5,4,False
+Volkswagen,Golf R 4 DR AWD,2019,4.3,4,5,4,False
+Volkswagen,Golf Sportwagen SW FWD,2019,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2019,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD,2019,4.3,4,5,4,False
+Volkswagen,Tiguan SUV AWD,2019,4.3,4,4,5,True
+Volkswagen,Tiguan SUV FWD,2019,4.3,4,4,5,True
+Volkswagen,Atlas SUV FWD,2021,4.3,4,5,4,False
+Volkswagen,Atlas Cross Sport SUV FWD,2021,4.3,4,5,4,False
+Volkswagen,Golf 4 DR FWD,2021,4.3,4,5,4,False
+Volkswagen,Golf GTI 4 DR FWD,2021,4.3,4,5,4,False
+Volkswagen,ID.4 SUV RWD,2021,4.7,5,5,4,False
+Volkswagen,Jetta 4 DR FWD,2021,4.3,4,5,4,False
+Volkswagen,Jetta GLI 4 DR FWD,2021,4.3,4,5,4,False
+Volkswagen,Passat 4 DR FWD Early Release,2021,4.3,4,4,5,True
+Volkswagen,Tiguan SUV FWD,2021,4.3,4,4,5,True
+Volkswagen,Atlas SUV AWD,2021,4.3,4,5,4,False
+Volkswagen,Atlas Cross Sport SUV AWD,2021,4.3,4,5,4,False
+Volkswagen,ID.4 SUV AWD,2021,4.7,5,5,4,False
+Volkswagen,Tiguan SUV AWD,2021,4.3,4,4,5,True
+Volkswagen,Atlas SUV FWD,2022,4.3,4,5,4,False
+Volkswagen,Atlas Cross Sport SUV FWD,2022,4.3,4,5,4,False
+Volkswagen,ID.4 SUV RWD,2022,4.7,5,5,4,False
+Volkswagen,Jetta 4 DR FWD,2022,4.3,4,5,4,False
+Volkswagen,Jetta GLI 4 DR FWD,2022,4.3,4,5,4,False
+Volkswagen,Atlas SUV AWD,2022,4.3,4,5,4,False
+Volkswagen,Atlas Cross Sport SUV AWD,2022,4.3,4,5,4,False
+Volkswagen,ID.4 SUV AWD,2022,4.7,5,5,4,False
+Volkswagen,Atlas SUV FWD,2023,4.3,4,5,4,False
+Volkswagen,Atlas SUV AWD,2023,4.3,4,5,4,False
+Volkswagen,Atlas Cross Sport SUV FWD,2023,4.3,4,5,4,False
+Volkswagen,Atlas Cross Sport SUV AWD,2023,4.3,4,5,4,False
+Volkswagen,ID.4 SUV RWD,2023,4.7,5,5,4,False
+Volkswagen,ID.4 SUV AWD,2023,4.7,5,5,4,False
+Volkswagen,Jetta 4 DR FWD,2023,4.3,4,5,4,False
+Volkswagen,Jetta GLI 4 DR FWD,2023,4.3,4,5,4,False
+Volkswagen,Tiguan Later Release SUV FWD,2018,4.3,4,4,5,True
+Volkswagen,Tiguan Later Release SUV AWD,2018,4.3,4,4,5,True
+Volkswagen,Atlas SUV AWD,2024,4.3,4,5,4,False
+Volkswagen,Atlas SUV FWD,2024,4.3,4,5,4,False
+Volkswagen,Atlas Cross Sport SUV AWD,2024,4.3,4,5,4,False
+Volkswagen,Atlas Cross Sport SUV FWD,2024,4.3,4,5,4,False
+Volkswagen,ID.4 SUV AWD,2024,4.7,5,5,4,False
+Volkswagen,ID.4 SUV RWD,2024,4.7,5,5,4,False
+Volkswagen,Jetta 4 DR FWD,2024,4.3,4,5,4,False
+Volkswagen,Jetta GLI 4 DR FWD,2024,4.3,4,5,4,False
+Volkswagen,Atlas SUV AWD,2018,4.7,5,5,4,False
+Volkswagen,Atlas SUV FWD,2018,4.7,5,5,4,False
+Volkswagen,Atlas SUV FWD,2020,4.7,5,5,4,False
+Volkswagen,Atlas SUV AWD,2020,4.7,5,5,4,False
+Volkswagen,Atlas SUV AWD,2019,4.7,5,5,4,False
+Volkswagen,Atlas SUV FWD,2019,4.7,5,5,4,False
+Volkswagen,Jetta 4 DR FWD,2011,4.3,4,5,4,False
+Volkswagen,Beetle 2 DR FWD,2012,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2012,4.3,4,5,4,False
+Volkswagen,Jetta 4 DR FWD,2013,4.3,4,5,4,False
+Volkswagen,Jetta HEV 4 DR FWD,2013,4.3,4,5,4,False
+Volkswagen,Tiguan SUV FWD Early Release,2013,4.0,3,5,4,False
+Volkswagen,Tiguan SUV AWD Early Release,2013,4.0,3,5,4,False
+Volkswagen,Tiguan SUV AWD,2015,4.0,3,5,4,False
+Volkswagen,Tiguan SUV FWD,2015,4.0,3,5,4,False
+Volkswagen,Tiguan SUV AWD,2016,4.0,3,5,4,False
+Volkswagen,Tiguan SUV FWD,2016,4.0,3,5,4,False
+Volkswagen,Tiguan SUV FWD Later Release,2013,4.0,3,5,4,False
+Volkswagen,Tiguan SUV AWD Later Release,2013,4.0,3,5,4,False
+Volkswagen,Tiguan SUV AWD,2014,4.0,3,5,4,False
+Volkswagen,Tiguan SUV FWD,2014,4.0,3,5,4,False
+Volkswagen,Tiguan SUV FWD,2017,4.0,3,5,4,False
+Volkswagen,Tiguan SUV AWD,2017,4.0,3,5,4,False
+Volkswagen,Tiguan SUV AWD,2018,4.3,4,4,5,True
+Volkswagen,Tiguan SUV FWD,2018,4.3,4,4,5,True
+Volkswagen,Passat 4 DR FWD Later Release,2021,4.0,3,5,4,False
+Volkswagen,Passat 4 DR FWD,2022,4.0,3,5,4,False
+Volkswagen,Taos SUV FWD,2022,4.3,4,5,4,False
+Volkswagen,Taos SUV AWD,2022,4.3,4,5,4,False
+Volkswagen,Taos SUV FWD,2023,4.3,4,5,4,False
+Volkswagen,Taos SUV AWD,2023,4.3,4,5,4,False
+Volkswagen,Tiguan SUV FWD,2023,4.3,4,4,5,True
+Volkswagen,Tiguan SUV AWD,2023,4.3,4,4,5,True
+Volkswagen,Taos SUV FWD,2024,4.3,4,5,4,False
+Volkswagen,Taos SUV AWD,2024,4.3,4,5,4,False
+Volkswagen,Tiguan SUV FWD,2024,4.3,4,4,5,True
+Volkswagen,Tiguan SUV AWD,2024,4.3,4,4,5,True
+Volvo,XC60 SUV AWD,2011,4.7,5,5,4,False
+Volvo,XC60 SUV FWD,2011,4.7,5,5,4,False
+Volvo,S60 4 DR FWD,2012,5.0,5,5,5,False
+Volvo,XC60 SUV FWD,2012,4.7,5,5,4,False
+Volvo,S60 4 DR AWD,2012,5.0,5,5,5,False
+Volvo,XC60 SUV AWD,2012,4.7,5,5,4,False
+Volvo,S60 4 DR FWD,2013,5.0,5,5,5,False
+Volvo,S60 4 DR AWD,2013,5.0,5,5,5,False
+Volvo,XC60 SUV AWD,2013,4.7,5,5,4,False
+Volvo,XC60 SUV FWD,2013,4.7,5,5,4,False
+Volvo,S60 4 DR AWD,2015,5.0,5,5,5,False
+Volvo,S60 4 DR FWD,2015,5.0,5,5,5,False
+Volvo,XC60 SUV AWD,2015,4.7,5,5,4,False
+Volvo,XC60 SUV FWD,2015,4.7,5,5,4,False
+Volvo,S60I 4 DR FWD,2016,5.0,5,5,5,False
+Volvo,S60 4 DR AWD,2016,5.0,5,5,5,False
+Volvo,S60 4 DR FWD,2016,5.0,5,5,5,False
+Volvo,XC60 SUV AWD,2016,4.7,5,5,4,False
+Volvo,XC60 SUV FWD,2016,4.7,5,5,4,False
+Volvo,XC60 SUV AWD,2014,4.7,5,5,4,False
+Volvo,XC60 SUV FWD,2014,4.7,5,5,4,False
+Volvo,S60 4 DR FWD,2014,5.0,5,5,5,False
+Volvo,S60 4 DR AWD,2014,5.0,5,5,5,False
+Volvo,XC90 T6 SUV AWD,2016,4.7,5,5,4,False
+Volvo,XC90 T8 SUV AWD,2016,4.7,5,5,4,False
+Volvo,S60I 4 DR AWD,2016,5.0,5,5,5,False
+Volvo,S60 4 DR AWD,2017,5.0,5,5,5,False
+Volvo,S60 4 DR FWD,2017,5.0,5,5,5,False
+Volvo,S60I 4 DR FWD,2017,5.0,5,5,5,False
+Volvo,S60I 4 DR AWD,2017,5.0,5,5,5,False
+Volvo,XC60 SUV AWD,2017,4.7,5,5,4,False
+Volvo,XC60 SUV FWD,2017,4.7,5,5,4,False
+Volvo,XC90 T5 SUV AWD,2017,4.7,5,5,4,False
+Volvo,XC90 T8 SUV AWD,2017,4.7,5,5,4,False
+Volvo,XC90 T6 SUV AWD,2017,4.7,5,5,4,False
+Volvo,XC90 T5 SUV AWD,2016,4.7,5,5,4,False
+Volvo,XC90 T5 SUV AWD,2019,4.7,5,5,4,False
+Volvo,XC90 T6 SUV AWD,2019,4.7,5,5,4,False
+Volvo,XC90 T8 SUV AWD,2019,4.7,5,5,4,False
+Volvo,S60 4 DR FWD,2018,5.0,5,5,5,False
+Volvo,S60 4 DR AWD,2018,5.0,5,5,5,False
+Volvo,S60I 4 DR AWD,2018,5.0,5,5,5,False
+Volvo,S60I 4 DR FWD,2018,5.0,5,5,5,False
+Volvo,XC90 T5 SUV AWD,2018,4.7,5,5,4,False
+Volvo,XC90 T6 SUV AWD,2018,4.7,5,5,4,False
+Volvo,XC90 T8 SUV AWD,2018,4.7,5,5,4,False
+Volvo,S60 T5 4 DR FWD,2020,4.7,4,5,5,False
+Volvo,S60 T6 4 DR AWD,2020,4.7,4,5,5,False
+Volvo,V60 T5 SW FWD,2020,4.7,4,5,5,False
+Volvo,V60 CC T5 SW AWD,2020,4.7,4,5,5,False
+Volvo,XC40 T5 SUV AWD,2020,4.7,5,5,4,False
+Volvo,XC40 T4 SUV FWD,2020,4.7,5,5,4,False
+Volvo,XC60 T5 SUV FWD,2020,4.7,5,5,4,False
+Volvo,XC60 T5 SUV AWD,2020,4.7,5,5,4,False
+Volvo,XC60 T6 SUV AWD,2020,4.7,5,5,4,False
+Volvo,XC90 T5 SUV FWD,2020,4.7,5,5,4,False
+Volvo,XC90 T5 SUV AWD,2020,4.7,5,5,4,False
+Volvo,XC90 T6 SUV AWD,2020,4.7,5,5,4,False
+Volvo,XC90 T8 SUV AWD,2020,4.7,5,5,4,False
+Volvo,S60 T5 4 DR FWD,2021,4.7,4,5,5,False
+Volvo,S60 T5 4 DR AWD,2021,4.7,4,5,5,False
+Volvo,S60 T6 4 DR AWD,2021,4.7,4,5,5,False
+Volvo,V60 T5 SW FWD,2021,4.7,4,5,5,False
+Volvo,V60 T6 SW AWD,2021,4.7,4,5,5,False
+Volvo,V60 CC T5 SW AWD,2021,4.7,4,5,5,False
+Volvo,XC40 T5 SUV AWD,2021,4.7,5,5,4,False
+Volvo,XC40 T4 SUV FWD,2021,4.7,5,5,4,False
+Volvo,XC40 T4 SUV AWD,2021,4.7,5,5,4,False
+Volvo,XC60 T5 SUV FWD,2021,4.7,5,5,4,False
+Volvo,XC60 T5 SUV AWD,2021,4.7,5,5,4,False
+Volvo,XC60 T6 SUV AWD,2021,4.7,5,5,4,False
+Volvo,XC90 T5 SUV FWD,2021,4.7,5,5,4,False
+Volvo,XC90 T5 SUV AWD,2021,4.7,5,5,4,False
+Volvo,XC90 T6 SUV AWD,2021,4.7,5,5,4,False
+Volvo,XC90 T8 SUV AWD,2021,4.7,5,5,4,False
+Volvo,S60 B5 FWD 4 DR FWD,2022,4.7,4,5,5,False
+Volvo,S60 B5 AWD 4 DR AWD,2022,4.7,4,5,5,False
+Volvo,S60 T6 AWD 4 DR AWD,2022,4.7,4,5,5,False
+Volvo,XC40 T5 AWD SUV AWD,2022,4.7,5,5,4,False
+Volvo,XC40 T4 FWD SUV FWD,2022,4.7,5,5,4,False
+Volvo,XC60 B5 FWD SUV FWD,2022,4.7,5,5,4,False
+Volvo,XC60 B5 AWD SUV AWD,2022,4.7,5,5,4,False
+Volvo,XC60 B6 AWD SUV AWD,2022,4.7,5,5,4,False
+Volvo,XC90 T5 FWD SUV FWD,2022,4.7,5,5,4,False
+Volvo,XC90 T5 AWD SUV AWD,2022,4.7,5,5,4,False
+Volvo,XC90 T6 AWD SUV AWD,2022,4.7,5,5,4,False
+Volvo,XC90 T8 Recharge SUV AWD,2022,4.7,5,5,4,False
+Volvo,V60 CC T5 AWD SW AWD,2022,4.7,4,5,5,False
+Volvo,S60 B5 4 DR FWD,2023,4.7,4,5,5,False
+Volvo,S60 B5 4 DR AWD,2023,4.7,4,5,5,False
+Volvo,XC40 B5 SUV AWD,2023,4.7,5,5,4,False
+Volvo,XC40 B4 SUV FWD,2023,4.7,5,5,4,False
+Volvo,XC60 B5 SUV FWD,2023,4.7,5,5,4,False
+Volvo,XC60 B5 SUV AWD,2023,4.7,5,5,4,False
+Volvo,XC60 B6 SUV AWD,2023,4.7,5,5,4,False
+Volvo,XC90 B5 SUV AWD,2023,4.7,5,5,4,False
+Volvo,XC90 B6 SUV AWD,2023,4.7,5,5,4,False
+Volvo,XC90 Recharge T8 PHEV SUV AWD,2023,4.7,5,5,4,False
+Volvo,V60 Cross Country B5 SW AWD,2023,4.7,4,5,5,False
+Volvo,XC40 B5 SUV AWD,2024,4.7,5,5,4,False
+Volvo,XC60 B5 SUV AWD,2024,4.7,5,5,4,False
+Volvo,XC90 B5 SUV AWD,2024,4.7,5,5,4,False
+Volvo,XC90 B6 SUV AWD,2024,4.7,5,5,4,False
+Volvo,XC90 Recharge SUV AWD,2024,4.7,5,5,4,False
+Volvo,S60 B5 4 DR FWD,2024,4.7,4,5,5,False
+Volvo,S60 B5 4 DR AWD,2024,4.7,4,5,5,False
+Volvo,V60 Cross Country B5 SW AWD,2024,4.7,4,5,5,False
