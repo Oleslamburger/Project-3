@@ -215,11 +215,27 @@ with open(csvpath, encoding='UTF-8') as csvfile:
             frontal_crash = row[4]
             side_crash = row[5]
             rollover = row[6]
-            safety_concerns = row[7]
+            safety_concerns = row[7].upper()
+            year_make_model = year+make+base_model
+            
+
+            #Insert values directly into Ratings
+            
+            insertRatings = '''INSERT OR IGNORE INTO Ratings (ymm,year_make_model, make, model, base_model, model_year, overall_rating, frontal_crash,
+                                side_crash, rollover, safety_concerns) VALUES (?,?,?,?,?,?,?,?,?,?,?)'''
+            valuesRatings = (ymm, year_make_model, make, model, base_model, year, overall_rating, frontal_crash, side_crash, rollover, safety_concerns)
+            cursor.execute(insertRatings,valuesRatings)
+            #Insert only unique values into Vehicles
+            
+            insertVehicles = '''INSERT OR IGNORE INTO Vehicles (year_make_model,make,base_model,model_year) VALUES (?,?,?,?)'''
+            valuesVehicles = (year_make_model, make, base_model, year)
+            cursor.execute(insertVehicles,valuesVehicles)
+            #commit changes
+            connection.commit()
 
         ##### Use Regex to get models with unique naming conventions
 
-        #get names of vehicles where models only occupy the first word of a Text
+        #get names of vehicles where models only occupy the first word of a string
             
         elif row[0]=='Jeep' or row[0] == 'Hyundai' or row[0] == 'Volkswagen':
             ymm = str(row[2])+row[0]+row[1]
@@ -230,28 +246,29 @@ with open(csvpath, encoding='UTF-8') as csvfile:
             frontal_crash = row[4]
             side_crash = row[5]
             rollover = row[6]
-            safety_concerns = row[7]
+            safety_concerns = row[7].upper()
             base_model_pattern = re.compile(r'(.*?\b(?:(Cherokee|Fe|R|GTI|GLI|Sportwagen|Sport))\b)')
             match = base_model_pattern.search(row[1])
             if match:
                 base_model = str(match.group()).upper()
+                year_make_model = str(row[2])+row[0].upper()+base_model.replace(" ","")
             else:
                 base_model = row[1].split(' ')[0].upper()
-        year_make_model = str(row[2])+row[0].upper()+base_model.replace(" ","")
-        #Insert values directly into Ratings
-        
-        insertRatings = '''INSERT OR IGNORE INTO Ratings (ymm,year_make_model, make, model, base_model, model_year, overall_rating, frontal_crash,
-                            side_crash, rollover, safety_concerns) VALUES (?,?,?,?,?,?,?,?,?,?,?)'''
-        valuesRatings = (ymm, year_make_model, make, model, base_model, year, overall_rating, frontal_crash, side_crash, rollover, safety_concerns)
-        cursor.execute(insertRatings,valuesRatings)
-        #Insert only unique values into Vehicles
-        
-        insertVehicles = '''INSERT OR IGNORE INTO Vehicles (year_make_model,make,base_model,model_year) VALUES (?,?,?,?)'''
-        valuesVehicles = (year_make_model, make, base_model, year)
-        cursor.execute(insertVehicles,valuesVehicles)
-        #commit changes
-        connection.commit()
-
+                year_make_model = str(row[2])+row[0].upper()+base_model.replace(" ","")
+            
+            #Insert values directly into Ratings
+            
+            insertRatings = '''INSERT OR IGNORE INTO Ratings (ymm,year_make_model, make, model, base_model, model_year, overall_rating, frontal_crash,
+                                side_crash, rollover, safety_concerns) VALUES (?,?,?,?,?,?,?,?,?,?,?)'''
+            valuesRatings = (ymm, year_make_model, make, model, base_model, year, overall_rating, frontal_crash, side_crash, rollover, safety_concerns)
+            cursor.execute(insertRatings,valuesRatings)
+            #Insert only unique values into Vehicles
+            
+            insertVehicles = '''INSERT OR IGNORE INTO Vehicles (year_make_model,make,base_model,model_year) VALUES (?,?,?,?)'''
+            valuesVehicles = (year_make_model, make, base_model, year)
+            cursor.execute(insertVehicles,valuesVehicles)
+            #commit changes
+            connection.commit()
 
 #delete brands from db that have not been properly cleaned yet
 
