@@ -5,7 +5,7 @@ We employed covert web scraping techniques to extract safety rating data from NH
 
 The core of our project lies in ETL (Extract, Transform, Load) workflows, where raw data undergoes transformation. The ETL script extracts and transforms data from the web before loading it into the SQLite database, enhancing data integrity and usability.
 
-## Instructions on how to use and interact with the project
+
 
 ## At least one paragraph summarizing efforts for ethical considerations made in the project
 All data was collected from the NHTSA website according and followed the NHTSA’s terms of use. The NHTSA is a government website and all information collected was public. Since the data was all collected in regards to vehicles, their ratings, recalls, and complaints, in nature, the data does not infringe on personal privacy nor does it exhibit algorithmic bias.
