@@ -166,27 +166,27 @@ cursor = connection.cursor()
 # Create Ratings Table
 
 Table1= """CREATE TABLE IF NOT EXISTS
-Ratings(ymm STRING PRIMARY KEY,year_make_model STRING, make STRING ,model STRING ,model_year INTEGER, base_model STRING, overall_rating INTEGER,
-frontal_crash INTEGER, side_crash INTEGER, rollover INTEGER, safety_concerns STRING)"""
+Ratings(ymm Text PRIMARY KEY,year_make_model Text, make Text ,model Text ,model_year INTEGER, base_model Text, overall_rating INTEGER,
+frontal_crash INTEGER, side_crash INTEGER, rollover INTEGER, safety_concerns Text)"""
 
 #Create Recalls Table
 
 Table2="""CREATE TABLE IF NOT EXISTS
-Recalls(year_make_model STRING, manufacturer STRING, make STRING ,base_model STRING, model_year INTEGER, NHTSTA_campaign_number STRING,
-parkIt BOOLEAN, parkOutside BOOLEAN, NHTSA_action_number STRING,report_received_date DATE, component STRING, summary STRING,
-consequence STRING, remedy STRING, notes STRING)"""
+Recalls(year_make_model Text, manufacturer Text, make Text ,base_model Text, model_year INTEGER, NHTSTA_campaign_number Text,
+parkIt BOOLEAN, parkOutside BOOLEAN, NHTSA_action_number Text,report_received_date DATE, component Text, summary Text,
+consequence Text, remedy Text, notes Text)"""
 
 #Create Complaints Table
 
 Table3="""CREATE TABLE IF NOT EXISTS
-Complaints(year_make_model STRING, manufacturer STRING, make STRING ,base_model STRING, model_year INTEGER, type STRING,
+Complaints(year_make_model Text, manufacturer Text, make Text ,base_model Text, model_year INTEGER, type Text,
 ODI_number INTEGER, crash BOOLEAN, fire BOOLEAN, number_of_injuries INTEGER, number_of_deaths INTEGER, date_of_incident DATE,
-date_complaint_filed DATE, vin STRING, components STRING, summary STRING)"""
+date_complaint_filed DATE, vin Text, components Text, summary Text)"""
 
 #Create Vehicles Table
 
 Table4="""CREATE TABLE IF NOT EXISTS
-Vehicles(year_make_model STRING PRIMARY KEY, make STRING, base_model STRING, model_year INTEGER)"""
+Vehicles(year_make_model Text PRIMARY KEY, make Text, base_model Text, model_year INTEGER)"""
 
 # Execute the variables above
 
@@ -219,7 +219,7 @@ with open(csvpath, encoding='UTF-8') as csvfile:
 
         ##### Use Regex to get models with unique naming conventions
 
-        #get names of vehicles where models only occupy the first word of a string
+        #get names of vehicles where models only occupy the first word of a Text
             
         elif row[0]=='Jeep' or row[0] == 'Hyundai' or row[0] == 'Volkswagen':
             ymm = str(row[2])+row[0]+row[1]
